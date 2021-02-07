@@ -41,6 +41,7 @@ svg {
 
 a {
   position: relative;
+  color: var(--color-back4);
 
   &::before {
     content: "";
@@ -59,13 +60,14 @@ a {
   &:visited {
     font-weight: var(--font-bold);
     text-decoration: none;
-    color: var(--color-back3);
+    // color: var(--color-back3);
+    color: var(--color-back4);
   }
 
   &:hover,
   &:active,
   &:focus {
-    color: var(--color-back4);
+    color: white;
 
     &::before {
       transform: scaleX(1);

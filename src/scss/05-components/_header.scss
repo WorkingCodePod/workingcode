@@ -1,10 +1,8 @@
 // page header
 header {
-
   background-color: var(--color-back2);
 
   .logo {
-
     display: inline-block;
     font-size: 2rem;
     letter-spacing: -0.1vw;
@@ -12,17 +10,17 @@ header {
     margin-inline-start: 0.5rem;
 
     a {
-      color: var(--color-back4);
+      color: white;
+      padding: 10px;
+      display: block;
 
       &::before {
         display: none;
       }
     }
-
   }
 
   nav {
-
     float: right;
     margin-inline-end: 1rem;
     margin-block-end: 1rem;
@@ -32,7 +30,8 @@ header {
       gap: 1.5rem;
       @include resetlist;
 
-      a, strong {
+      a,
+      strong {
         position: relative;
         display: block;
         padding-block-start: 1rem;
@@ -66,5 +65,4 @@ header {
       object-fit: cover;
     }
   }
-
 }
