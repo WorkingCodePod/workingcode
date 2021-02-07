@@ -37,3 +37,7 @@ Every patron, at every tier, gets a lifetime invitation to our Discord. Even if 
 <h3 id="aftershow"><pre>$Aftershow</pre></h3>
 
 After we end every episode we keep the microphones recording for another 10-20 minutes and talk about... well, anything we want to! Topics there are random and everything is fair game! Sometimes it's secret stuff, sometimes it's completely random, sometimes we'll tease it during the episode. Like a box of chocolates with no map, you never know what you're going to get!
+
+For instance, this happened:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">On the surprises I get when recording <a href="https://twitter.com/WorkingCodePod?ref_src=twsrc%5Etfw">@WorkingCodePod</a> with these guys <a href="https://twitter.com/AdamTuttle?ref_src=twsrc%5Etfw">@AdamTuttle</a>, <a href="https://twitter.com/BenNadel?ref_src=twsrc%5Etfw">@BenNadel</a>, and <a href="https://twitter.com/timcunningham71?ref_src=twsrc%5Etfw">@timcunningham71</a> <a href="https://t.co/bAWD4DmW9F">pic.twitter.com/bAWD4DmW9F</a></p>&mdash; Carol (@k_Roll242) <a href="https://twitter.com/k_Roll242/status/1357521290589073411?ref_src=twsrc%5Etfw">February 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
