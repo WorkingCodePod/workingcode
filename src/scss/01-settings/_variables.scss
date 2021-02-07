@@ -33,7 +33,7 @@
 
 // colors: user set
 body.light {
-  @include themelight;
+  @include themedark;
 }
 
 body.dark {
