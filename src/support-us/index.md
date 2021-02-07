@@ -34,6 +34,21 @@ Every patron, at every tier, gets a lifetime invitation to our Discord. Even if 
 2. Middle-tier and higher patrons get a private early-access feed where we post our episodes as soon as they're ready, possibly as much as a week early! This feed also includes our [`$Aftershow`](#aftershow).
 3. Top-tier supporters are truly embodying the spirit of [Patronage](https://en.wikipedia.org/wiki/Patronage) and helping fund the show in a way that sustains us long-term. It's possible that there's nothing we could do to repay this kindness, but we're going to do our best! We'll read your name (or a surrogate moniker of your choosing) on every show, and whenever we do something new and exciting (merch? special goodies?) these fine folks will get it all first.
 
+### What do you spend the money on?
+
+_That is a fantastic question._ We want you to know that we're investing your donations into making a better podcast for you. To date we've spent listener donations on:
+
+- This domain
+- Pro audio production for intro/outro
+- A subscription to [riverside.fm](https://riverside.fm) which makes it easy for us to get a high quality recording (our first few episodes were recorded on Zoom, and there's a noticeable difference!)
+
+Here are a few things that we'd like to do with additional money when it's available:
+
+- Repaying hosts for investing their personal money in good quality microphones
+- Paying a professional editor
+- Transcripts
+- And more! (If you have ideas, please [reach out and let us know](mailto:workingcodepod@gmail.com)!)
+
 <h3 id="aftershow"><pre>$Aftershow</pre></h3>
 
 After we end every episode we keep the microphones recording for another 10-20 minutes and talk about... well, anything we want to! Topics there are random and everything is fair game! Sometimes it's secret stuff, sometimes it's completely random, sometimes we'll tease it during the episode. Like a box of chocolates with no map, you never know what you're going to get!
