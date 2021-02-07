@@ -1,10 +1,14 @@
 ---
 title: Working Code Podcast
 description: A podcast about coding, but not about code.
-layout: page.njk
+layout: homepage.njk
 eleventyNavigation:
   key: home
-  order: 100
+  order: 1
+pagination:
+  data: collections.latest
+  alias: pagelist
+  reverse: true
+  size: 10
+blockpagination: true
 ---
-
-this is the home page content

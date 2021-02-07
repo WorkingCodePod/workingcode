@@ -35,6 +35,14 @@ module.exports = (config) => {
       .filter((p) => dev || (!p.data.draft && p.date <= now))
   );
 
+  config.addCollection("latest", (collection) =>
+    collection
+      .getFilteredByGlob("./src/episodes/*.md")
+      .filter((p) => dev || (!p.data.draft && p.date <= now))
+      .reverse()
+      .slice(0, 1)
+  );
+
   /* --- WATCH FOLDERS --- */
   config.addWatchTarget("./src/scss/");
   config.addWatchTarget("./src/js/");
