@@ -16,7 +16,7 @@ One of the best things you can do to support the show is help us get more listen
 
 ## Make a one-time donation
 
-If monthly donations aren't your thing and you'd rather make a one-time donation, email us at <a href="mailto:workingcodepod@gmail.com">workingcodepod@gmail.com</a> and we'll figure out the best mutually agreeable tool.
+If you want to help us out financially, but monthly donations aren't your thing, email us at <a href="mailto:workingcodepod@gmail.com">workingcodepod@gmail.com</a> and we'll figure out the best mutually agreeable tool.
 
 ## Become a Patron
 
@@ -38,21 +38,22 @@ Every patron, at every tier, gets a lifetime invitation to our Discord. Even if 
 
 _That is a fantastic question._ We want you to know that we're investing your donations into making a better podcast for you. To date we've spent listener donations on:
 
-- This domain
+- This domain (workingcode.dev)
 - Pro audio production for intro/outro
 - A subscription to [riverside.fm](https://riverside.fm) which makes it easy for us to get a high quality recording (our first few episodes were recorded on Zoom, and there's a noticeable difference!)
 
 Here are a few things that we'd like to do with additional money when it's available:
 
 - Repaying hosts for investing their personal money in good quality microphones
-- Paying a professional editor
+- Paying for a pro editor
 - Transcripts
 - And more! (If you have ideas, please [reach out and let us know](mailto:workingcodepod@gmail.com)!)
 
 <h3 id="aftershow"><pre>$Aftershow</pre></h3>
 
-After we end every episode we keep the microphones recording for another 10-20 minutes and talk about... well, anything we want to! Topics there are random and everything is fair game! Sometimes it's secret stuff, sometimes it's completely random, sometimes we'll tease it during the episode. Like a box of chocolates with no map, you never know what you're going to get!
+After we end every episode we keep the microphones recording for another 10-20 minutes and talk about... well, anything we want to! Topics there are random and everything is fair game! Sometimes it's secret stuff, sometimes it's completely random, sometimes we'll tease it during the episode. Like a box of chocolates with no key, you never know what you're going to get!
 
 For instance, this happened:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">On the surprises I get when recording <a href="https://twitter.com/WorkingCodePod?ref_src=twsrc%5Etfw">@WorkingCodePod</a> with these guys <a href="https://twitter.com/AdamTuttle?ref_src=twsrc%5Etfw">@AdamTuttle</a>, <a href="https://twitter.com/BenNadel?ref_src=twsrc%5Etfw">@BenNadel</a>, and <a href="https://twitter.com/timcunningham71?ref_src=twsrc%5Etfw">@timcunningham71</a> <a href="https://t.co/bAWD4DmW9F">pic.twitter.com/bAWD4DmW9F</a></p>&mdash; Carol (@k_Roll242) <a href="https://twitter.com/k_Roll242/status/1357521290589073411?ref_src=twsrc%5Etfw">February 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">On the surprises I get when recording <a href="https://twitter.com/WorkingCodePod?ref_src=twsrc%5Etfw">@WorkingCodePod</a> with these guys <a href="https://twitter.com/AdamTuttle?ref_src=twsrc%5Etfw">@AdamTuttle</a>, <a href="https://twitter.com/BenNadel?ref_src=twsrc%5Etfw">@BenNadel</a>, and <a href="https://twitter.com/timcunningham71?ref_src=twsrc%5Etfw">@timcunningham71</a> <a href="https://t.co/bAWD4DmW9F">pic.twitter.com/bAWD4DmW9F</a></p>&mdash; Carol (@k_Roll242) <a href="https://twitter.com/k_Roll242/status/1357521290589073411?ref_src=twsrc%5Etfw">February 5, 2021</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
