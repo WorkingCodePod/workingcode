@@ -27,8 +27,15 @@ header {
 
     ul {
       display: flex;
-      gap: 1.5rem;
       @include resetlist;
+
+      li {
+        margin-left: 1.5rem;
+
+        &:first-child {
+          margin-left: 0;
+        }
+      }
 
       a,
       strong {
