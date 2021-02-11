@@ -8,7 +8,7 @@ eleventyNavigation:
 
 Thanks for your interest in supporting the show! You rock!🤘
 
-We're just happy to have an excuse to talk to each other and share our thoughts with the world. ***Above all else, thank you for listening!***
+We're just happy to have an excuse to talk to each other and share our thoughts with the world. ***Even if you can't do anything listed below, thank you for listening!***
 
 There are lots of ways to support the podcast!
 
