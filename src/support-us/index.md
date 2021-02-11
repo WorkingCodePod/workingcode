@@ -18,20 +18,21 @@ There are lots of ways to support the podcast!
 4. [Shop on Amazon](#amazon)
 5. [Become a Patron](#patreon)
 
-> <h2 id="expenses">What do you spend money on?</h2>
+> <h2 id="expenses">What do you need money for?</h2>
 >
 > _That is a fantastic question._ We want you to know that we're investing your donations into making a better podcast for you. To date we've spent listener donations on:
 >
 > - This domain (workingcode.dev)
-> - Pro audio production for our intro/outro
+> - Pro audio production for our intro & outro
 > - A subscription to [riverside.fm](http://www.riverside.fm/?via=workingcodepod) which makes it easy for us to get a high quality recording (our first few episodes were recorded on Zoom, and there's a noticeable difference!)
 >
 > Here are a few things that we'd like to do with additional money when it's available:
 >
-> - Repaying hosts for investing their personal money in good quality microphones
-> - Paying for a pro editor
+> - Repay hosts for their personal investments in quality microphones
+> - Paying an editor
 > - Transcripts
-> - And more! (If you have requests, please [reach out and let us know](mailto:workingcodepod@gmail.com)!)
+> - And more!
+> - If you have ideas or requests, please [reach out and let us know](mailto:workingcodepod@gmail.com)!
 
 <h2 id="tell-a-friend">Tell a friend</h2>
 
@@ -47,7 +48,7 @@ We're using [Riverside.fm](http://www.riverside.fm/?via=workingcodepod) to recor
 
 If you really do want to start your own podcast, Adam highly recommends [shut up and start talking](http://shutupandstarttalking.com/) by the inimitable [Michael Chan](https://twitter.com/chantastic) of [React Podcast](https://reactpodcast.com/).
 
-...But use our affiliate links. 😉
+...But use our affiliate links below. 😉
 
 <h2 id="amazon">Shop on Amazon</h2>
 

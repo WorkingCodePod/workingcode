@@ -9,7 +9,7 @@ pagination:
   data: collections.post
   alias: pagelist
   reverse: true
-  size: 10
+  size: 100
 ---
 
 Got a topic or a question for discussion? You can [email us](mailto:workingcodepod@gmail.com) or send us a message on [Twitter](https://twitter.com/workingcodepod) or [Instagram](https://instagram.com/workingcodepod).
