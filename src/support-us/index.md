@@ -23,7 +23,7 @@ There are lots of ways to support the podcast!
 > _That is a fantastic question._ We want you to know that we're investing your donations into making a better podcast for you. To date we've spent listener donations on:
 >
 > - This domain (workingcode.dev)
-> - Pro audio production for intro/outro
+> - Pro audio production for our intro/outro
 > - A subscription to [riverside.fm](http://www.riverside.fm/?via=workingcodepod) which makes it easy for us to get a high quality recording (our first few episodes were recorded on Zoom, and there's a noticeable difference!)
 >
 > Here are a few things that we'd like to do with additional money when it's available:
@@ -31,7 +31,7 @@ There are lots of ways to support the podcast!
 > - Repaying hosts for investing their personal money in good quality microphones
 > - Paying for a pro editor
 > - Transcripts
-> - And more! (If you have ideas, please [reach out and let us know](mailto:workingcodepod@gmail.com)!)
+> - And more! (If you have requests, please [reach out and let us know](mailto:workingcodepod@gmail.com)!)
 
 <h2 id="tell-a-friend">Tell a friend</h2>
 
@@ -39,7 +39,7 @@ One of the best things you can do to support the show is help us get more listen
 
 <h2 id="one-time-donation">Make a one-time donation</h2>
 
-If you want to help us out financially, but monthly donations aren't your thing, email us at <a href="mailto:workingcodepod@gmail.com">workingcodepod@gmail.com</a> and we'll figure out the best mutually agreeable tool.
+If you want to help us out financially, but monthly donations aren't your thing, <a href="mailto:workingcodepod@gmail.com">email us</a> and we'll figure out the best mutually agreeable tool.
 
 <h2 id="start-your-podcast">Start your own podcast</h2>
 
@@ -54,8 +54,10 @@ If you really do want to start your own podcast, Adam highly recommends [shut up
 In the unlikely event that you're not familiar with the way Amazon affiliate links work, here's the tl;dr:
 
 - You follow a link to [an amazon product](https://amzn.to/3aRbMqU) with someone's affiliate code baked in. Ours, in this case.
-- Anything you buy on Amazon after clicking that link sends a small percentage of the cost of that item to us, without increasing the price you pay at all. It's usually a percentage or two. (*Anything?!* Yes, anything. Adam has received referral dollars for someone's underwear purchases and he's positive he's never sent out underwear referral links. Yes, we can see what you buy, so, be sure to prank us by buying weird stuff with our referral link! 😜)
+- ***Anything***\* you buy on Amazon after clicking that link sends a small percentage of the cost of that item to us, without increasing the price you pay at all.
 - So if you're already shopping on Amazon anyway, why not [click our link](https://amzn.to/3aRbMqU) and send a few pennies our way?
+
+\* *Anything?!* Yes, anything. Adam has received referral dollars for someone's underwear purchases and he's positive he's never sent out underwear referral links. We can see what you buy, so be sure to prank us by buying all kinds of weird stuff with our referral link! 😜
 
 <h2 id="patreon">Become a Patron</h2>
 
@@ -75,7 +77,7 @@ Every patron, at every tier, gets a lifetime invitation to our Discord. Even if 
 
 <h3 id="aftershow"><pre>$Aftershow</pre></h3>
 
-After we end every episode we keep the microphones recording for another 10-20 minutes and talk about... well, anything we want to! Topics there are random and everything is fair game! Sometimes it's secret stuff, sometimes it's completely random, sometimes we'll tease it during the episode. Like a box of chocolates with no key, you never know what you're going to get!
+After we end each episode we keep the microphones recording for another 10-20 minutes and talk about... well, anything we want to! Topics there are random and everything is fair game! Sometimes it's secret stuff, sometimes it's completely random, sometimes we'll tease it during the episode. Like a box of chocolates with no key, you never know what you're going to get!
 
 For instance, this happened:
 
