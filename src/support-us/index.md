@@ -25,6 +25,7 @@ There are lots of ways to support the podcast!
 > - This domain (workingcode.dev)
 > - Pro audio production for our intro & outro
 > - A subscription to [riverside.fm](http://www.riverside.fm/?via=workingcodepod) which makes it easy for us to get a high quality recording (our first few episodes were recorded on Zoom, and there's a noticeable difference!)
+> - Storage space and backups (5+ hours of audio stored in raw wav every week starts to pile up fast!)
 >
 > Here are a few things that we'd like to do with additional money when it's available:
 >
