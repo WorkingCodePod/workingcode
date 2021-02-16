@@ -1,0 +1,12 @@
+name: Scheduled Netlify Build
+on:
+  schedule:
+    # 07:01 every Wednesday
+    - cron: "1 7 * * 3"
+jobs:
+  build:
+    name: Call Netlify build hook
+    runs-on: ubuntu-latest
+    steps:
+      - name: Curl request
+        run: curl -X POST -d {} ${{ secrets.NETLIFY_BUILD_WEBHOOK }}
