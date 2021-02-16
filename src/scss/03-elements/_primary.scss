@@ -1,0 +1,98 @@
+// default element styles
+html {
+  font-size: var(--font-size);
+}
+
+body {
+  font-family: var(--font-main);
+  font-size: 0.9rem;
+  @include reset;
+  color: var(--color-text1);
+  background-color: var(--color-back1);
+}
+
+h1,
+h2 {
+  font-size: 2rem;
+  margin: 0;
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin-block-start: 1em;
+}
+
+blockquote {
+  margin: 0;
+  padding: 10px 20px;
+  border: 5px solid #3e3e3e;
+
+  h1,
+  h2,
+  h3 {
+    margin-top: 0;
+  }
+}
+
+article li blockquote {
+  border: none;
+  background-color: #1f1f1f;
+  padding: 10px;
+
+  p {
+    margin: 5px 0;
+  }
+}
+
+p {
+  margin-block: 1rem 0;
+}
+
+h1 + p,
+h2 + p {
+  margin-block-start: 0;
+}
+
+svg {
+  display: inline-block;
+  vertical-align: middle;
+  height: 3rem;
+  margin-inline: 4px;
+  fill: var(--color-back4);
+}
+
+a {
+  position: relative;
+  color: var(--color-back4);
+
+  &::before {
+    content: "";
+    position: absolute;
+    bottom: 2px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background-color: var(--color-back4);
+    transform-origin: 0;
+    transform: scaleX(0);
+    transition: transform 0.3s ease-in;
+  }
+
+  &:link,
+  &:visited {
+    font-weight: var(--font-bold);
+    text-decoration: none;
+    // color: var(--color-back3);
+    color: var(--color-back4);
+  }
+
+  &:hover,
+  &:active,
+  &:focus {
+    color: white;
+
+    &::before {
+      transform: scaleX(1);
+    }
+  }
+}

@@ -1,0 +1,28 @@
+@media (max-width: 780px) {
+  .hide-on-small {
+    display: none;
+  }
+
+  header {
+    nav .active {
+      display: none;
+    }
+  }
+
+  main {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+
+  footer {
+    section {
+      width: 100%;
+      padding-top: 4px;
+      padding-bottom: 4px;
+    }
+
+    nav .active {
+      display: none;
+    }
+  }
+}

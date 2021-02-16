@@ -1,0 +1,41 @@
+@mixin themelight {
+  --color-text1: #222;
+  --color-back1: #f1faee;
+  --color-back2: #a8dadc;
+  --color-back3: #457b9d;
+  --color-back4: #1d3557;
+}
+
+@mixin themedark {
+  --color-text1: #dcdcdc;
+  --color-back1: #2b2b2b;
+  --color-back2: #000000;
+  --color-back3: #f0f0f0;
+  --color-back4: #05de43; //#ff6f00;
+}
+
+:root {
+  // fonts
+  --font-main: Roboto, Oxygen-Sans, Ubuntu, Helvetica, sans-serif;
+  --font-size: clamp(1rem, calc(1rem + 0.5vw), 2.5rem);
+  --font-weight: 100;
+  --font-bold: 400;
+  --line-height: 1.5;
+
+  // colors: light theme (default)
+  @include themedark;
+
+  // dark theme (CSS)
+  @media (prefers-color-scheme: dark) {
+    @include themedark;
+  }
+}
+
+// colors: user set
+body.light {
+  @include themedark;
+}
+
+body.dark {
+  @include themedark;
+}

@@ -1,0 +1,53 @@
+// page footer
+footer {
+  background-color: var(--color-back2);
+  border-top: 3px solid var(--color-back4);
+
+  section {
+    padding: 40px;
+    display: block;
+    width: 50%;
+    float: left;
+  }
+
+  #cover-art {
+    img {
+      max-width: 250px;
+      float: right;
+    }
+  }
+
+  .heads-up {
+    font-size: 0.7rem;
+  }
+
+  nav {
+    margin-block: 1em;
+
+    ul {
+      @include resetlist;
+    }
+
+    & > ul {
+      display: flex;
+      justify-content: left;
+
+      li {
+        margin-left: 1.5rem;
+
+        &:first-child {
+          margin-left: 0;
+        }
+      }
+
+      ul a:link {
+        font-weight: var(--font-weight);
+      }
+
+    }
+
+    strong {
+      color: white;
+    }
+  }
+}
