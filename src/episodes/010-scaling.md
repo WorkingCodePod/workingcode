@@ -1,6 +1,6 @@
 ---
 title: '010: Scaling'
-description:
+description: This week, the crew talks about their experience in scaling web application systems; what they have - and _haven't yet_ - had the need to consider; and, how they calculate the return on investment (ROI) when it comes to adding complexity to a potential solution ("innovation tokens", anyone?).
 date: 2021-02-17
 ---
 

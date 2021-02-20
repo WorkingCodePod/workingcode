@@ -1,6 +1,6 @@
 ---
 title: '011: Listener Questions #1'
-description: The crew responds to listener questions and a particularly thorough blog post
+description: The crew responds to listener questions and a particularly scathing blog post in response to episode 9.
 date: 2021-02-24
 ---
 
