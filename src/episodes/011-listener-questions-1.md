@@ -1,7 +1,7 @@
 ---
-title: '010: Scaling'
-description:
-date: 2021-02-17
+title: '011: Listener Questions #1'
+description: The crew responds to listener questions and a particularly thorough blog post
+date: 2021-02-24
 ---
 
 <script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/53780f02-c880-4d05-beb7-40274722cc1f"></script><div class="redcirclePlayer-53780f02-c880-4d05-beb7-40274722cc1f"></div>
