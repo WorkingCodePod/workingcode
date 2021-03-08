@@ -1,7 +1,7 @@
 ---
-title: '013: Do What You Love and You\'ll Never Work a Day In Your Life'
-description: This week, the crew talks about the privilege of being able to choose work that we truly enjoy. Not everyone has this opportunity; and, even when we do, loving your job doesn't always make it feel any less like work.
-date: 2021-03-0310
+title: "013: Do What You Love and You'll Never Work a Day In Your Life"
+description: "This week, the crew talks about the privilege of being able to choose work that we truly enjoy. Not everyone has this opportunity; and, even when we do, loving your job doesn't always make it feel any less like work."
+date: 2021-03-10
 ---
 
 <script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/da182f21-af1c-4ba6-978c-62f95fec0b17"></script><div class="redcirclePlayer-da182f21-af1c-4ba6-978c-62f95fec0b17"></div>
