@@ -1,3 +1,8 @@
+---
+title: Patron Discord Code of Conduct
+description: Code of Conduct for the podcast patron discord server
+---
+
 WCP Discord Code of Conduct
 ===========================
 
