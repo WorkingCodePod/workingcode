@@ -26,7 +26,7 @@ And just when you thought things couldn't get any better, the Working Code Podca
 
 * **Tim's Triumph** - He's launching a skunk works project that is based on a previous skunk works project. It feels a little bit rogue; and a little bit cowboy; but, it also feels kind of amazing and is something that Tim recommends to everyone (assuming that they have some free time to commit).
 
-> **ASIDE**: A "skunks work project" is a secret project that the rest of (or most of) your company doesn't know about until there's a big reveal. These types of projects may _or may not_ be authorized by the company itself.
+> **ASIDE**: A "skunk works project" is a secret project that the rest of (or most of) your company doesn't know about until there's a big reveal. These types of projects may _or may not_ be authorized by the company itself.
 
 ### Notes &amp; Links
 
