@@ -1,6 +1,6 @@
 ---
 title: '019: Makefiles'
-description:
+description: Today, the crew listens to Adam wax poetically about what makes makefiles so great.
 date: 2021-04-21
 ---
 
