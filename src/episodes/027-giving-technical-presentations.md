@@ -1,6 +1,6 @@
 ---
 title: '027: Giving Technical Presentations'
-description: 'Part deep-dive, part story telling, a compelling technical presentation has to present enough information on a topic so as to deliver meaningful take-aways while, at the same time, keeping the information light enough so as not to overwhelm the audience. This week, the crew discusses presentations that they've given. And, shares tips and tricks for making your presentation a real winner!'
+description: 'Part deep-dive, part story telling, a compelling technical presentation has to present enough information on a topic so as to deliver meaningful take-aways while, at the same time, keeping the information light enough so as not to overwhelm the audience. This week, the crew discusses presentations that they''ve given. And, shares tips and tricks for making your presentation a real winner!'
 date: 2021-06-16
 ---
 
