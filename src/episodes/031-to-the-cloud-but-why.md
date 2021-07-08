@@ -1,6 +1,6 @@
 ---
 title: '031: To the Cloud! But Why?'
-description: 'TBD'
+description: 'What is "The Cloud"? Why and when would you choose to use it? And what are the drawbacks and trade-offs?'
 date: 2021-07-14
 ---
 
