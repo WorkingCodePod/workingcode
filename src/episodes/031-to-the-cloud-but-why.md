@@ -1,5 +1,5 @@
 ---
-title: '031: To the Cloud! But Why?'
+title: "031: To the Cloud! But Why?"
 description: 'What is "The Cloud"? Why and when would you choose to use it? And what are the drawbacks and trade-offs?'
 date: 2021-07-14
 ---
@@ -14,7 +14,10 @@ Follow the show! Our website is [workingcode.dev][working-code] and we're [@Work
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
+With audio editing and engineering by [ZCross Media][editor].
+
 [working-code]: https://workingcode.dev/
 [working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
 [working-code-twitter]: https://twitter.com/WorkingCodePod
+[editor]: https://www.zcross.media/

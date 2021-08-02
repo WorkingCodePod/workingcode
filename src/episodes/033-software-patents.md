@@ -1,6 +1,6 @@
 ---
-title: '033: Software Patents'
-description: 'This week, the crew - which has absolutely no legal training whatsoever - talk about patents, copyrights, research & development tax credits, building software, job hopping, and best practices.'
+title: "033: Software Patents"
+description: "This week, the crew - which has absolutely no legal training whatsoever - talk about patents, copyrights, research & development tax credits, building software, job hopping, and best practices."
 date: 2021-07-28
 ---
 
@@ -14,16 +14,18 @@ This week, the crew - **which has absolutely no legal training whatsoever** - ta
 
 ## Notes & Links
 
-* [Software Patent or Copyright: Everything You Need to Know](https://www.upcounsel.com/software-patent-or-copyright)
-* [Legal Notes: What’s the Deal with ReactJS’s Licensing Scheme?](https://www.codemag.com/article/1701041/Legal-Notes-What%E2%80%99s-the-Deal-with-ReactJS%E2%80%99s-Licensing-Scheme)
-* [How to Qualify for R&D Tax Credits: The Four-Part Test](https://taxpointadvisors.com/blog/view/how-to-qualify-for-rd-tax-credits-the-four-part-test)
+- [Software Patent or Copyright: Everything You Need to Know](https://www.upcounsel.com/software-patent-or-copyright)
+- [Legal Notes: What’s the Deal with ReactJS’s Licensing Scheme?](https://www.codemag.com/article/1701041/Legal-Notes-What%E2%80%99s-the-Deal-with-ReactJS%E2%80%99s-Licensing-Scheme)
+- [How to Qualify for R&D Tax Credits: The Four-Part Test](https://taxpointadvisors.com/blog/view/how-to-qualify-for-rd-tax-credits-the-four-part-test)
 
 Follow the show! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
+With audio editing and engineering by [ZCross Media][editor].
 
 [working-code]: https://workingcode.dev/
 [working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
 [working-code-twitter]: https://twitter.com/WorkingCodePod
+[editor]: https://www.zcross.media/

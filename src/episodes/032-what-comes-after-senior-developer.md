@@ -1,5 +1,5 @@
 ---
-title: '032: What Comes After Senior Developer?'
+title: "032: What Comes After Senior Developer?"
 description: 'This week, the crew talks about the career path of web developers; how some positions allow you to be a "force multiplier" and have a bigger impact; and, how dopamine affects your sense of work satisfaction.'
 date: 2021-07-21
 ---
@@ -14,14 +14,17 @@ This week, the crew talks about the career path of web developers; how some posi
 
 ## Notes &amp; Links
 
-* [Sarah Drasner: Engineering Management for the Rest of Us](https://www.engmanagement.dev/)
-* [David J. Schwartz Ph.D.: The Magic of Thinking Big](https://www.audible.com/pd/The-Magic-of-Thinking-Big-Audiobook/B002V1BMPI)
+- [Sarah Drasner: Engineering Management for the Rest of Us](https://www.engmanagement.dev/)
+- [David J. Schwartz Ph.D.: The Magic of Thinking Big](https://www.audible.com/pd/The-Magic-of-Thinking-Big-Audiobook/B002V1BMPI)
 
 Follow the show! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
+With audio editing and engineering by [ZCross Media][editor].
+
 [working-code]: https://workingcode.dev/
 [working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
 [working-code-twitter]: https://twitter.com/WorkingCodePod
+[editor]: https://www.zcross.media/
