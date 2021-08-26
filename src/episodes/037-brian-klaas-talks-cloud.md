@@ -1,5 +1,5 @@
 ---
-title: "036: Brian Klaas Talks Cloud"
+title: "037: Brian Klaas Talks Cloud"
 description: 'Brian Klaas (@Brian_Klaas) is a Senior Technology Officer and instructor at the Johns Hopkins Bloomberg School of Public Health; he runs a team that builds a Learning Management System (LMS) running on a hybrid cloud; he''s been using and extolling the value of Amazon Web Services since 2009; and, he''s a well known and respected speaker and leader within the ColdFusion community. According to him, the overarching value that AWS provides is the outsourcing of "undifferentiated heavy lifting": AWS builds the infrastructure that you don''t want to, allowing your team to focus on your own business-critical product-lines.'
 date: 2021-08-25
 ---
