@@ -1,6 +1,6 @@
 ---
 title: "040: Automaticity Is a Weird Word"
-description: "On today's episode, the crew talks about how they use databases; the role of atomic transactions in the reduction of application complexity; and, whether or not they've ever felt "held back" by the limitations of a relational database management system. Full disclosure, all of the hosts have far more experience with traditional databases when compared to NoSQL databases."
+description: 'On today''s episode, the crew talks about how they use databases; the role of atomic transactions in the reduction of application complexity; and, whether or not they''ve ever felt "held back" by the limitations of a relational database management system. Full disclosure, all of the hosts have far more experience with traditional databases when compared to NoSQL databases.'
 date: 2021-09-15
 ---
 
