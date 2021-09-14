@@ -1,5 +1,5 @@
 ---
-title: "041: The Third Age of JavaScript, with Sean @Swyx Wang"
+title: "041: The Third Age of JavaScript, with Sean @swyx Wang"
 description: "TBD"
 date: 2021-09-22
 ---
