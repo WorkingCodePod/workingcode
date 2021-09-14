@@ -1,20 +1,21 @@
 ---
-title: '006: Hopes for 2021'
+title: "006: Hopes for 2021"
 description: Whether it's taking control of our finances, finding ways to be more active, building up our personal brand, or becoming the blacksmiths that we always knew we could be, the crew shares their personal and professional / technical goals for this burgeoning new year.
 date: 2021-01-20
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/f24dc2c6-5952-4438-b4f6-53bf59783ae0"></script><div class="redcirclePlayer-f24dc2c6-5952-4438-b4f6-53bf59783ae0"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/006-hopes-for-2021/id1544142288?i=1000505914585"></iframe>
 
 Oxford Dictionary included **"doomscrolling"** in their "word of the year" report for 2020; we're all feeling pandemic fatigue; many people still believe in wide-spread election fraud; the Georgia senate race was a nail-biter; and - oh yeah - we recorded this show the day after the [storming of the United States capitol building](https://en.wikipedia.org/wiki/2021_storming_of_the_United_States_Capitol).
 
 It's all been more-than-a-bit surreal.
 
-But, in the face of such physically and emotionally trying times, we look forward to a new year of possibility. Whether it's taking control of our finances, finding ways to be more active, building up our personal brand, or becoming the blacksmiths that we always knew we could be, the crew shares their *personal* and *professional / technical* goals for this burgeoning new year. As the Phoenix rose from the ashes, so too - we hope - 2021 will rise from the smoldering dumpster fire of 2020.
+But, in the face of such physically and emotionally trying times, we look forward to a new year of possibility. Whether it's taking control of our finances, finding ways to be more active, building up our personal brand, or becoming the blacksmiths that we always knew we could be, the crew shares their _personal_ and _professional / technical_ goals for this burgeoning new year. As the Phoenix rose from the ashes, so too - we hope - 2021 will rise from the smoldering dumpster fire of 2020.
 
 We'd also like to give a huge shout-out and thank you to **[Monte Chan](https://www.linkedin.com/in/montechan/)** for being our first [Patreon supporter](https://www.patreon.com/workingcodepod)! You are a beautiful, beautiful person; and we hope to make you proud!
 
 ## Your hosts
+
 - Adam Tuttle -- [Twitter](https://twitter.com/adamtuttle), [Website](https://adamtuttle.codes)
 - Ben Nadel -- [Twitter](https://twitter.com/bennadel), [Website](https://www.bennadel.com/)
 - Carol Hamilton -- [Twitter](https://twitter.com/k_Roll242)
@@ -27,7 +28,7 @@ Follow the show! Our website is [workingcode.dev](https://workingcode.dev) and w
 - **Adam's Triumph:** With 2020 just behind us, the Georgia Senate run-off keeping us on the edge of our seats, the [insurrection](https://en.wikipedia.org/wiki/2021_storming_of_the_United_States_Capitol), and plenty of "doomscrolling", he managed to kick off 2021 with a somewhat productive week. He's reminded of a quote from [Cory Doctorow](https://craphound.com/)'s latest book: "I'm not OK, but I'm going to be OK. I'm coping, but I have a lot to cope with."
 - **Ben's Triumph:** Coming off the two-week "deployment freeze" at work, he managed to rebase, merge, and deploy the 20-something small git branches that he had amassed over the holiday. It took a few days, but everything went swimmingly!
 - **Carol's Triumph:** She accidentally discovered her son (16yo) and his best friend listening to **our podcast**; and, they loved it! Woot woot! We are totes connecting with the youths!
-- **Tim's Triumph:** In the aftermath of the insurrection and storming of the US capitol building, he managed to *not curl up in a ball* and rock back-and-forth in the corner. Given the context, this was a pretty momentous effort.
+- **Tim's Triumph:** In the aftermath of the insurrection and storming of the US capitol building, he managed to _not curl up in a ball_ and rock back-and-forth in the corner. Given the context, this was a pretty momentous effort.
 
 ## Notes & Links
 

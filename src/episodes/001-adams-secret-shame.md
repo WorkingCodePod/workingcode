@@ -1,13 +1,13 @@
 ---
-title: '001: Adam''s Secret Shame'
+title: "001: Adam's Secret Shame"
 description: What could it be??
 date: 2020-12-16
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/8c9e5d9c-bd40-454b-8d43-280969a66a68"></script><div class="redcirclePlayer-8c9e5d9c-bd40-454b-8d43-280969a66a68"></div>
-
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/001-adams-secret-shame/id1544142288?i=1000502586051"></iframe>
 
 ## Your hosts
+
 - Adam Tuttle -- [Twitter](https://twitter.com/adamtuttle), [Website](https://adamtuttle.codes)
 - Ben Nadel -- [Twitter](https://twitter.com/bennadel), [Website](https://www.bennadel.com/)
 - Carol Hamilton -- [Twitter](https://twitter.com/k_Roll242)

@@ -1,13 +1,13 @@
 ---
-title: '002: Working From Home'
+title: "002: Working From Home"
 description: Like it or not many of us found ourselves working from home for most of 2020!
 date: 2020-12-23
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/4ec644c1-fc3c-4b96-ae9f-55b26d73ba66"></script><div class="redcirclePlayer-4ec644c1-fc3c-4b96-ae9f-55b26d73ba66"></div>
-
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/002-working-from-home/id1544142288?i=1000503318818"></iframe>
 
 ## Your hosts
+
 - Adam Tuttle -- [Twitter](https://twitter.com/adamtuttle), [Website](https://adamtuttle.codes)
 - Ben Nadel -- [Twitter](https://twitter.com/bennadel), [Website](https://www.bennadel.com/)
 - Carol Hamilton -- [Twitter](https://twitter.com/k_Roll242)

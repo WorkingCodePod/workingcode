@@ -4,7 +4,7 @@ description: 'This week, the crew talks about Clean Code: A Handbook of Agile So
 date: 2021-05-12
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/a92c4a72-82f4-4849-a904-9b8dbc8cefee"></script><div class="redcirclePlayer-a92c4a72-82f4-4849-a904-9b8dbc8cefee"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/022-book-club-1-clean-code-by-uncle-bob-martin-pt1/id1544142288?i=1000521443309"></iframe>
 
 This week, the crew talks about [Clean Code: A Handbook of Agile Software Craftsmanship][clean-code] by [Robert Martin][robert-martin] (aka, "Uncle Bob"). Recommended to us by friend-of-the-show [Adam Cameron][adam-cameron], this book outlines a series of "best practices" that programmers can use in order to create applications that are easy to understand and easy to maintain. Just imagine if applications became easier to understand over time - not harder; that is the goal of this book.
 
@@ -14,13 +14,13 @@ And, of course, we don't all agree on all the concepts. But, that's what makes t
 
 ## Triumphs &amp; Failures
 
-* **Adam's Triumph** - Adam's son broke both of his wrists (what the doctors refer to a "bilateral ouchie") while playing on the monkey-bars. Thankfully, his family has great insurance and lives very close to one of best children's hospitals in the country: the Children's Hospital of Philadelphia. So, while it has been (and will likely be) a rough recovery period, Adam feels like he has much to be thankful for.
+- **Adam's Triumph** - Adam's son broke both of his wrists (what the doctors refer to a "bilateral ouchie") while playing on the monkey-bars. Thankfully, his family has great insurance and lives very close to one of best children's hospitals in the country: the Children's Hospital of Philadelphia. So, while it has been (and will likely be) a rough recovery period, Adam feels like he has much to be thankful for.
 
-* **Ben's Triumph** - His big hairy goal for 2021 was supposed to be learning about "Design Systems". But, in the first 4-months of the year, he didn't follow-through on that goal in any way whatsoever However, in just the last few weeks, he's finally started to piece together some reusable components for his AngularJS application. Eventually, he might move to something like Google's Material Design; but, he feels like he needs to "fail first" before he can truly understand the problem that robust Design Systems are solving.
+- **Ben's Triumph** - His big hairy goal for 2021 was supposed to be learning about "Design Systems". But, in the first 4-months of the year, he didn't follow-through on that goal in any way whatsoever However, in just the last few weeks, he's finally started to piece together some reusable components for his AngularJS application. Eventually, he might move to something like Google's Material Design; but, he feels like he needs to "fail first" before he can truly understand the problem that robust Design Systems are solving.
 
-* **Carol's Failure** - Despite what felt like an effortless start in her adventure with Amazon AWS, Carol hit a brick-wall while trying to get AWS Lambda to communicate with GMail. After struggling for 3-days to no avail, she finally got in touch with her Google Cloud Account support; and, _not even they can figure out_ why it's not working.
+- **Carol's Failure** - Despite what felt like an effortless start in her adventure with Amazon AWS, Carol hit a brick-wall while trying to get AWS Lambda to communicate with GMail. After struggling for 3-days to no avail, she finally got in touch with her Google Cloud Account support; and, _not even they can figure out_ why it's not working.
 
-* **Tim's Triumph** - While reading [Clean Code][clean-code] in preparation for this episode, he's already feeling more cognizant of the way that he's writing his applications. And, things are feeling pretty, pretty, pretty clean.
+- **Tim's Triumph** - While reading [Clean Code][clean-code] in preparation for this episode, he's already feeling more cognizant of the way that he's writing his applications. And, things are feeling pretty, pretty, pretty clean.
 
 Follow the show! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
 

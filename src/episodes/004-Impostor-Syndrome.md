@@ -1,16 +1,17 @@
 ---
-title: '004: Impostor Syndrome'
+title: "004: Impostor Syndrome"
 description: This week, the crew talks about their own mistakes, feelings of fraud, insecurities, and how Impostor Syndrome manifests in their own careers.
 date: 2021-01-06
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/35427d79-3e33-4f99-a6df-85bfc1c027ae"></script><div class="redcirclePlayer-35427d79-3e33-4f99-a6df-85bfc1c027ae"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/004-impostor-syndrome/id1544142288?i=1000504501994"></iframe>
 
 Impostor Syndrome is a psychological pattern in which people doubt their skills, talents, and accomplishments. Most of us have felt something like this in our careers, whether it's a fleeting moment or a persistent fear that we're going to be discovered as frauds. These feelings can be overwhelming, even debilitating; but, they can also drive us towards self-improvement.
 
 This week, the crew talks about their own mistakes, feelings of fraud, insecurities, and how Impostor Syndrome manifests in their own careers.
 
 ## Your hosts
+
 - Adam Tuttle -- [Twitter](https://twitter.com/adamtuttle), [Website](https://adamtuttle.codes)
 - Ben Nadel -- [Twitter](https://twitter.com/bennadel), [Website](https://www.bennadel.com/)
 - Carol Hamilton -- [Twitter](https://twitter.com/k_Roll242)

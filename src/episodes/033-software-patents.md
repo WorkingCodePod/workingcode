@@ -4,7 +4,7 @@ description: "This week, the crew - which has absolutely no legal training whats
 date: 2021-07-28
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/29e666b0-663d-40c4-93c9-67c8f13cf2ce"></script><div class="redcirclePlayer-29e666b0-663d-40c4-93c9-67c8f13cf2ce"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/033-software-patents/id1544142288?i=1000530270872"></iframe>
 
 Do you write "new and original" code that is "useful" and has a "non-obvious function"? If so, your code may qualify for a patent. A patent can help prevent other people from using or selling your software. That said, which engineer among us isn't write _new and original_ code every day? Software patents are weird and fuzzy and open for way too much interpretation. And, in the software industry, they seem to give "patent trolls" a lot of unpleasant leverage.
 

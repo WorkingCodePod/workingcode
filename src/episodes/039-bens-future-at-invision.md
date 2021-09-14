@@ -4,7 +4,7 @@ description: 'For last 8-years, Ben Nadel has poured his heart and soul into InV
 date: 2021-09-08
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/e7cf623d-4e23-4085-b710-cf9d8a8cdb75"></script><div class="redcirclePlayer-e7cf623d-4e23-4085-b710-cf9d8a8cdb75"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/039-bens-future-at-invision/id1544142288?i=1000534684392"></iframe>
 
 For last 8-years, Ben Nadel has poured his heart and soul into [InVision][invision], a product that drives design collaboration. During this period, his area of expertise has focused on the (now named) "legacy" platform - the ColdFusion and AngularJS monolith that has built the business into what it is today. Soon, however, the "legacy" platform will be wholly subsumed by the "modern" platform - a distributed, microservices architecture built on Go, Node.js, and React.
 

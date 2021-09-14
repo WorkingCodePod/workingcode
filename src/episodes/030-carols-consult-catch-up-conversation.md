@@ -4,7 +4,7 @@ description: "Ten weeks ago, in episode 20, Carol described a problem at work in
 date: 2021-07-07
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/9f7a57f3-65df-45e2-8353-257e0e66b6e6"></script><div class="redcirclePlayer-9f7a57f3-65df-45e2-8353-257e0e66b6e6"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/030-carols-consult-catch-up-conversation/id1544142288?i=1000528111182"></iframe>
 
 Ten weeks ago, in [Episode 20][working-code-20], Carol described a problem at work in which her customers were using Support Tickets as a means to look-up information in lieu of logging into the customer dashboard. This email-based workflow has been putting a large burden on the Support staff. And, Carol wanted to brainstorm on ways in which she could improve the overall situation and the efficiency of her team. Today, we circle back with Carol to see how it's going. Which is to say, to see just how hard **Carol is crushing it**!
 

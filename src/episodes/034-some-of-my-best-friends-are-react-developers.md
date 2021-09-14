@@ -4,7 +4,7 @@ description: 'This week, Adam talks about his "obnoxious optimism": his general 
 date: 2021-08-04
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/bb4e10de-e61d-4031-b2f4-127233a24cd6"></script><div class="redcirclePlayer-bb4e10de-e61d-4031-b2f4-127233a24cd6"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/034-some-of-my-best-friends-are-react-developers/id1544142288?i=1000530968195"></iframe>
 
 This week, Adam talks about his "obnoxious optimism": his general tendency to believe that all problems can be solved and that everything will just sort of work itself out. This optimism allows him to take action and make decisions quickly. However, it also means that he may not be fully considering the future cost of his choices.
 

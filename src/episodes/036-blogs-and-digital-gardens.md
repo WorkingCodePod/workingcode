@@ -4,7 +4,7 @@ description: "Blogging is a win-win activity. Not only does the act of writing h
 date: 2021-08-18
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/357e14da-1d5b-4d00-b7db-20d7c1ed6609"></script><div class="redcirclePlayer-357e14da-1d5b-4d00-b7db-20d7c1ed6609"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/036-blogs-and-digital-gardens/id1544142288?i=1000532371718"></iframe>
 
 Blogging is a win-win activity. Not only does the act of writing help burn knowledge into your long-term memory, it also acts as an easily searchable repository of your own thoughts. Furthermore, it helps other people solve similar problems when they stumble upon your blog in the future.
 

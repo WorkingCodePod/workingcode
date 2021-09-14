@@ -4,7 +4,7 @@ description: 'Engineers love to build things. Materializing an abstract concept 
 date: 2021-06-23
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b3b18e72-4dab-42ea-b209-feba78f5fe3d"></script><div class="redcirclePlayer-b3b18e72-4dab-42ea-b209-feba78f5fe3d"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/028-buy-vs-diy/id1544142288?i=1000526601692"></iframe>
 
 Engineers love to build things. Materializing an abstract concept into the form of a working piece of software is one of the _most thrilling experiences available on planet earth_. As such, we engineers often favor building new software over buying existing solutions. However, doing so takes time and energy; and, incurs a potentially-large opportunity cost for the business. It can be difficult to know if such a trade-off is worthwhile for the business in the long-run. This week, the crew examines the "build vs. buy" dilemma; and, reflects on their own general tendencies.
 

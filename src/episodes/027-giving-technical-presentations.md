@@ -4,7 +4,7 @@ description: "Part deep-dive, part story telling, a compelling technical present
 date: 2021-06-16
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/d1ffca7d-a65a-4e5d-87db-4cab1baefbb5"></script><div class="redcirclePlayer-d1ffca7d-a65a-4e5d-87db-4cab1baefbb5"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/027-giving-technical-presentations/id1544142288?i=1000525722431"></iframe>
 
 As [Jerry Seinfeld joked][seinfeld-joke], when it comes to funerals, most people would rather be the one in the casket than the one giving the eulogy. Because, public speaking isn't easy. And, for many, it's a source of great anxiety. A technical presentation takes that anxiety and compounds it by layering on a need to provide complicated information in an engaging way. Part deep-dive, part story telling, a compelling technical presentation has to present enough information on a topic so as to deliver meaningful take-aways while, at the same time, keeping the information light enough so as not to overwhelm the audience. This week, the crew discusses presentations that they've given. And, shares tips and tricks for making your presentation a real winner!
 

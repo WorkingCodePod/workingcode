@@ -4,7 +4,7 @@ description: "This week on the podcast, the crew discusses various topics, with 
 date: 2021-06-30
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/78aadbd6-e9ac-49c2-b4d4-4e20d90f47d8"></script><div class="redcirclePlayer-78aadbd6-e9ac-49c2-b4d4-4e20d90f47d8"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/029-potluck-2/id1544142288?i=1000527349943"></iframe>
 
 This week on the podcast, the crew discusses various topics: What would you do as an engineer if you knew you couldn't get fired? What conscious and unconscious fears might be holding you back from executing on tasks that you know are important? What does a healthy work-life balance look like after Covid-19? Are you one of the estimated 40% of employees that are considering quitting their job now that they've had the opportunity to work from home? In an increasingly remote-friendly culture, how are you taking care of your employees and making them feel wanted? How do you stays focused at work when you're feeling stuck? What strategies for success can you employ when you hit a wall and can't seem to motivate?
 

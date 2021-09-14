@@ -4,7 +4,7 @@ description: 'Brian Klaas (@Brian_Klaas) is a Senior Technology Officer and inst
 date: 2021-08-25
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/ddf60f8b-5a5d-47b8-a09f-86d520a54bad"></script><div class="redcirclePlayer-ddf60f8b-5a5d-47b8-a09f-86d520a54bad"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/037-brian-klaas-talks-cloud/id1544142288?i=1000533080737"></iframe>
 
 As we alluded to in [Episode 20: Carol Needs a Consult][working-code-20], there are a lot of different products under the Amazon Web Services (AWS) umbrella. In fact, the number of products is somewhat mind-boggling. It can be overwhelming just figuring out where to start, let alone understanding which service is right for which job, how to configure that service, and how to get that service to integrate with all the other AWS services. Thankfully, we have Brian Klaas as a very special guest on today's episode.
 

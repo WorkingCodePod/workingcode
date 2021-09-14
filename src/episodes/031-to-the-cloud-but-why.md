@@ -4,7 +4,7 @@ description: 'What is "The Cloud"? Why and when would you choose to use it? And 
 date: 2021-07-14
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/89c2b32f-acb8-46d8-9787-42664995d1e4"></script><div class="redcirclePlayer-89c2b32f-acb8-46d8-9787-42664995d1e4"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/031-to-the-cloud-but-why/id1544142288?i=1000528845195"></iframe>
 
 There is no _one thing_ that is "The Cloud". Instead, there are a set of _general characteristics_ that underscore cloud technologies: we can provision, deprovision, and scale resources at will; we don't need to manage those resources; and, we only pay for the resources that we use. But, even within this definition, there is a broad spectrum of technologies that more-or-less fit the bill. From Geocities, to managed hosting, to elastic clouds, to distributed edge-computing, lots of things _kind of look like "The Cloud"_, depending on how hard you squint.
 

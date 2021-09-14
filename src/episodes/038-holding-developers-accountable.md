@@ -4,7 +4,7 @@ description: 'Recently on Facebook, Hal Helms —highly respected author, speake
 date: 2021-09-01
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/f3b72369-2024-42ae-9983-32c08d3f0099"></script><div class="redcirclePlayer-f3b72369-2024-42ae-9983-32c08d3f0099"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/038-holding-developers-accountable/id1544142288?i=1000533977924"></iframe>
 
 Recently on Facebook, [Hal Helms][hal-helms] —highly respected author, speaker, and computer programmer— shared some of his views on the use of "Sprints" to drive engineering work on a product team. In short, he despises the idea of asking engineers to **commit** to achieving a goal within an **estimated time frame**. He likens this to asking prisons to build their own gallows. _Everyone_ is terrible at estimating _everything_. So when companies start to use each "estimate" as a "contract" with which to punish engineers for under-delivering after over-promising, all it does is set the entire team up for a toxic cycle of disappointment.
 
