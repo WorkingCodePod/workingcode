@@ -4,7 +4,7 @@ description: "Shawn Wang - known as @swyx online - is a financial investor turne
 date: 2021-09-22
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/7fae91d3-463e-42da-9334-3403ccb42307"></script><div class="redcirclePlayer-7fae91d3-463e-42da-9334-3403ccb42307"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/041-the-third-age-of-javascript-with-shawn-swyx-wang/id1544142288?i=1000536263438"></iframe>
 
 [Shawn Wang][shawn-wang] - known as "swyx" online - is a financial investor turned software engineer and journalist. With a passion for history and a knack for "trend spotting", Shawn uses a keen analytical sense, honed through years of financial due diligence, in order to organize the world of web development into a series of epochs, each with its own theme. He's recently codified these observations in a blog post titled, [The Third Age of JavaScript][third-age]. Today, we're thrilled to have Shawn as a guest on our podcast to discuss the past, present, and future state of JavaScript as well as the world of developer ergonomics and the magical possibilities of effortless platform management.
 

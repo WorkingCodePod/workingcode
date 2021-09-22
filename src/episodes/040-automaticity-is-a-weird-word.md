@@ -4,7 +4,7 @@ description: 'On today''s episode, the crew talks about how they use databases; 
 date: 2021-09-15
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/9689f695-0027-414b-b322-a7cda2650c6b"></script><div class="redcirclePlayer-9689f695-0027-414b-b322-a7cda2650c6b"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/040-automaticity-is-a-weird-word/id1544142288?i=1000535406686"></iframe>
 
 The other day, Ben was listening to an [episode of the MongoDB podcast in which Mat Keep][mongodb-67] shared a story about the adding of **atomic transactions** into the MongoDB product. Mat said that the engineer who spearheaded the effort used to joke about the fact that his team was spending a huge amount of time working on a feature that **90% of developers would never need**. For Ben - who leans heavily on transactions for referential integrity - this sounded like an crazy statement. But is it? Are database transactions overrated? Or, is it more so that the _type of use-cases_ that work best in a document database are also the type of uses-cases that don't really need transactions?
 
