@@ -1,5 +1,5 @@
 ---
-title: "042: Potluck #3"
+title: "043: Relay Race Programming"
 description: 'You might think that "programming" is a relatively straightforward concept: take abstract ideas and codify them into lines-of-code (LOC). But, within this broad abstraction, there are a multitude of implementation details. Some engineers love to hunker down and write code inside a metaphorical bubble; mob programmers love to dog-pile on the same machine, blitzing the problem until it''s obliterated; and, pair programmers methodically alternate responsibilities between a "driver" and a "navigator" in cooperative pairing sessions.'
 date: 2021-10-06
 ---
