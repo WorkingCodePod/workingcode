@@ -8,7 +8,7 @@ eleventyNavigation:
 
 Thanks for your interest in supporting the show! You rock!🤘
 
-We're just happy to have an excuse to talk to each other and share our thoughts with the world. ***Even if you can't do anything listed below, thank you for listening!***
+We're just happy to have an excuse to talk to each other and share our thoughts with the world. **_Even if you can't do anything listed below, thank you for listening!_**
 
 There are lots of ways to support the podcast!
 
@@ -39,6 +39,8 @@ There are lots of ways to support the podcast!
 
 One of the best things you can do to support the show is help us get more listeners. Tell your friends and coworkers about the podcast. A word of mouth referral is worth dozens of 5-star ratings to someone who is trying to decide what to listen to.
 
+Really enjoy an episode? **Post about it on Twitter or Facebook!** You might be surprised how much that sort of testimonial can help...
+
 <h2 id="one-time-donation">Make a one-time donation</h2>
 
 If you want to help us out financially, but monthly donations aren't your thing, <a href="mailto:workingcodepod@gmail.com">email us</a> and we'll figure out the best mutually agreeable tool.
@@ -56,10 +58,10 @@ If you really do want to start your own podcast, Adam highly recommends [shut up
 In the unlikely event that you're not familiar with the way Amazon affiliate links work, here's the tl;dr:
 
 - You follow a link to [an amazon product](https://amzn.to/3aRbMqU) with someone's affiliate code baked in. Ours, in this case.
-- ***Anything***\* you buy on Amazon after clicking that link sends a small percentage of the cost of that item to us, without increasing the price you pay at all.
+- **_Anything_**\* you buy on Amazon after clicking that link sends a small percentage of the cost of that item to us, without increasing the price you pay at all.
 - So if you're already shopping on Amazon anyway, why not [click our link](https://amzn.to/3aRbMqU) and send a few pennies our way?
 
-\* *Anything?!* Yes, anything. Adam has received referral dollars for someone's underwear purchases and he's positive he's never sent out underwear referral links. We can see what you buy, so be sure to prank us by buying all kinds of weird stuff with our referral link! 😜
+\* _Anything?!_ Yes, anything. Adam has received referral dollars for someone's underwear purchases and he's positive he's never sent out underwear referral links. We can see what you buy, so be sure to prank us by buying all kinds of weird stuff with our referral link! 😜
 
 <h2 id="patreon">Become a Patron</h2>
 
