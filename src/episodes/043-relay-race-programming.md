@@ -4,7 +4,7 @@ description: 'You might think that "programming" is a relatively straightforward
 date: 2021-10-06
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/130914ab-9800-4df7-9e7c-ce70378ee523"></script><div class="redcirclePlayer-130914ab-9800-4df7-9e7c-ce70378ee523"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/043-relay-race-programming/id1544142288?i=1000537721757"></iframe>
 
 You might think that "programming" is a relatively straightforward concept: take abstract ideas and codify them into lines-of-code (LOC). But, within this broad abstraction, there are a multitude of implementation details. Some engineers love to hunker down and write code inside a metaphorical bubble; [mob programmers][mob-programming] love to dog-pile on the same machine, blitzing the problem until it's obliterated; and, [pair programmers][pair-programming] methodically alternate responsibilities between a "driver" and a "navigator" in cooperative pairing sessions.
 

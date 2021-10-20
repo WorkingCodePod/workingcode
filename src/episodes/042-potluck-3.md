@@ -4,7 +4,7 @@ description: 'This week on the podcast, the crew discusses various topics: "Stro
 date: 2021-09-29
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/26e4f992-3408-45c9-b9d9-078b8fdbb852"></script><div class="redcirclePlayer-26e4f992-3408-45c9-b9d9-078b8fdbb852"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/042-potluck-3/id1544142288?i=1000536979967"></iframe>
 
 This week on the podcast, the crew discusses various topics: _"Strong opinions, loosely held"_ - is this a statement with noble intent? Or, does it encourage people to dismiss past evidence and the experiences that have shaped their current view of the world? When is it time to upgrade old technology choices? When the time it takes to upgrade is time _not spent_ on building features, at what point is that cost justified for the business? GitHub Copilot helps you write code, but who gets credit for that? Is it even legal? Have engineers demonstrated enough responsibility in the past to merit an _even more powerful_ copy-paste programming paradigm? And finally, why don't we see more employee-owned software companies? If engineers had more material skin in the game, wouldn't they be _more motivated_ to ship product?
 
