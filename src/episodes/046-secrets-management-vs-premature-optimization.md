@@ -4,7 +4,7 @@ description: A classic battle between doing things "the right way" and getting t
 date: 2021-10-27
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b9ae3cd3-e884-4177-97b7-c664e5c92a18"></script><div class="redcirclePlayer-b9ae3cd3-e884-4177-97b7-c664e5c92a18"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/gb/podcast/046-secrets-management-vs-premature-optimization/id1544142288?i=1000539876635"></iframe>
 
 When two systems have to communicate with each other, the security of transmitted messages is typically enforced through the use of shared secrets. Whether with encryption or one-way hashing, the receiving system can use a shared secret to verify that a producer's message has not been tampered with or spoofed. Rotating these shared secrets can be complicated; and, may even have to take place over an extended period of time depending on what's considered to be an acceptable window of backwards compatibility. This week, the crew talks about how they manage secrets, mistakes they've made in the past, and what best practices they'd like to put in place going forward.
 
