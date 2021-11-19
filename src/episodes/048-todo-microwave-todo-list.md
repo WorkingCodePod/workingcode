@@ -4,7 +4,7 @@ description: This week on the show, the crew talks about how they manage their T
 date: 2021-11-10
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/15c62893-2475-40a2-8f44-cb732cb66e89"></script><div class="redcirclePlayer-15c62893-2475-40a2-8f44-cb732cb66e89"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/048-todo-microwave-todo-list/id1544142288?i=1000541336304"></iframe>
 
 Surgeons and pilots have known for years that checklists _literally save lives_. And, while programming is rarely a life-and-death stakes situation, the humble ToDo list continues to serve as a powerful tool in the developer toolbox. This week on the show, the crew talks about how they manage their ToDo lists using comments, software applications, and physical notebooks. And, while we each have our preferred methods of organization, it's clear that even in a predominantly digital world, there is something deeply satisfying about using pen-and-paper in our respective workflows.
 

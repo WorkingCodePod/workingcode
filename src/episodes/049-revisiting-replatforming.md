@@ -1,10 +1,10 @@
 ---
 title: "049: Revisiting Replatforming"
-description:
+description: "On today's show, we talk about the choices that we'd personally make if we had to rebuild our application using a new language."
 date: 2021-11-17
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/5184df65-e631-460e-ad02-3b14e5a530ea"></script><div class="redcirclePlayer-5184df65-e631-460e-ad02-3b14e5a530ea"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/049-revisiting-replatforming-there-is-no-correct-answer/id1544142288?i=1000542206157"></iframe>
 
 One of our fans on Patreon is about to embark on a large "replatforming" endeavor. His team has decided to move away from their "traditionally coded" application (think hard to maintain, big ball of mud); and, will soon rebuild the server-side aspect of their application using a new language. The team isn't yet sure what language they'll use (this is how the topic came up in [Discord][working-code-discord]); but, they know that they want a statically typed language with a strong separation of concerns in the MVC (Model, View, Controller) layers.
 
