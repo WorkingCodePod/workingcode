@@ -24,6 +24,4 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [working-code-patreon]: https://www.patreon.com/workingcodepod
 [working-code-twitter]: https://twitter.com/WorkingCodePod
 
-With audio editing and engineering by [ZCross Media][editor].
-
-[editor]: https://www.zcross.media/
+With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
