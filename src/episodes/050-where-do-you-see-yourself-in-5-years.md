@@ -4,7 +4,7 @@ description: "This week on the show, the crew talks about where they each see th
 date: 2021-11-24
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/7bc60f61-f0c0-48fa-968a-ea179f7370de"></script><div class="redcirclePlayer-7bc60f61-f0c0-48fa-968a-ea179f7370de"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/050-where-do-you-see-yourself-in-5-years/id1544142288?i=1000542943700"></iframe>
 
 This week on the show, the crew talks about where they each see themselves in 5 years. This is not an easy thought-experiment, especially in a technology landscape that changes so rapidly. Are we getting better at the things we do today? Or, are we changing our focus, our role, and maybe even our job? Do our personality traits of introversion and extroversion influence our career trajectory? Or, can we learn to lean into and enjoy any type of position? Should we be following our "passions"? Or, should we be focusing on our natural abilities and affinities? Is it even worth thinking this far into the future? Or, should we just concentrate on making the next few weeks as effective as possible? All of us (hosts) love what we do today. But, we each have different perspectives, passions, and insecurities that affect how we look forward into the future.
 

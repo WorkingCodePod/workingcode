@@ -4,7 +4,7 @@ description: This week on the show, the crew talks about their own relationship 
 date: 2021-12-01
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/d69920ce-adc6-4b8b-9148-71d7ce287618"></script><div class="redcirclePlayer-d69920ce-adc6-4b8b-9148-71d7ce287618"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/051-you-are-replaceable/id1544142288?i=1000543611448"></iframe>
 
 Engineers like to believe that they are non-fungible. That is, that they are not replaceable - that they are special and bring a unique set of skills and perspectives to the table. And, for some engineers at early-stage companies, this may be true. However, as companies grow and evolve and become more sophisticated, the cold truth sets in: we are all replaceable. Even Apple - at this point in its trajectory - continues to innovate without the iconic Steve Jobs.
 
