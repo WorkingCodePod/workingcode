@@ -4,7 +4,7 @@ description: "On this week's show, Adam interviews his long-time friend and boss
 date: 2021-12-08
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/588802e0-76d9-4406-82f3-8b848079a6df"></script><div class="redcirclePlayer-588802e0-76d9-4406-82f3-8b848079a6df"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/052-starting-your-own-business-with-steve-rittler/id1544142288?i=1000544312080"></iframe>
 
 On this week's show, Adam interviews his long-time friend and boss [Steve Rittler][steve-rittler], founder and CEO of [AlumnIQ][alumniq]. Once a software engineer himself, Steve discusses his journey from individual contributor (IC) to business leader; and, how he sees his role as the boss from both a practical and a philosophical standpoint. For Steve, it's always been about changing the world using whichever tools he had at his disposal. And, when those tools were no longer effective, that's when he started to grow a team, a business, and a collection of trusted advisors - so that he could continue to take on and solve larger, more complex problems.
 
