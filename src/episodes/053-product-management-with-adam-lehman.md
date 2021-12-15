@@ -4,7 +4,7 @@ description: "On this week's show, Tim interviews Adam Lehman, the Director of P
 date: 2021-12-15
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/6cfb03ff-7b14-4dfd-aba5-70cc4362b7ab"></script><div class="redcirclePlayer-6cfb03ff-7b14-4dfd-aba5-70cc4362b7ab"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/053-product-management-with-adam-lehman/id1544142288?i=1000545043071"></iframe>
 
 On this week's show, Tim interviews [Adam Lehman][adam-lehman], the Director of Product for Marketplace Core at [Spotify][spotify]. Of course, many friends-of-the-show will know Adam more intimately as the former Director of Product and Engineering at Adobe where he helped drive the Adobe ColdFusion product and community forward. Or, as Tim puts it, where Adam _"lead by throwing grenades"_. Like most Product Managers (PMs), Adam never quite envisioned himself as a PM. He started out as an engineer who ended-up falling backwards into the PM role when he maxed-out his ability to exert change as an individual contributor (IC). Adam believes that engineers ultimately make the best Product Managers because of their ability to bring a holistic set of skills to the table. Which is why he's always on the look-out for engineers that gravitate towards a management mindset.
 
