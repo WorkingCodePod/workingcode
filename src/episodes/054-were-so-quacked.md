@@ -4,7 +4,7 @@ description: "At 3:30 AM the day before Thanksgiving, Ben received an emergency 
 date: 2021-12-22
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/eee65117-e7f1-49db-9ada-b41229a8469a"></script><div class="redcirclePlayer-eee65117-e7f1-49db-9ada-b41229a8469a"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/054-were-so-quacked/id1544142288?i=1000545765948"></iframe>
 
 At 3:30 AM the day before Thanksgiving, Ben received an emergency page about a failing API end-point. Rushing to his desk, groggy-eyed and in various states of undress, he jumped into the `#incident` channel on Slack to see what was happening. What unfolded over the next 30-hours was the manifestation of Ben's worst nightmare. The moment he had been dreading for the last 4-years had finally come to pass: **two of his database columns had run out of storage space**! Using feature flags, emergency hot-fixes, shadow tables, and a database migration being performed over a transient and unstable terminal session, he and his team somehow made it through to the other side just in time to enjoy Thanksgiving turkey and pumpkin pie!
 
