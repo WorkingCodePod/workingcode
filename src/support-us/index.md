@@ -63,7 +63,7 @@ In the unlikely event that you're not familiar with the way Amazon affiliate lin
 
 You're smart people. You know how this works. You get the free trial (of a fantastic product that we legitimately love!), it costs you nothing, and we get a small kick-back. No commitment. Cancel any time. Yadda yadda. It's win-win, really. 😄
 
-Just follow our link: [https://audibletrial.com/workingcodepod](https://audibletrial.com/workingcodepod) or click this banner:
+Just follow our link: [https://audibletrial.com/workingcodepod](https://audibletrial.com/workingcodepod) or click this banner ad that your ad-blocker is probably blocking:
 
 <a href="https://www.audibletrial.com/c/3159987/1059359/12951" target="_top" id="1059359"><img class="audible" src="//a.impactradius-go.com/display-ad/12951-1059359" border="0" alt="" width="728" height="90" /></a><img height="0" width="0" src="https://imp.pxf.io/i/3159987/1059359/12951" style="position:absolute;visibility:hidden;" border="0" />
 
