@@ -13,9 +13,9 @@ We're just happy to have an excuse to talk to each other and share our thoughts 
 There are lots of ways to support the podcast!
 
 1. [Tell a friend](#tell-a-friend)
-2. [Make a one-time donation](#one-time-donation)
-3. [Start your own podcast](#start-your-podcast)
-4. [Shop on Amazon](#amazon)
+2. [Start your own podcast](#start-your-podcast)
+3. [Shop on Amazon](#amazon)
+4. [Get an Audible Trial](#audible)
 5. [Become a Patron](#patreon)
 
 > <h2 id="expenses">What do you need money for?</h2>
@@ -39,11 +39,7 @@ There are lots of ways to support the podcast!
 
 One of the best things you can do to support the show is help us get more listeners. Tell your friends and coworkers about the podcast. A word of mouth referral is worth dozens of 5-star ratings to someone who is trying to decide what to listen to.
 
-Really enjoy an episode? **Post about it on Twitter or Facebook!** You might be surprised how much that sort of testimonial can help...
-
-<h2 id="one-time-donation">Make a one-time donation</h2>
-
-If you want to help us out financially, but monthly donations aren't your thing, <a href="mailto:workingcodepod@gmail.com">email us</a> and we'll figure out the best mutually agreeable tool.
+Really enjoy an episode? **Post about it on your social media!** You might be surprised how much that sort of testimonial can help...
 
 <h2 id="start-your-podcast">Start your own podcast</h2>
 
@@ -55,13 +51,21 @@ If you really do want to start your own podcast, Adam highly recommends [shut up
 
 <h2 id="amazon">Shop on Amazon</h2>
 
-In the unlikely event that you're not familiar with the way Amazon affiliate links work, here's the tl;dr:
+In the unlikely event that you're not familiar with the way Amazon affiliate links work, here's the TL;DR:
 
 - You follow a link to [an amazon product](https://amzn.to/3aRbMqU) with someone's affiliate code baked in. Ours, in this case.
 - **_Anything_**\* you buy on Amazon after clicking that link sends a small percentage of the cost of that item to us, without increasing the price you pay at all.
 - So if you're already shopping on Amazon anyway, why not [click our link](https://amzn.to/3aRbMqU) and send a few pennies our way?
 
 \* _Anything?!_ Yes, anything. Adam has received referral dollars for someone's underwear purchases and he's positive he's never sent out underwear referral links. We can see what you buy, so be sure to prank us by buying all kinds of weird stuff with our referral link! 😜
+
+<h2 id="audible">Get an Audible trial</h2>
+
+You're smart people. You know how this works. You get the free trial (of a fantastic product that we legitimately love!), it costs you nothing, and we get a small kick-back. No commitment. Cancel any time. Yadda yadda. It's win-win, really. 😄
+
+Just follow our link: [https://audibletrial.com/workingcodepod](https://audibletrial.com/workingcodepod) or click this banner:
+
+<a href="https://www.audibletrial.com/c/3159987/1059359/12951" target="_top" id="1059359"><img class="audible" src="//a.impactradius-go.com/display-ad/12951-1059359" border="0" alt="" width="728" height="90" /></a><img height="0" width="0" src="https://imp.pxf.io/i/3159987/1059359/12951" style="position:absolute;visibility:hidden;" border="0" />
 
 <h2 id="patreon">Become a Patron</h2>
 
