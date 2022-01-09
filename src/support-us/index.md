@@ -26,11 +26,11 @@ There are lots of ways to support the podcast!
 > - Pro audio production for our intro & outro
 > - A subscription to [riverside.fm](http://www.riverside.fm/?via=workingcodepod) which makes it easy for us to get a high quality recording (our first few episodes were recorded on Zoom, and there's a noticeable difference!)
 > - Storage space and backups (5+ hours of audio stored in raw wav every week starts to pile up fast!)
+> - Paying for our awesome editor, Matt!
 >
 > Here are a few things that we'd like to do with additional money when it's available:
 >
 > - Repay hosts for their personal investments in quality microphones
-> - Paying an editor
 > - Transcripts
 > - And more!
 > - If you have ideas or requests, please [reach out and let us know](mailto:workingcodepod@gmail.com)!
