@@ -68,11 +68,11 @@ If you think we've earned it we would love to have you as a supporter on Patreon
 
 To show our appreciation for our patrons, we provide them these benefits:
 
-Every patron, at every tier, gets a lifetime invitation to our Discord. Even if you end your subscription, keep your Discord membership! Thanks for being rad, and enjoy hanging out with the other rad patrons!
+Every patron, at every tier, gets access to our aftershow and all episodes arrive early -- as soon as they're done being edited.
 
-1. Our first tier is just $4 per month; ostensibly $1 per episode. For months containing 5 weeks, the 5th one is on us! This tier only includes Discord membership.
-2. Middle-tier and higher patrons get a private early-access feed where we post our episodes as soon as they're ready, possibly as much as a week early! This feed also includes our [`$Aftershow`](#aftershow).
-3. Top-tier supporters are truly embodying the spirit of [Patronage](https://en.wikipedia.org/wiki/Patronage) and helping fund the show in a way that sustains us long-term. It's possible that there's nothing we could do to repay this kindness, but we're going to do our best! We'll read your name (or a surrogate moniker of your choosing) on every show, and whenever we do something new and exciting (merch? special goodies?) these fine folks will get it all first.
+1. Our first tier is just $4 per month; ostensibly $1 per episode. For months containing 5 weeks, the 5th one is on us! You'll also be granted a special "Supporter" role in Discord so that everyone can see you contribute to the longevity of the show.
+2. We have a middle tier with virtually no other benefits! If you're feeling generous and want to give us a little more ($15 per month), we'll gladly unburden you of your money. You will, however, get the "Backer" role in Discord.
+3. Top-tier supporters are truly embodying the spirit of [Patronage](https://en.wikipedia.org/wiki/Patronage) and helping fund the show in a way that sustains us long-term by donating $30 per month. It's possible that there's nothing we could do to repay this kindness, but we're going to do our best! We'll read your name (or a surrogate moniker of your choosing) on every show, and whenever we do something new and exciting (merch? special goodies?) these fine folks will get it all first.
 
 <h3 id="aftershow"><pre>$Aftershow</pre></h3>
 
