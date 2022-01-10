@@ -6,7 +6,12 @@ eleventyNavigation:
   order: 200
 ---
 
-Our goal is to make it feel like we're having a really inclusive conversation at the company water-cooler, or in the hallway between sessions at a conference. You might walk away motivated to go look into a topic deeper, but chances are good you're not going to learn the minutiae of any technical topic from us. We want to entertain, inspire, and motivate you -- or to put it another way, make your coding career more enjoyable.
+<img alt="Adam Tuttle" src="/images/adam-tuttle.jpg" class="hosts" />
+<img alt="Ben Nadel" src="/images/ben-nadel.jpg" class="hosts" />
+<img alt="Carol Hamilton" src="/images/carol-hamilton.jpg" class="hosts" />
+<img alt="Tim Cunningham" src="/images/tim-cunningham.jpg" class="hosts" />
+
+Our goal is to make every episode feel like we're having a really inclusive conversation at the company water-cooler, or in the hallway between sessions at a conference. You might walk away motivated to go look into a topic deeper, but chances are good you're not going to learn the minutiae of any technical topic from us. We want to entertain, inspire, and motivate you -- or to put it another way, make your coding career more enjoyable.
 
 We try to talk about things that are interesting to people who work on the internet without digging into the details of any specific develpment technologies.
 

@@ -19,3 +19,15 @@
 
 // responsive changes
 @import "06-responsive/_responsive";
+
+img.audible {
+  width: initial;
+  height: initial;
+}
+img.hosts {
+  display: inline-block;
+  width: 150px;
+  border-radius: 75px;
+  margin-right: 15px;
+  margin-top: 15px;
+}

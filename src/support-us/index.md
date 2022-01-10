@@ -13,10 +13,9 @@ We're just happy to have an excuse to talk to each other and share our thoughts 
 There are lots of ways to support the podcast!
 
 1. [Tell a friend](#tell-a-friend)
-2. [Make a one-time donation](#one-time-donation)
-3. [Start your own podcast](#start-your-podcast)
-4. [Shop on Amazon](#amazon)
-5. [Become a Patron](#patreon)
+1. [Shop on Amazon](#amazon)
+1. [Get a free Audio Book from Audible](#audible)
+1. [Become a Patron](#patreon)
 
 > <h2 id="expenses">What do you need money for?</h2>
 >
@@ -26,11 +25,11 @@ There are lots of ways to support the podcast!
 > - Pro audio production for our intro & outro
 > - A subscription to [riverside.fm](http://www.riverside.fm/?via=workingcodepod) which makes it easy for us to get a high quality recording (our first few episodes were recorded on Zoom, and there's a noticeable difference!)
 > - Storage space and backups (5+ hours of audio stored in raw wav every week starts to pile up fast!)
+> - Paying for our awesome editor, Matt!
 >
 > Here are a few things that we'd like to do with additional money when it's available:
 >
 > - Repay hosts for their personal investments in quality microphones
-> - Paying an editor
 > - Transcripts
 > - And more!
 > - If you have ideas or requests, please [reach out and let us know](mailto:workingcodepod@gmail.com)!
@@ -39,29 +38,25 @@ There are lots of ways to support the podcast!
 
 One of the best things you can do to support the show is help us get more listeners. Tell your friends and coworkers about the podcast. A word of mouth referral is worth dozens of 5-star ratings to someone who is trying to decide what to listen to.
 
-Really enjoy an episode? **Post about it on Twitter or Facebook!** You might be surprised how much that sort of testimonial can help...
-
-<h2 id="one-time-donation">Make a one-time donation</h2>
-
-If you want to help us out financially, but monthly donations aren't your thing, <a href="mailto:workingcodepod@gmail.com">email us</a> and we'll figure out the best mutually agreeable tool.
-
-<h2 id="start-your-podcast">Start your own podcast</h2>
-
-We're using [Riverside.fm](http://www.riverside.fm/?via=workingcodepod) to record our audio, and we really like it. Not only that, but they have an affiliate program. If you create an account [using our affiliate link](http://www.riverside.fm/?via=workingcodepod) then we get 10% and it doesn't cost you any extra.
-
-If you really do want to start your own podcast, Adam highly recommends [shut up and start talking](http://shutupandstarttalking.com/) by the inimitable [Michael Chan](https://twitter.com/chantastic) of [React Podcast](https://reactpodcast.com/).
-
-...But use our affiliate links below. 😉
+Really enjoy an episode? **Post about it on your social media!** You might be surprised how much that sort of testimonial can help...
 
 <h2 id="amazon">Shop on Amazon</h2>
 
-In the unlikely event that you're not familiar with the way Amazon affiliate links work, here's the tl;dr:
+In the unlikely event that you're not familiar with the way Amazon affiliate links work, here's the TL;DR:
 
 - You follow a link to [an amazon product](https://amzn.to/3aRbMqU) with someone's affiliate code baked in. Ours, in this case.
 - **_Anything_**\* you buy on Amazon after clicking that link sends a small percentage of the cost of that item to us, without increasing the price you pay at all.
 - So if you're already shopping on Amazon anyway, why not [click our link](https://amzn.to/3aRbMqU) and send a few pennies our way?
 
 \* _Anything?!_ Yes, anything. Adam has received referral dollars for someone's underwear purchases and he's positive he's never sent out underwear referral links. We can see what you buy, so be sure to prank us by buying all kinds of weird stuff with our referral link! 😜
+
+<h2 id="audible">Get an Audible trial</h2>
+
+You're smart people. You know how this works. You get the free trial (of a fantastic product that we legitimately love!), it costs you nothing, and we get a small kick-back. No commitment. Cancel any time. Yadda yadda. It's win-win, really. 😄
+
+Just follow our link: [https://audibletrial.com/workingcodepod](https://audibletrial.com/workingcodepod) or click this banner ad that your ad-blocker is probably blocking:
+
+<a href="https://www.audibletrial.com/c/3159987/1059359/12951" target="_top" id="1059359"><img class="audible" src="//a.impactradius-go.com/display-ad/12951-1059359" border="0" alt="" width="728" height="90" /></a><img height="0" width="0" src="https://imp.pxf.io/i/3159987/1059359/12951" style="position:absolute;visibility:hidden;" border="0" />
 
 <h2 id="patreon">Become a Patron</h2>
 
@@ -73,11 +68,11 @@ If you think we've earned it we would love to have you as a supporter on Patreon
 
 To show our appreciation for our patrons, we provide them these benefits:
 
-Every patron, at every tier, gets a lifetime invitation to our Discord. Even if you end your subscription, keep your Discord membership! Thanks for being rad, and enjoy hanging out with the other rad patrons!
+Every patron, at every tier, gets access to our aftershow and all episodes arrive early -- as soon as they're done being edited.
 
-1. Our first tier is just $4 per month; ostensibly $1 per episode. For months containing 5 weeks, the 5th one is on us! This tier only includes Discord membership.
-2. Middle-tier and higher patrons get a private early-access feed where we post our episodes as soon as they're ready, possibly as much as a week early! This feed also includes our [`$Aftershow`](#aftershow).
-3. Top-tier supporters are truly embodying the spirit of [Patronage](https://en.wikipedia.org/wiki/Patronage) and helping fund the show in a way that sustains us long-term. It's possible that there's nothing we could do to repay this kindness, but we're going to do our best! We'll read your name (or a surrogate moniker of your choosing) on every show, and whenever we do something new and exciting (merch? special goodies?) these fine folks will get it all first.
+1. Our first tier is just $4 per month; ostensibly $1 per episode. For months containing 5 weeks, the 5th one is on us! You'll also be granted a special "Supporter" role in Discord so that everyone can see you contribute to the longevity of the show.
+2. We have a middle tier with virtually no other benefits! If you're feeling generous and want to give us a little more ($15 per month), we'll gladly unburden you of your money. You will, however, get the "Backer" role in Discord.
+3. Top-tier supporters are truly embodying the spirit of [Patronage](https://en.wikipedia.org/wiki/Patronage) and helping fund the show in a way that sustains us long-term by donating $30 per month. It's possible that there's nothing we could do to repay this kindness, but we're going to do our best! We'll read your name (or a surrogate moniker of your choosing) on every show, and whenever we do something new and exciting (merch? special goodies?) these fine folks will get it all first.
 
 <h3 id="aftershow"><pre>$Aftershow</pre></h3>
 
