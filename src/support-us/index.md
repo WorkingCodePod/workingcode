@@ -13,10 +13,9 @@ We're just happy to have an excuse to talk to each other and share our thoughts 
 There are lots of ways to support the podcast!
 
 1. [Tell a friend](#tell-a-friend)
-2. [Start your own podcast](#start-your-podcast)
-3. [Shop on Amazon](#amazon)
-4. [Get an Audible Trial](#audible)
-5. [Become a Patron](#patreon)
+1. [Shop on Amazon](#amazon)
+1. [Get a free Audio Book from Audible](#audible)
+1. [Become a Patron](#patreon)
 
 > <h2 id="expenses">What do you need money for?</h2>
 >
@@ -40,14 +39,6 @@ There are lots of ways to support the podcast!
 One of the best things you can do to support the show is help us get more listeners. Tell your friends and coworkers about the podcast. A word of mouth referral is worth dozens of 5-star ratings to someone who is trying to decide what to listen to.
 
 Really enjoy an episode? **Post about it on your social media!** You might be surprised how much that sort of testimonial can help...
-
-<h2 id="start-your-podcast">Start your own podcast</h2>
-
-We're using [Riverside.fm](http://www.riverside.fm/?via=workingcodepod) to record our audio, and we really like it. Not only that, but they have an affiliate program. If you create an account [using our affiliate link](http://www.riverside.fm/?via=workingcodepod) then we get 10% and it doesn't cost you any extra.
-
-If you really do want to start your own podcast, Adam highly recommends [shut up and start talking](http://shutupandstarttalking.com/) by the inimitable [Michael Chan](https://twitter.com/chantastic) of [React Podcast](https://reactpodcast.com/).
-
-...But use our affiliate links below. 😉
 
 <h2 id="amazon">Shop on Amazon</h2>
 
