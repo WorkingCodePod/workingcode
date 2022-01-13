@@ -4,7 +4,7 @@ description: "On this week's show, we share both our tech and our non-tech goals
 date: 2022-01-12
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b1f5d605-feef-4ce9-b816-fd54fd4641ba"></script><div class="redcirclePlayer-b1f5d605-feef-4ce9-b816-fd54fd4641ba"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/057-goals-for-2022/id1544142288?i=1000547664887"></iframe>
 
 New Year's Resolutions may be considered a bit cliche by some; and even a bit silly by others; but, there's always value in any opportunity to pause and take stock of your own situation. On this week's show, we share both our **tech** and our **non-tech** goals for the new year. As it happens, we all want to be in better shape - _shocking_, I know. But, when it comes to technology - and tech-adjacent interests - we all have different areas in which we wish to increase our proficiency: build systems, continuous integration, photo editing, TypeScript, mentoring, and product management, just to name a few.
 
