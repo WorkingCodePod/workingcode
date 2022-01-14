@@ -7,6 +7,8 @@ module.exports = (config) => {
   // navigation
   config.addPlugin(require("@11ty/eleventy-navigation"));
 
+  config.addPassthroughCopy("src/_redirects");
+
   /* --- TRANSFORMS -- */
   // inline assets
   config.addTransform("inline", require("./lib/transforms/inline"));
