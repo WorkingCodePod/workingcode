@@ -30,4 +30,8 @@ img.hosts {
   border-radius: 75px;
   margin-right: 15px;
   margin-top: 15px;
+
+  &:hover {
+    transform: scale(110%) rotate(-4deg)
+  }
 }
