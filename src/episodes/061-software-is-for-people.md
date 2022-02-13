@@ -4,7 +4,7 @@ description: "The crew talks about their own experience dealing with customers. 
 date: 2022-02-09
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b7e101c3-6ac0-4ece-bb31-be2b5bc9a668"></script><div class="redcirclePlayer-b7e101c3-6ac0-4ece-bb31-be2b5bc9a668"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/061-software-is-for-people/id1544142288?i=1000550550390"></iframe>
 
 Sponsors
 - [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
