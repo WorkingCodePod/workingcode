@@ -4,7 +4,7 @@ description: "This week, inspired in part by a post-mortem checklist created by 
 date: 2022-02-23
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b8301332-8dc9-491b-bc8f-cb1eb6dd6e60"></script><div class="redcirclePlayer-b8301332-8dc9-491b-bc8f-cb1eb6dd6e60"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/063-nobody-makes-it-out-alive/id1544142288?i=1000551993496"></iframe>
 
 Sponsors
 - [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
