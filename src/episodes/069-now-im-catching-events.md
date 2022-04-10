@@ -4,7 +4,7 @@ description: "Carol talks to us about how her Support team manages communication
 date: 2022-04-06
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/d49aa5a3-307c-42e1-920f-cba5726f1c04"></script><div class="redcirclePlayer-d49aa5a3-307c-42e1-920f-cba5726f1c04"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/069-now-im-catching-events/id1544142288?i=1000556410726"></iframe>
 
 Sponsors
 - [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
