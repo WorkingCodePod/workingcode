@@ -4,7 +4,7 @@ description: "The crew discusses a topic submitted by Mingo Hagen: Do developers
 date: 2022-04-27
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/d882fd71-b622-4077-84e8-4aedaac7e5e0"></script><div class="redcirclePlayer-d882fd71-b622-4077-84e8-4aedaac7e5e0"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/072-too-many-hats/id1544142288?i=1000558851632"></iframe>
 
 Sponsors
 - [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
