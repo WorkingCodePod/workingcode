@@ -4,7 +4,7 @@ description: "Is voluntary resignation for leadership (as opposed to firing) hea
 date: 2022-05-04
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/ae216df7-aff7-4d3b-a2be-d1eccfca5bd1"></script><div class="redcirclePlayer-ae216df7-aff7-4d3b-a2be-d1eccfca5bd1"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/073-our-golden-parachute/id1544142288?i=1000559570944"></iframe>
 
 Sponsors
 - [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
