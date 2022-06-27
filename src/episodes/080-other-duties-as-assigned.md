@@ -4,7 +4,7 @@ description: "The crew discusses those strange and wondrous 'extras' that someti
 date: 2022-06-22
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/25396ab0-6800-4991-9871-8dd5365c3c8a"></script><div class="redcirclePlayer-25396ab0-6800-4991-9871-8dd5365c3c8a"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/080-other-duties-as-assigned/id1544142288?i=1000567373969"></iframe>
 
 Sponsors
 - [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
