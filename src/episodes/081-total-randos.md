@@ -4,7 +4,7 @@ description: "This week on the show, the crew shares some of the random stuff th
 date: 2022-06-29
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/a035c23e-4ec1-4841-900b-375beefc34c5"></script><div class="redcirclePlayer-a035c23e-4ec1-4841-900b-375beefc34c5"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/081-total-randos/id1544142288?i=1000568106571"></iframe>
 
 Sponsors
 - [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
