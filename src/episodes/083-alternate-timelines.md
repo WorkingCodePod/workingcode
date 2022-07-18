@@ -4,7 +4,7 @@ description: "The crew shares some of the other professions that could have been
 date: 2022-07-13
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/a864f4be-0b9a-4682-9a4e-20f61ed91a5b"></script><div class="redcirclePlayer-a864f4be-0b9a-4682-9a4e-20f61ed91a5b"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/083-alternate-timelines/id1544142288?i=1000569773706"></iframe>
 
 Sponsors
 
