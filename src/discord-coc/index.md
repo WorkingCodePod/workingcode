@@ -45,6 +45,8 @@ Harassment includes:
 - Continued one-on-one communication after requests to cease
 - Publication of non-harassing private communication
 
+Note that **colorful language** (swear words, in all of their various forms) is intentionally not on this list. Our Discord server is not a puritanical space. There is an assumption that we are all adults and as a result we don't shy away from use of language that might not be appropriate in all workplaces. As long as colorful language doesn't veer into harassment, as defined above, it is not in violation of this Code of Conduct.
+
 ## Reporting
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact the admins. They'll respond as promptly as they can.
