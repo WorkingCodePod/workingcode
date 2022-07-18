@@ -5,7 +5,7 @@ description: Code of Conduct for the podcast discord server
 
 ## Welcome!
 
-The Working Code Podcast Discord is a place for [Patrons](https://www.patreon.com/workingcodepod) of the [Working Code Podcast](https://workingcode.dev/) to chat about the podcast and anything else they want (within the reasonable limits outlined here).
+The Working Code Podcast Discord is a place for listeners of the [Working Code Podcast](https://workingcode.dev/) to chat about the podcast and anything else they want (within the reasonable limits outlined here).
 
 The current admins are:
 
