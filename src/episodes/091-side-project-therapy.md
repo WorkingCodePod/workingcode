@@ -4,7 +4,7 @@ description: "On last week's show, we talked about Side Hustles. On this week's 
 date: 2022-09-07
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/614cc2a8-e18f-46dc-94b4-5301e4412a7b"></script><div class="redcirclePlayer-614cc2a8-e18f-46dc-94b4-5301e4412a7b"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/091-side-project-therapy/id1544142288?i=1000578687549"></iframe>
 
 Sponsors
 
