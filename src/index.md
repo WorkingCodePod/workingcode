@@ -13,6 +13,12 @@ pagination:
 blockpagination: true
 ---
 
+<div style="background-color: #fc3000;padding: 20px;color: black;border: 4px solid #ffe000;font-weight: 600;">
+<h2 style="margin-top:0"><strong>100th Episode Spicetacular! 🌶️ 🔥 🥵</strong></h2>
+<p>For our upcoming 100th episode, we're doing a Hot Ones inspired hot-sauce challenge + interiew episode, where you get to be the interviewers.</p>
+<p><a style="color: #ffe000;text-decoration: underline;" href="https://github.com/workingcodepod/ama">Read more, and ask some questions.</a></p>
+</div>
+
 # **A podcast about coding, but not code**
 
 We want to entertain, inspire, and motivate you -- or to put it another way, make your coding career more enjoyable.
