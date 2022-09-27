@@ -4,7 +4,7 @@ description: "Nothing is ever as simple as it seems, especially in the world of 
 date: 2022-09-21
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/22c0ead2-244f-46d9-afa0-d680ae4f8cc1"></script><div class="redcirclePlayer-22c0ead2-244f-46d9-afa0-d680ae4f8cc1"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/093-sounds-easy-sure-isnt/id1544142288?i=1000580175059"></iframe>
 
 Sponsors
 
