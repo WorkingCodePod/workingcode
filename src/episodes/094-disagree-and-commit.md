@@ -4,7 +4,7 @@ description: "The crew talks about the notion of 'Disagree and Commit' and how t
 date: 2022-09-28
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/a7f9aa95-b792-4486-b8cc-6f8078704822"></script><div class="redcirclePlayer-a7f9aa95-b792-4486-b8cc-6f8078704822"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/094-disagree-and-commit/id1544142288?i=1000580901285"></iframe>
 
 Sponsors
 
