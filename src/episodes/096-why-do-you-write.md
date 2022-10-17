@@ -4,7 +4,7 @@ description: "Today, Adam and Ben, our resident authors, dive deeper into how th
 date: 2022-10-12
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/8d9f6b23-dc5e-4da0-9e21-060c2b37bb4c"></script><div class="redcirclePlayer-8d9f6b23-dc5e-4da0-9e21-060c2b37bb4c"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/096-why-do-you-write/id1544142288?i=1000582397804"></iframe>
 
 Sponsors
 
