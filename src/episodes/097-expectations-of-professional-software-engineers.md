@@ -4,7 +4,7 @@ description: "This week on the show, the crew reviews Mike Acton's talk, 'Everyo
 date: 2022-10-19
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/5e0272a2-46c8-443f-8abb-005ac67816be"></script><div class="redcirclePlayer-5e0272a2-46c8-443f-8abb-005ac67816be"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/097-expectations-of-professional-software-engineers/id1544142288?i=1000583154886"></iframe>
 
 Sponsors
 
