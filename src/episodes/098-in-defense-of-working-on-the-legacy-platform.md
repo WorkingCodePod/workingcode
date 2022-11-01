@@ -4,7 +4,7 @@ description: "In this episode, Adam plays Devil's advocate and gets Ben to justi
 date: 2022-10-26
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/d578f41e-282a-49e8-89ab-b75f45fa994a"></script><div class="redcirclePlayer-d578f41e-282a-49e8-89ab-b75f45fa994a"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/working-code/id1544142288"></iframe>
 
 Sponsors
 
