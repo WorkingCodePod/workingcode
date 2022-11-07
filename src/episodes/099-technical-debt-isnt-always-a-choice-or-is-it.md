@@ -4,7 +4,7 @@ description: "Adam, Ben, Carol, and Tim are all back at it again. And today, we'
 date: 2022-11-02
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/053c9861-08e2-4ea4-82c7-701039149d7c"></script><div class="redcirclePlayer-053c9861-08e2-4ea4-82c7-701039149d7c"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/099-technical-debt-isnt-always-a-choice-or-is-it/id1544142288?i=1000584779305"></iframe>
 
 Sponsors
 
