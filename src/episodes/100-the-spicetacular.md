@@ -4,7 +4,7 @@ description: "It's hard to believe that we made it to episode 100! Come for the 
 date: 2022-11-09
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/6cab4361-e085-4baf-b091-a29f8dbe6239"></script><div class="redcirclePlayer-6cab4361-e085-4baf-b091-a29f8dbe6239"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/100-the-spicetacular/id1544142288?i=1000585620397"></iframe>
 
 It's hard to believe that we made it to **episode 100**! When we, four, started out on this journey almost two years ago, we were convinced that we'd either get sick of each other or quickly run out of topics to discuss. But, here we are, still loving it and having a great time. And, to celebrate this milestone in the _most masochistic way possible_, we've decided to ignite our guts and destroy our butts with a [Hot Ones][hot-ones]-inspired Spicetacular! Come for the AMA (Ask Me Anything) and stay for the [schadenfreude][schadenfreude]!
 
