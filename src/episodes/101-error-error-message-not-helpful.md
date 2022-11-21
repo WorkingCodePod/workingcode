@@ -4,7 +4,7 @@ description: "Tim has some very practical guidance on handling and presenting er
 date: 2022-11-16
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/eda3c7b3-ec22-4a8c-b14b-a1afa5c42624"></script><div class="redcirclePlayer-eda3c7b3-ec22-4a8c-b14b-a1afa5c42624"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/101-error-error-message-not-helpful/id1544142288?i=1000586413952"></iframe>
 
 Web application developers are notoriously bad about building resilient applications. All too often, we implement the "happy path" and then forget (or simply ignore) that _many things_ can go wrong for _any number_ of reasons. However, even if we do account for the "sad path", and we do catch and handle errors, it's not always clear how those errors should be presented to the user. Luckily, Tim has some very practical guidance on the matter that he shares with us on this week's show:
 
