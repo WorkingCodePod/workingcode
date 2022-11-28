@@ -4,7 +4,7 @@ description: "This week on the show, Adam shares the lessons that he learned whi
 date: 2022-11-23
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/a2ce0ab8-66fd-4c65-9471-dc74812edf8a"></script><div class="redcirclePlayer-a2ce0ab8-66fd-4c65-9471-dc74812edf8a"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/102-upgrading-mysql-for-poop-emojis/id1544142288?i=1000587246776"></iframe>
 
 Migrating data is always complicated. And, the more data that you have to migrate, the more complex your migration process becomes. This week on the show, Adam shares the lessons that he learned while performing a [large, multi-client, multi-cluster, week-long database migration][adam-post] for [AlumnIQ][alumniq]. This included moving roughly a dozen different databases from Amazon Aurora (MySQL 5) to Aurora 8. Late nights, indexes, and UTF-8 character encodings, oh my!
 
