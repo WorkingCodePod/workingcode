@@ -4,7 +4,7 @@ description: "Tim's been reading about AI lately, so the crew checks in on recen
 date: 2022-12-07
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b2bd9f5d-d7ea-4b80-a51e-d3c04f6ba021"></script><div class="redcirclePlayer-b2bd9f5d-d7ea-4b80-a51e-d3c04f6ba021"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/104-alexa-make-a-podcast-about-ai/id1544142288?i=1000589204808"></iframe>
 
 Tim recently read that, "1 in 10 AI (Artificial Intelligence) engineers think that AI will be the downfall of our civilization." But, it's not all doom-and-gloom; he's also been reading about some exciting advances in AI and Machine Learning (ML) such as Amazon Alexa being able to come up with novel bedtime stories for kids, Cosplay stars trying out new outfits using personalized "generative art", and complex software modules being created from simple prompts.
 
