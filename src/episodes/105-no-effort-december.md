@@ -4,7 +4,7 @@ description: "On today's show, Carol wonders if she can use Hackathons as a mean
 date: 2022-12-14
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/f4135cab-3520-4f9f-8cc5-b16a4a315a1c"></script><div class="redcirclePlayer-f4135cab-3520-4f9f-8cc5-b16a4a315a1c"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/105-no-effort-december/id1544142288?i=1000590146073"></iframe>
 
 Welcome to the start of **No Effort December**! That's the time of the year in which we gather 'round the mics and talk about whatever the heck comes to mind. We just passed two years on the Working Code podcast, it's the holidays, we've been _peopling super hard_ with our families, and we all need a little jolly relaxation. On today's show, Carol wonders if she can use Hackathons as a means to "improve community outreach" - one of her team's new OKR (Objectives and Key Results). And, Ben discusses the difference between deploying on Friday vs. deploying during the holiday (and why these are not the same thing).
 
