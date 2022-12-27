@@ -4,7 +4,7 @@ description: "This week, we continue to lean into 'No Effort December', talking 
 date: 2022-12-21
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/201933db-8b63-4e8d-8c38-a53ece414c62"></script><div class="redcirclePlayer-201933db-8b63-4e8d-8c38-a53ece414c62"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/106-a-cascading-cataclysmic-christmas/id1544142288?i=1000590858050"></iframe>
 
 This week, we continue to lean into "No Effort December", talking about a hodgepodge of both tech and non-tech topics. Since we're heading into Christmas, we start off talking about how challenging it is to buy gifts, especially for the _grown-ass_ adults in our lives. We also share some of our favorite Christmas movies; and, the movies which have absolutely nothing to do with Christmas, but which we love to watch in the winter anyway. We also dig into some modern CSS advances; including our fear that CSS selectors will quickly become more like Regular Expressions: fun to write but impossible to read!
 
