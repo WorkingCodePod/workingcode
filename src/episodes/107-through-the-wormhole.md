@@ -4,7 +4,7 @@ description: "Ben talks about the crippling attachment he has to his own fingers
 date: 2022-12-28
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/d6860169-883e-4437-9101-a354e38102f0"></script><div class="redcirclePlayer-d6860169-883e-4437-9101-a354e38102f0"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/107-through-the-wormhole/id1544142288?i=1000591481896"></iframe>
 
 [Happy Festivus][festivus], dear listeners! Welcome to our last show of 2022! Closing out "No Effort December", we truly run the gamut this time: Ben talks about the crippling attachment he has to his own fingers (and why he won't work with wood); Adam talks about how excited he is for the v1.0 release of [Svelte Kit][svelte-kit]; and, Tim reflects on the blinding speed with which people seem to be to making science and technology breakthroughs - I mean, we're talking some serious Sci-Fi-level stuff here!
 
