@@ -4,7 +4,7 @@ description: "On this episode, the crew reflects on the past year in terms of fi
 date: 2023-01-04
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/d6860169-883e-4437-9101-a354e38102f0"></script><div class="redcirclePlayer-d6860169-883e-4437-9101-a354e38102f0"></div>
+<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/2ca16831-ad29-409a-bf4b-f5f0e9ef3e5b"></script><div class="redcirclePlayer-2ca16831-ad29-409a-bf4b-f5f0e9ef3e5b"></div>
 
 Happy New Year! We did it! We survived 2022! This has been a rather hard year in many ways and a decent year in some ways. On this episode, the crew reflects on the past year in terms of fitness, technology, personal growth, and reading goals; and, celebrates some wins and laments some losses.
 
