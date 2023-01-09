@@ -4,7 +4,7 @@ description: "On this episode, the crew reflects on the past year in terms of fi
 date: 2023-01-04
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/2ca16831-ad29-409a-bf4b-f5f0e9ef3e5b"></script><div class="redcirclePlayer-2ca16831-ad29-409a-bf4b-f5f0e9ef3e5b"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/108-2022-year-in-review/id1544142288?i=1000592349808"></iframe>
 
 Happy New Year! We did it! We survived 2022! This has been a rather hard year in many ways and a decent year in some ways. On this episode, the crew reflects on the past year in terms of fitness, technology, personal growth, and reading goals; and, celebrates some wins and laments some losses.
 
