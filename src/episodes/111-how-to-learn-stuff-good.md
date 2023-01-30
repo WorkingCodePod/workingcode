@@ -4,7 +4,7 @@ description: "On today's show, we share our respective approaches to learning fr
 date: 2023-01-25
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/52957240-ec41-482c-8252-8010cd13545e"></script><div class="redcirclePlayer-52957240-ec41-482c-8252-8010cd13545e"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/111-how-to-learn-stuff-good/id1544142288?i=1000596491397"></iframe>
 
 Learning something new - whether it be a language, framework, or library - can be challenging. And, if you're already an expert in some ways, it can be both humbling and frustrating to suddenly feel like a novice in other ways. On top of that, our expectations are often distorted by time; and, we forget how long it took us to amass the understanding that we have today. This can lead to unrealistic expectations when it comes to learning something new. Not to mention that our strategies for learning might change in relation to our experience. On today's show, we share our respective approaches to learning from the ground up, including reading the manual, building applications from scratch, and everything in between.
 
