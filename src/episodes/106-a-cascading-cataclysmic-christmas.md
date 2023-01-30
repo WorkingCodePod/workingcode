@@ -8,6 +8,10 @@ date: 2022-12-21
 
 This week, we continue to lean into "No Effort December", talking about a hodgepodge of both tech and non-tech topics. Since we're heading into Christmas, we start off talking about how challenging it is to buy gifts, especially for the _grown-ass_ adults in our lives. We also share some of our favorite Christmas movies; and, the movies which have absolutely nothing to do with Christmas, but which we love to watch in the winter anyway. We also dig into some modern CSS advances; including our fear that CSS selectors will quickly become more like Regular Expressions: fun to write but impossible to read!
 
+Links discussed in this episode:
+
+- [Super Useful CSS Resources](https://dev.to/lissy93/super-useful-css-resources-1ba3)
+
 Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
