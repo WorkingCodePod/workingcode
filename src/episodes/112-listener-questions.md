@@ -4,7 +4,7 @@ description: "This week, we reach into our bag of listener questions."
 date: 2023-02-01
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/5478f480-7bef-4968-b264-2823b5586454"></script><div class="redcirclePlayer-5478f480-7bef-4968-b264-2823b5586454"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/112-listener-questions/id1544142288?i=1000597548669"></iframe>
 
 This week, we reach into [our bag of **Listener Questions**][working-code-ama] and pontificate on such curiosities as: Who would we want to be and what skills would we want to learn if we could step into an alternate reality? Would Danny DeVito make an intriguing Wolverine? Which are the best programming-related movies and shows? And, we all laugh a little nervously as Tim shares _just how much time_ he's clearly spent figuring out how to get rid of a dead body.
 
