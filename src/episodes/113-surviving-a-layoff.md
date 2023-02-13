@@ -4,7 +4,7 @@ description: "On today's show, we talk about the state of the industry, share ti
 date: 2023-02-08
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/734460c8-7013-4dbd-8423-4c88821f78c9"></script><div class="redcirclePlayer-734460c8-7013-4dbd-8423-4c88821f78c9"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/113-surviving-a-layoff/id1544142288?i=1000598634838"></iframe>
 
 Lay-offs are trending in the technology world. And, it's not just the scrappy start-ups being hit - goliaths such as Amazon, Apple, Google, Facebook, and Microsoft have all recently announced large reductions in force (RIF). Getting laid-off can pose a serious financial burden on an individual; but, there's also the psychological burden of self-doubt: Why did this happen to me? Did I deserve this? Will I ever find another tech job? On today's show, we talk about the state of the industry, share tips on becoming more resilient in uncertain time, and talk about what do if and when the pink slip commeth.
 
