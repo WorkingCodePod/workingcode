@@ -24,13 +24,13 @@ We want this to be a fun, pleasant, and harassment-free experience for everyone,
 
 Use of the Discord platform requires adherence to their own [terms](https://discord.com/terms) and [guidelines](https://discord.com/guidelines). These should be assumed to be in effect in the Working Code Discord community as well.
 
-## Confidentiality:
+## Confidentiality
 
 **Please keep what's said in Discord confidential**. Don't repeat, quote, or otherwise share things said here without the affirmative consent of the speaker(s).
 
 **Please be mindful that things you say here may at some point become public**. While we expect members to honor the confidentiality of this space, we cannot guarantee that they will do so--nor can we guarantee that every member's login credentials and logged-in devices are secure. Please exercise caution and refrain from sharing sensitive information that could harm you or others if it became public.
 
-## Harassment:
+## Harassment
 
 Harassment includes:
 
