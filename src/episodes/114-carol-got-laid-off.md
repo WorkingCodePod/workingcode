@@ -4,7 +4,7 @@ description: "On today's show, Carol graciously and courageously joins us to tal
 date: 2023-02-15
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/70175a88-d08f-4a5e-84e8-b9473dd1bfea"></script><div class="redcirclePlayer-70175a88-d08f-4a5e-84e8-b9473dd1bfea"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/114-carol-got-laid-off/id1544142288?i=1000599734148"></iframe>
 
 Amid the frenzy of industry lay-offs, we here at the Working Code podcast were devastated to hear that our very own Carol Weiler has been affected by a down-turning real estate market. A few weeks ago, while attending a virtual All Hands meeting, her Slack account was suddenly locked, momentarily followed by her computer. It turns out that she, along with a majority of her engineers, were part of an unexpected reduction in force (RIF). On today's show, Carol **graciously** and **courageously** joins us to talk about her experience, the ensuing emotional roller coaster, and some of the fascinating steps that she's taken to help improve her outcome.
 
