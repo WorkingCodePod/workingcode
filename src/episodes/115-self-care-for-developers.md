@@ -4,7 +4,7 @@ description: "We thought it would be nice to reflect on how we've all changed du
 date: 2023-02-22
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/55e1e7d3-e7e5-4cbd-8fd5-7f4252c74121"></script><div class="redcirclePlayer-55e1e7d3-e7e5-4cbd-8fd5-7f4252c74121"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/115-self-care-for-developers/id1544142288?i=1000601089781"></iframe>
 
 After drinking close to 12 Mountain Dews in a single day, Adam started to wonder if — just maybe — he was using caffeine as a way to self-medicate. Upon discussing this with his doctor, Adam was diagnosed with ADHD (Attention-Deficit / Hyperactivity Disorder) - a condition _very common_ in the world of programming (a fact that we inspect on the show). In light of these findings, we thought it would be nice to reflect on how we've all changed during the pandemic; and, share the little things that we do in order to keep our wits about us.
 
