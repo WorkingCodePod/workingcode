@@ -4,7 +4,7 @@ description: "On today's episode we review the listener submissions and crown th
 date: 2023-03-08
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/80ea7b8c-67da-4123-afa4-2576ba410059"></script><div class="redcirclePlayer-80ea7b8c-67da-4123-afa4-2576ba410059"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/117-champions-of-truth/id1544142288?i=1000603277104"></iframe>
 
 On [episode 114][working-code-114] of the show, in effort to balance out the somber tone of Carol's unfortunate layoff, we decided to have a little fun and play **Two Truths and a Lie**. On today's episode we review the listener submissions and crown the **one winner** who correctly selected all of our lies. And the prize goes to.... _listen to the show_!
 
