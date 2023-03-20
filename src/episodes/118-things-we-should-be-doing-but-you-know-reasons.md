@@ -4,7 +4,7 @@ description: "On today's show, we talk about all that sweet, sweet stuff we ough
 date: 2023-03-15
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/33b2f3d6-ac9b-4621-8d2f-a7b5d13d1457"></script><div class="redcirclePlayer-33b2f3d6-ac9b-4621-8d2f-a7b5d13d1457"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/118-things-we-should-be-doing-but-you-know-reasons/id1544142288?i=1000604301302"></iframe>
 
 As web developers, we're all high-functioning, motivated people. And, we certainly have a good sense of what we _should_ be doing with our time (both personally and professionally). But, theory rarely survives contact with reality. And, on today's show, we talk about all that sweet, sweet stuff we ought to be doing and why we can't quite motivate to get any of it done! Topics including backing up computers; creating reproducible systems; reading educational books; upgrading all the things; learning analytics; and, meeting other hoomans!
 
