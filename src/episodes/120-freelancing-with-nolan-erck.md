@@ -4,7 +4,7 @@ description: "As Carol launches her Freelancing career, we thought it would be v
 date: 2023-03-29
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b28429ea-823e-4a54-ac2a-72f51d3e6e1f"></script><div class="redcirclePlayer-b28429ea-823e-4a54-ac2a-72f51d3e6e1f"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/120-freelancing-with-nolan-erck/id1544142288?i=1000606434776"></iframe>
 
 As Carol launches her Freelancing career, we thought it would be valuable to interview [Nolan Erck][nolan-erck], Owner and Director at South of Shasta. For the past 15-years, Nolan has been a Freelance web developer, a mobile developer, and a polyglot technology trainer. He knows the ins-and-outs of attracting clients, setting up a business, and sub-contracting work in order to keep the coffers flush. If there's anyone who can guide Carol into the pit of success, it will be Nolan.
 
