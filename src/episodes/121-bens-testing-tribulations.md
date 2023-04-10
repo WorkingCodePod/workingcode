@@ -4,7 +4,7 @@ description: "We decided to dig into the topic of 'what to test' more closely."
 date: 2023-04-05
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/a6a01c03-efa2-407a-aac6-343c93462093"></script><div class="redcirclePlayer-a6a01c03-efa2-407a-aac6-343c93462093"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/121-bens-testing-tribulations/id1544142288?i=1000607512535"></iframe>
 
 Ben was recently tasked with removing an old feature from one of his services. As he did this, he kept breaking tests that were tightly coupled to the rendering of user interface (UI). In his mind, these tests were unnecessarily "brittle" and appeared to be testing the underlying front-end framework more so than the underlying business logic. When he brought this up in the [podcast's Discord server][working-code-discord], people disagreed. As such, we decided to dig into the topic of "what to test" more closely.
 
