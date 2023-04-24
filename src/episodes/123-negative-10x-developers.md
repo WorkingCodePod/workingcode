@@ -4,7 +4,7 @@ description: "On today's episode, we go hard in the other direction, talking abo
 date: 2023-04-19
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/ba2f92ca-de88-45cd-80c5-de456856a4d8"></script><div class="redcirclePlayer-ba2f92ca-de88-45cd-80c5-de456856a4d8"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/123-negative-10x-developers/id1544142288?i=1000609617166"></iframe>
 
 In episode 58, we weighed-in on [whether or not 10x engineers actually exist][working-code-58]. On today's episode, we go _hard_ in the other direction, talking about the _much less mythical_ **-10x engineer**: those engineers that seem to actively work in opposition to the greater good, holding unnecessary meetings and flooding the team with a massive amount of documentation. This discussion was directly inspired by the post, [How to be a -10x engineer][taylor-town].
 
