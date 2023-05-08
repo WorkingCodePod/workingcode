@@ -4,7 +4,7 @@ description: "On today's show, the crew discusses a variety of topics around wha
 date: 2023-05-03
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/6ae4786e-43ca-4eed-bca0-5187f0eb4169"></script><div class="redcirclePlayer-6ae4786e-43ca-4eed-bca0-5187f0eb4169"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/125-whats-on-your-workbench-2/id1544142288?i=1000611578282"></iframe>
 
 On today's show, the crew discusses a variety of topics. By which, I mean, Ben waxes philosophical on the subjective nature of _everything_; and, how he wants to live in a world where those who choose to indent code with 2-spaces may peacefully coexist alongside those who choose to indent code with tabs. Also, Adam body-slams his younger brother into a concrete floor. And then, gets in trouble because he let blood get on the carpet. Be sure to listen for Adam's pro-tips for removing blood stains.
 
