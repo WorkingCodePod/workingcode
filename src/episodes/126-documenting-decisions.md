@@ -4,7 +4,7 @@ description: "This week on the show, we talk about documentation. And not just t
 date: 2023-05-10
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/2291be8a-ae11-4ecb-b7c4-6980e7082639"></script><div class="redcirclePlayer-2291be8a-ae11-4ecb-b7c4-6980e7082639"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/126-documenting-decisions/id1544142288?i=1000612476787"></iframe>
 
 This week on the show, we talk about documentation. And not just the "how" of software, but the "why" - the decisions that we've reached, as a team, regarding the technologies that we use and the architectures that glues everything together. Of course, writing the documentation is only part of the challenge; keeping the documentation up-to-date is a whole other source of friction for most teams.
 
