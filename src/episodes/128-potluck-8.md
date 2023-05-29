@@ -4,7 +4,7 @@ description: "This week on the show, we discuss a variety of web and web-adjacen
 date: 2023-05-24
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/d3947aea-8f3d-40ae-a052-cca591a0973f"></script><div class="redcirclePlayer-d3947aea-8f3d-40ae-a052-cca591a0973f"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/128-potluck-8/id1544142288?i=1000614292641"></iframe>
 
 This week on the show, we discuss a variety of web and web-adjacent topics. Adam is feeling dubious about recommending a career in web development to his children (is it still worth it)? Ben legitimately wants to understand why we - the web development community - don't approach Testing with a YAGNI (You Ain't Gonna Need It) mindset. And, Tim wants to consider different ways to handle errors in a RESTful API.
 
