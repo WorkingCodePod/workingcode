@@ -1,10 +1,10 @@
 ---
 title: "129: New Features vs Maintenance"
 description: "On today's show, we talk about the tension between Engineering, Product, and Design and how we might work to mitigate it."
-date: 2023-05-24
+date: 2023-05-31
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/e9805e56-f9d5-410e-ab03-9bfd9b546ac0"></script><div class="redcirclePlayer-e9805e56-f9d5-410e-ab03-9bfd9b546ac0"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/129-new-features-vs-maintenance/id1544142288?i=1000615141759"></iframe>
 
 When Engineering, Product, and Design (EPD) come together to create the first version of a given piece of software, it feels like everyone is on the same page and has the same priorities. But, once that initial implementation ships to users, the Product and Design departments tend to move on, leaving engineers to maintain the software. This creates an uncomfortable tension between the existing user experience (UX) and the underlying technical details. On today's show, we talk about that EPD tension and how we might work to mitigate it.
 
