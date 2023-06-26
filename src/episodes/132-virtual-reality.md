@@ -4,7 +4,7 @@ description: "After watching the release event for Apple's new Vision Pro headse
 date: 2023-06-21
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/88f45de7-09c7-4091-97aa-1bfeb5628111"></script><div class="redcirclePlayer-88f45de7-09c7-4091-97aa-1bfeb5628111"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/132-virtual-reality/id1544142288?i=1000617835838"></iframe>
 
 After watching the release event for Apple's new [Vision Pro][vision-pro] headset, Tim wants to talk to us about both Virtual Reality (VR) and Augmented Reality (AR); and, get our general take on where this all fits into the future of computing. We each have a different level of exposure to this kind of technology. But, certainly none of us is using any type of headset in an ongoing way.
 
