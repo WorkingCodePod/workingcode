@@ -4,7 +4,7 @@ description: "On this week's episode, the crew talks to Ben about his recent tri
 date: 2023-07-05
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/d3501dda-8ad0-42ae-99bf-e2e63396ab5f"></script><div class="redcirclePlayer-d3501dda-8ad0-42ae-99bf-e2e63396ab5f"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/134-ben-goes-to-a-conference/id1544142288?i=1000619361652"></iframe>
 
 After a multi-year global pandemic, preceded by a dearth of ColdFusion conferences in the U.S., Ben finally made it out to Munich, Germany for [CFCamp 2023][cfcamp] - Europe's premier CFML-oriented conference. At 130 attendees, it was the perfect place to re-enter society and talk tech with like-minded engineers. Going into it, Ben was anxious. But, by the end of the 3-day event, he ended up having a great time and was privileged to hang out with some truly wonderful people!
 
