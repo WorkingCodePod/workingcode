@@ -4,7 +4,7 @@ description: "On today's episode, the slippery slope of the 'Shift Left' mentali
 date: 2023-07-12
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/db3c212f-ff27-447d-a850-227dbd5715d7"></script><div class="redcirclePlayer-db3c212f-ff27-447d-a850-227dbd5715d7"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/135-note-to-self-v0-3-0/id1544142288?i=1000620890080"></iframe>
 
 On today's episode, we invite you into another dimension. A dimension not only of sight and sound, but of mind. Ben's mind. Ben's sick, twisted cavern of decay and depravity wherein we gain insight into what actually makes this man tick. Topics include the slippery slope of the "Shift Left" mentality; over-complicating life with JWTs (JSON Web Tokens); dangerous public-on-public method invocation; and, the inherent _cost_ of _everything_.
 
