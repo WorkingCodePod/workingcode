@@ -4,7 +4,7 @@ description: "This week on the show, the crew discusses the benefits and complex
 date: 2023-08-09
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/fdf09eb8-6d67-43a8-a59a-9046e2d3e1e2"></script><div class="redcirclePlayer-fdf09eb8-6d67-43a8-a59a-9046e2d3e1e2"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/139-new-tables-vs-new-columns/id1544142288?i=1000623913858"></iframe>
 
 Early on in his career, Ben's default behavior was to add _new database columns_ to any _existing table_ that felt "similar enough" in nature. After years of evolving an application, however, this has lead to relatively wide tables with only a loose sense of cohesion. More recently in his career, Ben has started to err on the side of creating _new tables_ in order to house _new columns_. While this approach adds complexity in some ways, it also reduces complexity in other ways and creates a more clearly defined data model. Or, so he hopes.
 
