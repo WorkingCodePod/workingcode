@@ -23,7 +23,7 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
-[Full show notes and transcript.][full-show-notes]
+---
 
 # Transcript
 
