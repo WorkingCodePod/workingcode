@@ -4,7 +4,7 @@ description: "Inspired by an article from 'Dimitri Glazkov: Build a thing to bui
 date: 2023-08-23
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/7d455127-51ea-4691-9c9f-1c5409ef9d26"></script><div class="redcirclePlayer-7d455127-51ea-4691-9c9f-1c5409ef9d26"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/141-building-stuff-so-you-can-build-stuff/id1544142288?i=1000625378187"></iframe>
 
 Inspired by an article from [Dimitri Glazkov: Build a thing to build the thing][dimitri-glazkov], we talk about the importance of consuming of our own products. Often referred to as "Dog Fooding", this means that we must try and build something in the same way that _our customers_ would be expected to build something. And, in doing so, better identify the feature gaps and the points-of-friction. In order to best meet our customers _where they are_, we have to - in a sense - become our customers.
 
