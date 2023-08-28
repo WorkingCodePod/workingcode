@@ -19,7 +19,6 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [working-code-patreon]: https://www.patreon.com/workingcodepod
 [working-code-twitter]: https://twitter.com/WorkingCodePod
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/141-building-stuff-so-you-can-build-stuff.md
-[full-show-notes]: https://workingcode.dev/episodes/141-building-stuff-so-you-can-build-stuff/
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
@@ -29,11 +28,11 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [Spot an error? Send a pull request on GitHub.][github]
 
-[00:00:00] **Ben:** Anyway, one of the other attendees at the workshop, his company was building an e commerce platform.
+[00:00:00] **Ben:** Anyway, one of the other attendees at the workshop, his company was building an Ecommerce platform.
 
-[00:00:06] **Ben:** And in order to make sure that the e commerce platform worked, they decided to build an online store as, as a demo site,
+[00:00:06] **Ben:** And in order to make sure that the Ecommerce platform worked, they decided to build an online store as, as a demo site,
 
-[00:00:13] **Ben:** so he's like, Oh, here's a, here's an idea. We'll make a gluten free bread online shop and he said it became so popular that they ended up making more money from selling the bread out of this bakery than they did from selling the e commerce platform itself.
+[00:00:13] **Ben:** so he's like, Oh, here's a, here's an idea. We'll make a gluten free bread online shop and he said it became so popular that they ended up making more money from selling the bread out of this bakery than they did from selling the Ecommerce platform itself.
 
 [00:00:28] **Adam:** And I bet you the baker was happy too.
 
@@ -249,7 +248,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:13:18] **Ben:** Yeah. And then, and then I said fails all the way down because in conjunction with this and I'm, and I think this is partly stress related or maybe primarily stress related, I've also been feeling a lot of, wrist pain for like the last week and a half. My, my repetitive stress stuff has really been flared up big time.
 
-[00:13:35] **Ben:** and, and I'm sure it's because I'm probably like all tensed up and my shoulders are all up and it's thrown my arms out of alignment. And then also I've been. You know, putting some time into the dig deep fitness stuff, and it's probably just been a little too much coding and, and a little too much stress and a little, a little too much for the old broken body parts that I still have.
+[00:13:35] **Ben:** and, and I'm sure it's because I'm probably like all tensed up and my shoulders are all up and it's thrown my arms out of alignment. And then also I've been. You know, putting some time into the Dig Deep Fitness stuff, and it's probably just been a little too much coding and, and a little too much stress and a little, a little too much for the old broken body parts that I still have.
 
 [00:13:57] **Carol:** But didn't I see that you were trying a new keyboard to help with some of the wrist pain?
 
@@ -473,11 +472,11 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:29:59] **Tim:** change? What was hard? What was easy?
 
-[00:30:01] **Ben:** If I can go down a quick aside for a second, this reminds me of a story from, I went to a Hal Helms workshop. Hal Helms was a guy in the cold fusion world for, for many years. He was holding this workshop down in Florida. I mean, God, like 15 years ago, maybe. Anyway, one of the other attendees at the workshop, his company was building an e commerce platform.
+[00:30:01] **Ben:** If I can go down a quick aside for a second, this reminds me of a story from, I went to a Hal Helms workshop. Hal Helms was a guy in the ColdFusion world for, for many years. He was holding this workshop down in Florida. I mean, God, like 15 years ago, maybe. Anyway, one of the other attendees at the workshop, his company was building an Ecommerce platform.
 
-[00:30:26] **Ben:** And in order to make sure that the e commerce platform worked, they decided to build an online store as, as a demo site, kind of like this, building it to make sure that the thing you're building for people works and the idea that they came up with was that where the guy lived, there was a baker in town who made gluten free bread and 15 years ago, that wasn't such a common thing like it is today.
+[00:30:26] **Ben:** And in order to make sure that the Ecommerce platform worked, they decided to build an online store as, as a demo site, kind of like this, building it to make sure that the thing you're building for people works and the idea that they came up with was that where the guy lived, there was a baker in town who made gluten free bread and 15 years ago, that wasn't such a common thing like it is today.
 
-[00:30:49] **Ben:** So he's like, Oh, here's a, here's an idea. We'll make a gluten free bread online shop and people will buy and will literally just go down to the store and buy a loaf of bread and package it up and ship it to people. And he said it became so popular that they ended up making more money from selling the bread out of this bakery than they did from selling the e commerce platform itself.
+[00:30:49] **Ben:** So he's like, Oh, here's a, here's an idea. We'll make a gluten free bread online shop and people will buy and will literally just go down to the store and buy a loaf of bread and package it up and ship it to people. And he said it became so popular that they ended up making more money from selling the bread out of this bakery than they did from selling the Ecommerce platform itself.
 
 [00:31:10] **Adam:** And I bet you the baker was happy too.
 
@@ -551,7 +550,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:38:13] **Tim:** Rest assured by Adam, Adam Cameron. Oh, Tuttle. Oh yeah.
 
-[00:38:18] **Adam:** RestAssuredBook. com.
+[00:38:18] **Adam:** RestAssuredBook.com.
 
 [00:38:21] **Tim:** It's a good book.
 
@@ -637,7 +636,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:43:02] **Adam:** Anyway, so I stopped using this just because of the expense. and Instead, I sort of tried to start what I hope will just become like a little sort of similar community for the same purpose within our Discord server. So,
 
-[00:43:17] **Tim:** Dig deep fitness.
+[00:43:17] **Tim:** Dig Deep Fitness.
 
 [00:43:18] **Carol:** I was going to say,
 
@@ -671,7 +670,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:44:24] **Adam:** Anyway, so the idea is just like people who care to, to participate in this sort of thing. You know, we can share pictures of what we're eating or talk about our struggles or talk about workouts or share advice or, you know, like we, a bunch of us got together and shared our Apple Watch, stats, right?
 
-[00:44:41] **Adam:** So you can see when somebody else in the group has completed a workout and everybody can see. Everybody can see that you haven't closed your rings or whatever. And so they're like, I got a text from one of my friends, like this, he's not in our discord, but, I shared with another friend of mine and last night he texted me at like 9 30.
+[00:44:41] **Adam:** So you can see when somebody else in the group has completed a workout and everybody can see. Everybody can see that you haven't closed your rings or whatever. And so they're like, I got a text from one of my friends, like this, he's not in our Discord, but, I shared with another friend of mine and last night he texted me at like 9 30.
 
 [00:44:56] **Adam:** He's like, why aren't your rings closed?
 
@@ -727,17 +726,15 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:48:00] **Adam:** yeah.
 
-[00:48:01] **Adam:**
-
 ## [00:48:01] Patreon
 
-[00:48:01] **Adam:** All right. Well then, we're going to wrap it up. So this episode of Working Code was brought to you by RestAssuredBook. com. R E S T A S S U R E D B O O K. com. Pretty sure I spelled that right.
+[00:48:01] **Adam:** All right. Well then, we're going to wrap it up. So this episode of Working Code was brought to you by RestAssuredBook.com. R-E-S-T-A-S-S-U-R-E-D-B-O-O-K dot com. Pretty sure I spelled that right.
 
 [00:48:12] **Carol:** job.
 
 [00:48:14] **Adam:** And listeners like you, if you're enjoying the show and you want to make sure that we can keep putting more of whatever this is out into the universe, then you should consider supporting us on Patreon.
 
-[00:48:21] **Adam:** Our patrons cover our recording and editing costs and now our transcription costs. Thank you so much. We couldn't do this every week without them. Special thanks, of course, to our top patrons, Monty and Jean Carlo. You guys continue to rock.
+[00:48:21] **Adam:** Our patrons cover our recording and editing costs and now our transcription costs. Thank you so much. We couldn't do this every week without them. Special thanks, of course, to our top patrons, Monte and Giancarlo. You guys continue to rock.
 
 ## [00:48:35] Thanks For Listening!
 
@@ -756,8 +753,6 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 [00:49:04] **Tim:** Remember, your heart matters, even if your ring is all busted.
 
 [00:49:08] **Adam:** Your rings are not closed.
-
-[00:49:09]
 
 ## [00:49:29] Bloopers
 
