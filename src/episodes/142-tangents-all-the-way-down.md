@@ -4,7 +4,7 @@ description: "When Carol's not here to keep us in line, the show quickly flys of
 date: 2023-08-30
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/809d474f-a9b8-4735-b0c3-ac4821051e2d"></script><div class="redcirclePlayer-809d474f-a9b8-4735-b0c3-ac4821051e2d"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/142-tangents-all-the-way-down/id1544142288?i=1000626193080"></iframe>
 
 When Carol's not here to keep us in line, the show quickly flys off the rails. So much so, in fact, that we never made it to the intended topic - it's just tangents upon tangents upon tangents. We touch upon "vendoring" of our external libraries, installing dependencies with `apt-get`, dictation app differences between macOS and iOS, the regret of not building features sooner, building the perfect demo for clients, and the "trap" of having to innovate. And that's _not even_ everything! Carol - we need you! You're our only hope!
 
