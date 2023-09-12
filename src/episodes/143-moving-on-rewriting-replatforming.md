@@ -4,7 +4,7 @@ description: "On today's show, we explore the difficulties in 'moving on' using 
 date: 2023-09-06
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/9bee10f6-4039-42ce-89f2-3da423b24261"></script><div class="redcirclePlayer-9bee10f6-4039-42ce-89f2-3da423b24261"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/143-moving-on-rewriting-replatforming/id1544142288?i=1000626943446"></iframe>
 
 While change is inevitable, managing and adapting to change is always a challenge. Change represents the end of something we knew and - at least for some period - loved; and, ushers in the start of something completely unknown. On today's show, we explore the difficulties in "moving on" using several different contexts: Jobs, tech stacks, video games, API implementations, front-end frameworks, and more.
 
