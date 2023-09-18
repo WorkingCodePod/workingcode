@@ -4,7 +4,7 @@ description: "When we're in the slog - when our 'best' is degraded - it can be h
 date: 2023-09-13
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/ac8b550c-9573-40b5-a851-ccdb60c26ba2"></script><div class="redcirclePlayer-ac8b550c-9573-40b5-a851-ccdb60c26ba2"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/144-the-power-of-one/id1544142288?i=1000627723171"></iframe>
 
 In a perfect world, we always do our best. But, our capacity for "best" changes on a day-to-day basis. On some days, doing our best means jumping out of bed and absolutely _crushing the day_! On other days, doing our best means that we rallied _just_ to get out of bed. And, that's OK. When we're in the slog - when our "best" is degraded - it can be helpful to identify a single, small challenge for the day; a challenge that can be accomplish and celebrated. This technique is what Carol calls the "Power of One".
 
