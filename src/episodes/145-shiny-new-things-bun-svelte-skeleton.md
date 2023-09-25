@@ -4,7 +4,7 @@ description: "Adam, our early-adopter in residence, talks to Carol about Bun, Sk
 date: 2023-09-20
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/29db6b31-b160-4a00-9459-9697d441cd31"></script><div class="redcirclePlayer-29db6b31-b160-4a00-9459-9697d441cd31"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/145-shiny-new-things-bun-svelte-skeleton/id1544142288?i=1000628562694"></iframe>
 
 Adam, our early-adopter in residence, talks to Carol about [Bun][bun], [Skeleton][skeleton], and [Svelte][svelte]. With a focus on introducing new tools to an existing team, the two mainly talk about Bun, a hot new all-in-one JavaScript toolkit that is simultaneously a _runtime_, a _server_, a _package manager_, and a _test runner_. Come find out why its feature-set and speed leave Adam singing, _My application don't want none unless you got Bun, hun!_
 
