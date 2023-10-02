@@ -4,7 +4,7 @@ description: "On today's show, we talk about the complex systems that we've buil
 date: 2023-09-27
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b69b1589-12f0-4c73-b6a6-69215aab569a"></script><div class="redcirclePlayer-b69b1589-12f0-4c73-b6a6-69215aab569a"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/146-resiliency-is-hard/id1544142288?i=1000629373959"></iframe>
 
 The products that we build can become quite complex and involve many interconnected parts. Due to this complexity, and to the properties of the natural world, these products _will_ begin to fail in new and exciting ways. There's really no way to stop a system from failing; but, we can build systems that are _more resilient_ to failure. That said, this is oftentimes much more challenging than we expect. On today's show, we talk about the complex systems that we've built personally; and, how we attempt to keep them online in the face of uncertainty.
 
