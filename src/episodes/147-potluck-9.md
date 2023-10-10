@@ -4,7 +4,7 @@ description: "This week, we go around the table and talk about a variety of topi
 date: 2023-10-04
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/8f38956d-7023-4039-87e6-cde711d58563"></script><div class="redcirclePlayer-8f38956d-7023-4039-87e6-cde711d58563"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/147-potluck-9/id1544142288?i=1000630165127"></iframe>
 
 This week, we go around the table and talk about a variety of topics. Ben talks about Transactive Memory Systems Theory and how it might be applied in an engineering context. Carol—having moved into a new home and a new job—talks about the joys of starting something new in her life. Tim talks about the short-comings of a ticketing system; and, Goodhart's Law (which states that _"when a measure becomes a target, it ceases to be a good measure"_). And, Adam considers what his life would look like if he took on more of a leadership / force-multiplier role at work.
 
