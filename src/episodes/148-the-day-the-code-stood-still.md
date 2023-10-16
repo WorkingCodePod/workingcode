@@ -1,12 +1,12 @@
 ---
 title: "148: The Day The Code Stood Still"
-description: "TBD"
+description: "In this episode, the crew speculate on what would happen if every coder just stopped coding."
 date: 2023-10-11
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/92ccc413-f49d-4c23-888f-878fad85a9bb"></script><div class="redcirclePlayer-92ccc413-f49d-4c23-888f-878fad85a9bb"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/148-the-day-the-code-stood-still/id1544142288?i=1000630949752"></iframe>
 
-TBD
+In this episode, the crew speculate on what would happen if every coder just stopped coding.
 
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/148-the-day-the-code-stood-still.md
 
