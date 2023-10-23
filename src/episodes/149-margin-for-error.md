@@ -4,7 +4,7 @@ description: "In this episode, Adam and Tim talk about margin for error in vario
 date: 2023-10-18
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/f98026af-072b-4fba-9be9-bd6ab2c12219"></script><div class="redcirclePlayer-f98026af-072b-4fba-9be9-bd6ab2c12219"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/149-margin-for-error/id1544142288?i=1000631722883"></iframe>
 
 In this episode, Adam and Tim talk about margin for error in various aspects of software development, business and our personal lives.
 
