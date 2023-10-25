@@ -171,7 +171,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:07:42] **Tim:** You go, okay, that's how much I'm going to get in bonus. I mean, it could be, you know, 2, 000 or it could be, you know, 20, 000, 30, 000. Just, it totally depends. and so the division that I run has always been tucked in with another company. And unfortunately that other company doesn't really have great numbers. And our numbers are like really just ridiculously good, like really great numbers, particularly this year. So I finally won. I don't want to say an argument, but a discussion I've been having a while was like, you know, it's not fair. It's hard to motivate my people, you know, to say, Oh, you're going to get a bonus.
 
-[00:08:21] **Tim:** But they're like, yeah, but it's not really our bonus. It's tied in with that other company and their numbers suck. So. This year, starting this year, our, my company PayCloud, it will be its own bonus factor.
+[00:08:21] **Tim:** But they're like, yeah, but it's not really our bonus. It's tied in with that other company and their numbers are not as good. So. This year, starting this year, our, my company PayCloud, it will be its own bonus factor.
 
 [00:08:34] **Carol:** Yay.
 
