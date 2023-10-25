@@ -1,13 +1,22 @@
 ---
 title: "150: What's on Your Workbench #3"
-description: "In this episode, the crew catch up on what they've been working on lately."
+description: "This week we go around the table and see what the hosts have going on."
 date: 2023-10-25
 ---
 
 <script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/c9340193-7477-4cdf-b5d1-cffbc2a1b575"></script><div class="redcirclePlayer-c9340193-7477-4cdf-b5d1-cffbc2a1b575"></div>
 
-In this episode, the crew catch up on what they've been working on lately.
+This week we go around the table and see what the hosts have going on. Carol got a promotion in her first week back at work, despite the fact that she's had to emotionally suppress everything she once knew about dotnet. Adam is now - finally - at 100% SOC compliance (and is awaiting a 3-month review period). Tim has been wrestling with APIs and bending them to his will (to receive JSON payloads). And, Ben is considering different ways in which to package his Feature Flags book.
 
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+
+And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
+
+[working-code]: https://workingcode.dev/
+[working-code-discord]: https://workingcode.dev/discord/
+[working-code-instagram]: https://www.instagram.com/workingcodepod/
+[working-code-patreon]: https://www.patreon.com/workingcodepod
+[working-code-twitter]: https://twitter.com/WorkingCodePod
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/150-whats-on-your-workbench-3.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
