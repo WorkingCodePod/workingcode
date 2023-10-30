@@ -4,7 +4,7 @@ description: "This week we go around the table and see what the hosts have going
 date: 2023-10-25
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/c9340193-7477-4cdf-b5d1-cffbc2a1b575"></script><div class="redcirclePlayer-c9340193-7477-4cdf-b5d1-cffbc2a1b575"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/150-whats-on-your-workbench-3/id1544142288?i=1000632562226"></iframe>
 
 This week we go around the table and see what the hosts have going on. Carol got a promotion in her first week back at work, despite the fact that she's had to emotionally suppress everything she once knew about dotnet. Adam is now - finally - at 100% SOC compliance (and is awaiting a 3-month review period). Tim has been wrestling with APIs and bending them to his will (to receive JSON payloads). And, Ben is considering different ways in which to package his Feature Flags book.
 
