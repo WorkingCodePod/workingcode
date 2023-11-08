@@ -4,7 +4,7 @@ description: "When you build a system that is wholly contained within a single p
 date: 2023-11-01
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/085f76d8-9061-4bce-abfe-54c018108ef4"></script><div class="redcirclePlayer-085f76d8-9061-4bce-abfe-54c018108ef4"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/151-async-human-solutions/id1544142288?i=1000633343063"></iframe>
 
 When you build a system that is wholly contained within a single process, life is quite clean and predictable. But, the moment you reach outside of your process in order to get work done, you realize how messy the world is. Communication between systems can breakdown for any number of reasons. Often times, we try to create resiliency within the chaos by apply technology. But, sometimes, it makes more sense—and is far less expensive—to fix these problems using a human-oriented solution.
 
