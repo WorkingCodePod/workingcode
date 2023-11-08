@@ -6,7 +6,7 @@ date: 2023-11-08
 
 <script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/62fa3df7-a1ac-4e9c-b3a4-4b7aaaf9520a"></script><div class="redcirclePlayer-62fa3df7-a1ac-4e9c-b3a4-4b7aaaf9520a"></div>
 
-On today's show, we talk about visualizing your cron heatmap, Harvard's AI course, and we get an update on Ben's book.
+This week on the show, the hosts talk about what they have going on. Adam is trying to better understand the cadence with which his scheduled tasks are executing; and, has built a visualization tool using Svelte and D3. Tim has signed up for [CS50 at Harvard][cs50] - an online course introducing Artificial Intelligence (AI) with Python. And, Ben has a working draft for the first half of his Feature Flags book; and, is now considering some sort of pre-sale (if he can figure out how to turn his Markdown files into something consumable).
 
 Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
 
