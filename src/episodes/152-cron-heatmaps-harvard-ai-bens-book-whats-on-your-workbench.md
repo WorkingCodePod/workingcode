@@ -12,6 +12,7 @@ Follow the show and be sure to [join the discussion on Discord][working-code-dis
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
+[cs50]: https://cs50.harvard.edu/ai/2023/
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-instagram]: https://www.instagram.com/workingcodepod/
