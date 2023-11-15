@@ -4,7 +4,7 @@ description: "On today's show, we talk about visualizing your cron heatmap, Harv
 date: 2023-11-08
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/62fa3df7-a1ac-4e9c-b3a4-4b7aaaf9520a"></script><div class="redcirclePlayer-62fa3df7-a1ac-4e9c-b3a4-4b7aaaf9520a"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/152-cron-heatmaps-harvard-ai-and-bens-book-whats-on/id1544142288?i=1000634121204"></iframe>
 
 This week on the show, the hosts talk about what they have going on. Adam is trying to better understand the cadence with which his scheduled tasks are executing; and, has built a visualization tool using Svelte and D3. Tim has signed up for [CS50 at Harvard][cs50] - an online course introducing Artificial Intelligence (AI) with Python. And, Ben has a working draft for the first half of his Feature Flags book; and, is now considering some sort of pre-sale (if he can figure out how to turn his Markdown files into something consumable).
 
