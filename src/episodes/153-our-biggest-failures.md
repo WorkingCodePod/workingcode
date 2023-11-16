@@ -441,7 +441,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:37:12] **Adam:** The guy who started DuckDuckGo. I feel like I said, I feel like a jerk. Sorry. He's a, he's a Philly local, and we met through, Bar Camp Philly and did some parent stuff together for a while, among a, among a group of other parents, but, he was there and, and, he, was on like a panel for us.
 
-[00:37:29] **Adam:** So he was like a, an angel investor type guy and that sort of thing. Anyway, so those are the first two things that come to mind. Like I said, I, I don't dwell in my, dammit, I've, I've forgotten the word.
+[00:37:29] **Adam:** So he was like a, an angel investor type guy and that sort of thing. Anyway, so those are the first two things that come to mind. Like I said, I, I don't dwell in my, I've, I've forgotten the word.
 
 [00:37:39] **Ben:** Failures?
 
