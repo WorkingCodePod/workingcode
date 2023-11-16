@@ -6,12 +6,14 @@ date: 2023-11-15
 
 <script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/8d0a0f39-b05b-4545-ae86-cf4477938589"></script><div class="redcirclePlayer-8d0a0f39-b05b-4545-ae86-cf4477938589"></div>
 
-On today's show, we talk about our biggest failures and being open with failure.
+Inspired by a [4-part series on "Failure"][freakanomics-failure] produced by the [Freakanomics radio podcast][freakanomics-radio], we went around the table and talked about our own failures. This helps to remove the social stigma associated with failure; and, helps other people process internal conflicts of emotion. Tim talks about failing to sell websites in the early dot-com boom; Adam talks about failing to create a ColdFusion package manager; and, Ben talks about the _years he lost_ trying to learn Object Oriented Programming (OOP).
 
 Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
+[freakanomics-failure]: https://freakonomics.com/podcast/how-to-succeed-at-failing-part-1-the-chain-of-events/
+[freakanomics-radio]: https://freakonomics.com/series/freakonomics-radio/
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-instagram]: https://www.instagram.com/workingcodepod/
