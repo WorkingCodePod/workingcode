@@ -1,17 +1,19 @@
 ---
 title: "154: What Could Go Wrong? Pre-Mortems and Log Levels"
-description: "On today's show, we talk using pre-mortems to weed out potential ways a project could go wrong, and Adam wants to know how the crew has their logging set up."
+description: "We talk about Premortems; and, about how important it is for a company to create a safe space in which people can talk about failure and about the reasons failure might occur. We also dig into Logging strategies, structured logging, and role of different log levels."
 date: 2023-11-22
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b10e3084-b402-4abf-8310-728fd8b73d55"></script><div class="redcirclePlayer-b10e3084-b402-4abf-8310-728fd8b73d55"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/154-what-could-go-wrong-pre-mortems-and-log-levels/id1544142288?i=1000635670785"></iframe>
 
-On today's show, we talk using pre-mortems to weed out potential ways a project could go wrong, and Adam wants to know how the crew has their logging set up.
+On today's show, we continue reflecting on the [4-part series on "Failure"][freakanomics-failure] produced by the [Freakanomics radio podcast][freakanomics-radio]. This time, we talk about Premortems; and, about how important it is for a company to create a safe space in which people can talk about failure and about the reasons failure might occur. We also dig into Logging strategies, structured logging, and role of different log levels. And, how we can best consume logs in a way that makes them valuable without being too noisy.
 
 Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
+[freakanomics-failure]: https://freakonomics.com/podcast/how-to-succeed-at-failing-part-1-the-chain-of-events/
+[freakanomics-radio]: https://freakonomics.com/series/freakonomics-radio/
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-instagram]: https://www.instagram.com/workingcodepod/
