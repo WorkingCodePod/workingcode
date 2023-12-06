@@ -1,12 +1,14 @@
 ---
 title: "156: JSON, StackOverflow, Testing - Hot Takes"
-description: "Is StackOverflow dying? What's the correct way to pronounce JSON? Is separation of concerns dumb and wrong? We cover topics such as these and more in this week's hot takes only episode."
+description: "On today's show, we cast off the social filters and lay down some hot takes!"
 date: 2023-12-06
 ---
 
 <script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/2c4e1798-f3cf-496a-a475-bccbc78405bc"></script><div class="redcirclePlayer-2c4e1798-f3cf-496a-a475-bccbc78405bc"></div>
 
-Is StackOverflow dying? What's the correct way to pronounce JSON? Is separation of concerns dumb and wrong? We cover topics such as these and more in this week's hot takes only episode.
+On today's show, we cast off the social filters and lay down some hot takes! This journey of spice serves up the separation of concerns, the future of StackOverflow, the value of comments, the necessity of testing, the role of extracurricular coding, the beauty of clean code, the meh of JSON, and the challenge of building truly great products.
+
+Some of these hot takes are clearly wrong; but, _I'll never tell_!
 
 Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
 
