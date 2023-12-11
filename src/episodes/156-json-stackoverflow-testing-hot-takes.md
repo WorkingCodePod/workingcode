@@ -4,7 +4,7 @@ description: "On today's show, we cast off the social filters and lay down some 
 date: 2023-12-06
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/2c4e1798-f3cf-496a-a475-bccbc78405bc"></script><div class="redcirclePlayer-2c4e1798-f3cf-496a-a475-bccbc78405bc"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/156-json-stackoverflow-testing-hot-takes/id1544142288?i=1000637671105"></iframe>
 
 On today's show, we cast off the social filters and lay down some hot takes! This journey of spice serves up the separation of concerns, the future of StackOverflow, the value of comments, the necessity of testing, the role of extracurricular coding, the beauty of clean code, the meh of JSON, and the challenge of building truly great products.
 
