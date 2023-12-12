@@ -1,23 +1,24 @@
 ---
 title: "157: Dead Man's Snitch Deep Dive with Adam Cameron"
-description: "This week, friend of the show Adam Cameron joins Adam in diving deep and answering some questions about Dead Man's Snitch, a product that offers a solution for task health alerts."
+description: "On this week's show, Adam Tuttle and friend-of-the-show, Adam Cameron, go in depth on Dead Man's Snitch - a software service that triggers an alarm if your application doesn't 'check in' with high enough frequency."
 date: 2023-12-13
 ---
 
 <script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/7ac6cacf-9221-457a-9003-d42d0d8417a3"></script><div class="redcirclePlayer-7ac6cacf-9221-457a-9003-d42d0d8417a3"></div>
 
-This week, friend of the show Adam Cameron joins Adam in diving deep and answering some questions about Dead Man's Snitch, a product that offers a solution for task health alerts.
+On this week's show, Adam Tuttle and friend-of-the-show, [Adam Cameron][adam-cameron], go in depth on [Dead Man's Snitch][dead-mans-snitch] - a software service that triggers an alarm if your application doesn't "check in" with high enough frequency.
 
 Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
+[adam-cameron]: https://blog.adamcameron.me/
+[dead-mans-snitch]: https://deadmanssnitch.com/
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
-[github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/157-dead-mans-snitch-deep-dive-with-adam-cameron.md
+[working-code-twitter]: https://twitter.com/WorkingCodePod157-dead-mans-snitch-deep-dive-with-adam-cameron.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
