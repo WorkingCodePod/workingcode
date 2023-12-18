@@ -4,7 +4,7 @@ description: "On this week's show, Adam Tuttle and friend-of-the-show, Adam Came
 date: 2023-12-13
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/7ac6cacf-9221-457a-9003-d42d0d8417a3"></script><div class="redcirclePlayer-7ac6cacf-9221-457a-9003-d42d0d8417a3"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/157-dead-mans-snitch-deep-dive-with-adam-cameron/id1544142288?i=1000638426514"></iframe>
 
 On this week's show, Adam Tuttle and friend-of-the-show, [Adam Cameron][adam-cameron], go in depth on [Dead Man's Snitch][dead-mans-snitch] - a software service that triggers an alarm if your application doesn't "check in" with high enough frequency.
 
