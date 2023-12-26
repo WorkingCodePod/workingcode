@@ -4,7 +4,7 @@ description: "What's better than premortems? Premortems for your premortems. Thi
 date: 2023-12-20
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b174f653-f9be-42ed-99d6-38921c03b3d6"></script><div class="redcirclePlayer-b174f653-f9be-42ed-99d6-38921c03b3d6"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/158-the-premortem-premortem/id1544142288?i=1000639203269"></iframe>
 
 In [episode 154][working-code-154], we discussed the concept of a project premortem. That discussion inspired Carol to schedule her own premortem for a new 2-year project that her company is about to undertake. Given the fact that her team's work won't be sharable for at least 18-months, she's wants to make sure that her premortem is as effective as it can be. As such, we're going to have ourselves a little _premortem_ premortem discussion on the show.
 
