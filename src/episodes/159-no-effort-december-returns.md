@@ -4,7 +4,7 @@ description: "After a stressful year, we happily ease into another round of 'No 
 date: 2023-12-27
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/e862b821-07e0-46f4-b3a5-07d8156fcfa7"></script><div class="redcirclePlayer-e862b821-07e0-46f4-b3a5-07d8156fcfa7"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/159-no-effort-december-returns/id1544142288?i=1000639806431"></iframe>
 
 After a stressful year, we happily ease into another round of "No Effort December" in which the conversations flow without concern or constraint. Carol is excited to go ice skating for the first time in her life. Tim is trying to teach his kids about financial literacy. Ben shares his limited ability to fantasize. And Adam wonders why his computer gets so sticky.
 
