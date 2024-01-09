@@ -4,7 +4,7 @@ description: "Happy New Year! This week, we ease into 2024 with a variety of top
 date: 2024-01-03
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/6f28d11f-7253-4b0c-a996-fb9f7968c71c"></script><div class="redcirclePlayer-6f28d11f-7253-4b0c-a996-fb9f7968c71c"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/160-design-systems-and-coding-philosophy/id1544142288?i=1000640419744"></iframe>
 
 Happy New Year! This week, we ease into 2024 with a variety of topics. Adam is building a new design system at work using Svelte and Tailwind CSS. Ben wonders if there's any way to create an "Overview Effect" in the world of programming. And Tim discusses a few philosophical fallacies in a work context: planning fallacy, overconfidence effect, automation bias, and plan continuation bias (aka, the sunk cost fallacy).
 
