@@ -4,7 +4,7 @@ description: "Ben never has enough time to accomplish everything that he wants t
 date: 2024-01-17
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b832c4ab-1340-4661-b9c5-8e3dfaccb64c"></script><div class="redcirclePlayer-b832c4ab-1340-4661-b9c5-8e3dfaccb64c"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/162-a-question-of-time/id1544142288?i=1000641959344"></iframe>
 
 Ben never has enough time to accomplish everything that he wants to accomplish. On its own, this isn't necessarily a "bad thing". But, it can quickly lead to feelings of guilt: is he not good enough, is he not effective enough, is he letting everyone down? So much of this angst is emotional. And he knows this. But, he doesn't have the wherewithal that he needs to evolve his own perspective. The crew tries to help him out.
 
