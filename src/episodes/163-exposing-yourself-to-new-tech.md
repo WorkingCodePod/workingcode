@@ -4,7 +4,7 @@ description: "Is dabbling in new technology really moving the needle? Does learn
 date: 2024-01-24
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/0e692a96-5cbd-4252-9293-6ea904da203b"></script><div class="redcirclePlayer-0e692a96-5cbd-4252-9293-6ea904da203b"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/163-exposing-yourself-to-new-tech/id1544142288?i=1000642768885"></iframe>
 
 In web development, we tend to hold learning as a virtuous activity that's worthy of our spare time. In fact, there can be a lot of pressure on us to always be learning; and, to some degree, those of us who _don't_ ride the wave of cutting-edge tech are "othered". But, is _dabbling_ in new technology really moving the needle? Does learning a little of this and little of that really make for a more robust engineer? Or, is there more value to be gained from depth of understanding? And, at the end of the day, does the biggest impact on what we know actually come from switching jobs and joining new teams?
 
