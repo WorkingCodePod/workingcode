@@ -4,7 +4,7 @@ description: "On this week's show, we explore a variety of topics. Solo programm
 date: 2024-01-31
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/4cf6fffb-6d2a-4d57-ba3e-1acac14871dc"></script><div class="redcirclePlayer-4cf6fffb-6d2a-4d57-ba3e-1acac14871dc"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/164-solo-programming-chrome-monoculture-and-more-potluck/id1544142288?i=1000643650043"></iframe>
 
 On this week's show, we explore a variety of topics. Ben wants to perform a mini retrospective on his desire to support the legacy platform at work. Carol is feeling isolated as the only engineer on her team - her dog is a good listener, but isn't very helpful when it comes to brainstorming. And, Adam wants to talk about the browser landscape; and see which browser(s) everyone is currently using.
 
