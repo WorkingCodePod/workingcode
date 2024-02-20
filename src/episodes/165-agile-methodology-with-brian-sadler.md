@@ -4,7 +4,7 @@ description: "Today, we talk to Brian Sadler; a seasoned software developer and 
 date: 2024-02-07
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/74a4817e-203b-49c9-b00e-cacc209fec86"></script><div class="redcirclePlayer-74a4817e-203b-49c9-b00e-cacc209fec86"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/165-agile-methodology-with-brian-sadler/id1544142288?i=1000644473306"></iframe>
 
 For the most part, software engineers like the concept of Agile methodology; and, they have a sense that agile development practices are the best way of getting work done. But, that doesn't mean we know how to put these agile practices in place (especially at scale). Today, we talk to [Brian Sadler][brian-sadler] ([@brian_sadler][brian-sadler-twitter]) - a seasoned software developer and Agile coach - about what Agile is, what parts of it work the best, and where teams often go wrong in their interpretation of best practices.
 
