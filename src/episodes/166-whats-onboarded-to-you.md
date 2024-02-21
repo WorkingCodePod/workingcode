@@ -1,12 +1,12 @@
 ---
 title: "166: What's 'Onboarded' to You?"
-description: "On today's show, we respond to a listener question from Kamil Maraz regarding onboarding."
+description: "On today's show, we respond to a listener question from Kamil Maráz regarding onboarding."
 date: 2024-02-21
 ---
 
 <script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/0ab3597e-5f32-4f55-86e3-f645ca5f1ee6"></script><div class="redcirclePlayer-0ab3597e-5f32-4f55-86e3-f645ca5f1ee6"></div>
 
-On today's show, we respond to a listener question from Kamil Maraz:
+On today's show, we respond to a listener question from Kamil Maráz:
 
 > I have started a Developer experience initiative in our company. We started with a survey, which led to many 1-on-1 meetings; and, one thing that came up a few times was onboarding. Long story short: it's not ideal. I was wondering if this topic could be an inspiration for one of the episodes. For example what is an onboarded colleague to you?; do you care about time to first commit?; what does the onboarding process in your company look like? And so on. As I say often, in our company we love our users, and our developers should get the same treatment. Often the journey starts with onboarding. Thank you for hearing me out.
 
@@ -267,11 +267,11 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:20:27] **Adam:** So, this comes as a listener question that I mentioned earlier. do you want to read it, Tim, or do you want me to?
 
-[00:20:33] **Tim:** No, I can read it. So Camille, pardon if I mispronounce your name, Camille Meraz,
+[00:20:33] **Tim:** No, I can read it. So Kamil, pardon if I mispronounce your name, Kamil Meraz,
 
 [00:20:40] **Adam:** That
 
-[00:20:40] **Tim:** So there's an accent on the last, accent on the last day. Camille says, hi friends. Oh, thanks. Appreciate that. Your heart matters. I hope you're doing well. Smiley face emoji. Recently, I've started a developer experience initiative in our company.
+[00:20:40] **Tim:** So there's an accent on the last, accent on the last day. Kamil says, hi friends. Oh, thanks. Appreciate that. Your heart matters. I hope you're doing well. Smiley face emoji. Recently, I've started a developer experience initiative in our company.
 
 [00:20:56] **Tim:** We started with a survey, which led to many one on ones, and one thing that came up a few times was onboarding. Long story short, it's not ideal. I was wondering if this topic could be an inspiration for one of the episodes. For example, what is an onboarded colleague to you? Do you care about time to first commit?
 
@@ -413,7 +413,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 ## [00:33:42] Bad Onboarding Experiences
 
-[00:33:42] **Ben:** I'm curious in this Camille question, when he says that the long story short, it's not ideal, I wish, I wish we had a little bit more insight into what. they were thinking was not ideal in their current workflow. I'm trying to think about, because I was so early in the company, I don't really have a good ex, example of a bad onboarding experience.
+[00:33:42] **Ben:** I'm curious in this Kamil question, when he says that the long story short, it's not ideal, I wish, I wish we had a little bit more insight into what. they were thinking was not ideal in their current workflow. I'm trying to think about, because I was so early in the company, I don't really have a good ex, example of a bad onboarding experience.
 
 [00:34:00] **Ben:** I don't know if anyone here does.
 
@@ -437,7 +437,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 ## [00:35:15] Time to First Commit
 
-[00:35:15] **Tim:** Hmm. I was thinking we could maybe deduce from some of the questions Camille asks about, do you care about time to first commit, which, which I, I, I would imagine that is a proxy for a level,a measurement of productivity, but I would think that. Actually, commit is probably not a good, because if, if you're, if you're left, your, your yardstick for productivity is first commit, then your first commit is hello world and push it up.
+[00:35:15] **Tim:** Hmm. I was thinking we could maybe deduce from some of the questions Kamil asks about, do you care about time to first commit, which, which I, I, I would imagine that is a proxy for a level,a measurement of productivity, but I would think that. Actually, commit is probably not a good, because if, if you're, if you're left, your, your yardstick for productivity is first commit, then your first commit is hello world and push it up.
 
 [00:35:45] **Tim:** Right. I mean, right.
 
@@ -587,13 +587,13 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 ## [00:47:54] Employee Surveys
 
-[00:47:54] **Tim:** I would say kudos to Camille for number one, basically talking to their employees about how onboarding is, right? I mean,
+[00:47:54] **Tim:** I would say kudos to Kamil for number one, basically talking to their employees about how onboarding is, right? I mean,
 
 [00:48:03] **Carol:** Oh yeah.
 
 [00:48:04] **Tim:** that takes a level of organizational humility to say. Hey, how are we doing on this? And then not just asking it and going, cause a lot of times, I mean, we do surveys at work and I've sat through the, where we analyze a survey and there's a whole lot of, well, let me give you the background on this.
 
-[00:48:19] **Tim:** And, you know, it's like, it's a whole lot of hand waving to say why, what they said really doesn't count and we're awesome. And they're just, you know, a cranky person. but then they did one on ones to say, you know, what, what, you know, what do we need to do? And apparently it was not ideal. So, I mean, kudos to, kudos, I don't know who Camille is or where they work or what company they're with, but just doing that in itself, I, I think is a huge, huge step forward in trying to make the experience of being a new employee at a company better.
+[00:48:19] **Tim:** And, you know, it's like, it's a whole lot of hand waving to say why, what they said really doesn't count and we're awesome. And they're just, you know, a cranky person. but then they did one on ones to say, you know, what, what, you know, what do we need to do? And apparently it was not ideal. So, I mean, kudos to, kudos, I don't know who Kamil is or where they work or what company they're with, but just doing that in itself, I, I think is a huge, huge step forward in trying to make the experience of being a new employee at a company better.
 
 [00:48:49] **Carol:** Yeah. Completely agree.
 
@@ -641,7 +641,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:52:00] **Ben:** Well, you know, it's like 60. You're like, Oh, better than half. They're like, no, you failed.
 
-[00:52:08] **Tim:** I do really like Camille's last statement there, about. They love our users and our developers should get the same treatment. I do think that's true. I do think it's important to, that, that onboarding period, I mean, it's been, I mean, so many years since I've joined a new company, but it's like, you want to know what you need to, you really want to impress people that first, those first few weeks, months.
+[00:52:08] **Tim:** I do really like Kamil's last statement there, about. They love our users and our developers should get the same treatment. I do think that's true. I do think it's important to, that, that onboarding period, I mean, it's been, I mean, so many years since I've joined a new company, but it's like, you want to know what you need to, you really want to impress people that first, those first few weeks, months.
 
 [00:52:32] **Tim:** And if you don't know how to do that, it's like, I don't know. Is it me or is it the company?
 
