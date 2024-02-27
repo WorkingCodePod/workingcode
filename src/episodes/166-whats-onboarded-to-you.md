@@ -4,7 +4,7 @@ description: "On today's show, we respond to a listener question from Kamil Mara
 date: 2024-02-21
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/0ab3597e-5f32-4f55-86e3-f645ca5f1ee6"></script><div class="redcirclePlayer-0ab3597e-5f32-4f55-86e3-f645ca5f1ee6"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/166-whats-onboarded-to-you/id1544142288?i=1000646244579"></iframe>
 
 On today's show, we respond to a listener question from Kamil Maraz:
 
