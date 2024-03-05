@@ -4,7 +4,7 @@ description: "On today's show, we talk about our own personal brands; how they c
 date: 2024-02-28
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/819fc8c9-55aa-4462-9db1-3737f38445a3"></script><div class="redcirclePlayer-819fc8c9-55aa-4462-9db1-3737f38445a3"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/167-everyone-likes-their-own-brand/id1544142288?i=1000647378498"></iframe>
 
 > The first duty in life is to assume a pose. What the second is, no one has yet discovered. - Oscar Wilde
 
