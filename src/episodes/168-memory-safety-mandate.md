@@ -4,7 +4,7 @@ description: "On today's show, we talk about two major announcements relating to
 date: 2024-03-06
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/c4f71e0e-989f-420a-88d4-b8e5643d8cbd"></script><div class="redcirclePlayer-c4f71e0e-989f-420a-88d4-b8e5643d8cbd"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/168-memory-safety-mandate/id1544142288?i=1000648204817"></iframe>
 
 On today's show, we talk about two major announcements relating to the technology world. First, the government released a report calling on programmers to start using memory safe languages (see: [Future Software Should Be Memory Safe][gov-mandate]). Second, Apple announced that it will halt work on Titan, its autonomous electric vehicle project. We also talk about the pros-and-cons of a Computer Science degree in relation to the web development industry.
 
