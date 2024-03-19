@@ -1,13 +1,23 @@
 ---
 title: "169: Buffer Overflow, Tabs vs Spaces"
-description: "TBD"
+description: "In this weeks episode, the crew follow up on last weeks topic of memory management and weigh-in on tabs vs spaces."
 date: 2024-03-13
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/435c1012-bfab-4b84-99ac-7ac232e5c301"></script><div class="redcirclePlayer-435c1012-bfab-4b84-99ac-7ac232e5c301"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/169-buffer-overflow-tabs-vs-spaces/id1544142288?i=1000649141155"></iframe>
 
-TBD
+Several years ago, Stack Overflow noticed a small but surprising [trend within their 2017 Developer Survey data][so-money]. Even when attempting to adjust for several factors, it seems that the programmers who indent their code with spaces (as opposed to with tabs) have a higher earning potential. As an example of programmers who love using tabs, the hosts of the show offer up theories about this strange finding.
 
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+
+And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
+
+[so-money]: https://stackoverflow.blog/2017/06/15/developers-use-spaces-make-money-use-tabs/
+[working-code]: https://workingcode.dev/
+[working-code-discord]: https://workingcode.dev/discord/
+[working-code-instagram]: https://www.instagram.com/workingcodepod/
+[working-code-patreon]: https://www.patreon.com/workingcodepod
+[working-code-twitter]: https://twitter.com/WorkingCodePod
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/169-buffer-overflow-tabs-vs-spaces.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
