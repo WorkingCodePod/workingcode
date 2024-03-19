@@ -1,13 +1,24 @@
 ---
 title: "170: Thinking in UX with Thelma Van"
-description: "TBD"
+description: "On today's show, we talk to Thelma Van about integrating design into the product development workflow."
 date: 2024-03-20
 ---
 
 <script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/23d1f28a-25b7-4ac1-a54a-cc0e77ce6d17"></script><div class="redcirclePlayer-23d1f28a-25b7-4ac1-a54a-cc0e77ce6d17"></div>
 
-TBD
+On today's show, we talk to [Thelma Van][thelma-van] about integrating design into the product development workflow. This includes User Experience (UX) design, User Interface (UI) design, scope negotiation, and user validation through interviews. It turns out, even if you can only [talk to five of your customers][five-users], having this amount of feedback can have a massively out-sized impact on your overall design and development trajectory.
 
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+
+And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
+
+[five-users]: https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/
+[thelma-van]: https://www.linkedin.com/in/thelmavan/
+[working-code]: https://workingcode.dev/
+[working-code-discord]: https://workingcode.dev/discord/
+[working-code-instagram]: https://www.instagram.com/workingcodepod/
+[working-code-patreon]: https://www.patreon.com/workingcodepod
+[working-code-twitter]: https://twitter.com/WorkingCodePod
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/170-thinking-in-ux-with-thelma-van.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
