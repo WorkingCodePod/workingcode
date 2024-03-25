@@ -4,7 +4,7 @@ description: "On today's show, we talk to Thelma Van about integrating design in
 date: 2024-03-20
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/23d1f28a-25b7-4ac1-a54a-cc0e77ce6d17"></script><div class="redcirclePlayer-23d1f28a-25b7-4ac1-a54a-cc0e77ce6d17"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/170-thinking-in-ux-with-thelma-van/id1544142288?i=1000649848615"></iframe>
 
 On today's show, we talk to [Thelma Van][thelma-van] about integrating design into the product development workflow. This includes User Experience (UX) design, User Interface (UI) design, scope negotiation, and user validation through interviews. It turns out, even if you can only [talk to five of your customers][five-users], having this amount of feedback can have a massively out-sized impact on your overall design and development trajectory.
 
