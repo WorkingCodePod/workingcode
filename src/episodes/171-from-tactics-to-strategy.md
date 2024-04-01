@@ -4,7 +4,7 @@ description: "Tim just completed his quarterly strategy review meeting at work. 
 date: 2024-03-27
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/d2c507d0-befb-45b8-94fb-885f5df9a940"></script><div class="redcirclePlayer-d2c507d0-befb-45b8-94fb-885f5df9a940"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/171-from-tactics-to-strategy/id1544142288?i=1000650604422"></iframe>
 
 Tim just completed his quarterly strategy review meeting at work. As such, he's in the perfect head space to teach Adam and Ben what strategy is; how strategy differs from tactics; and, how OKRs (Objectives and Key Results) can be used in order to ensure that the work to be done actually rolls-up to one of the company's core strategies. In the end, Ben still has no idea what's going on (as per usual); but, Adam is down to clown.
 
