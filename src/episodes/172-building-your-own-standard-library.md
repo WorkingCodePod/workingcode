@@ -4,7 +4,7 @@ description: "In a world where many programmers instinctively reach for an exist
 date: 2024-04-03
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/09a5ec78-ca9f-44f4-aa96-123364c938ce"></script><div class="redcirclePlayer-09a5ec78-ca9f-44f4-aa96-123364c938ce"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/172-building-your-own-standard-library/id1544142288?i=1000651298111"></iframe>
 
 In a world where many programmers instinctively reach for an existing solution in "user land", Ben poses the question: is there value in building out and maintaining your own standard library? This would be the collection of commonly-used functions and classes that _you_ enjoy using; and, which are tailored to _your_ use-cases and programming paradigms. Doing so would be a vibrant mixture of pragmatism, vanity, ego, efficiency, and compensation. But, would it ultimately be a net befit?
 
