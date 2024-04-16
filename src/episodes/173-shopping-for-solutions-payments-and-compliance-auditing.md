@@ -4,7 +4,7 @@ description: "Adam picks Tim's brain searching for the perfect solution for paym
 date: 2024-04-10
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/5da87fe9-8310-49f0-8c21-e81a729e63bb"></script><div class="redcirclePlayer-5da87fe9-8310-49f0-8c21-e81a729e63bb"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/173-shopping-for-solutions-payments-and-compliance/id1544142288?i=1000652012893"></iframe>
 
 Adam picks Tim's brain searching for the perfect solution for payments and compliance auditing.
 
