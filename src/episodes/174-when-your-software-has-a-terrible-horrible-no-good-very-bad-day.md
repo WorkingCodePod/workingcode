@@ -4,7 +4,7 @@ description: "On today's show, we talk about incidents and outages at work."
 date: 2024-04-17
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/621ebf36-3b28-4c5c-9d56-ed2d1f3c3c13"></script><div class="redcirclePlayer-621ebf36-3b28-4c5c-9d56-ed2d1f3c3c13"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/174-when-your-software-has-a-terrible-horrible-no/id1544142288?i=1000652720254"></iframe>
 
 On today's show, we talk about incidents and outages at work. Incidents are a fact of life. If you depend on a file system or a database or a third party vendor, at some point, something will break and your service will be degraded. Customers freak out (rightly so); and, it becomes a cross-team effort to try and find the problem, fix it, and effectively communicate updates back to your customers. There's no right way to do this. But, one could argue that there are definitely wrong ways to do this.
 
