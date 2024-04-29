@@ -4,7 +4,7 @@ description: "On today's show, we cover a variety of topics. Ben talks about ove
 date: 2024-04-24
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/d80f275a-3c05-4224-8fa5-15b0b935d53a"></script><div class="redcirclePlayer-d80f275a-3c05-4224-8fa5-15b0b935d53a"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/175-build-times-overcompensating-mentoring-and-more/id1544142288?i=1000653465744"></iframe>
 
 On today's show, we cover a variety of topics. Ben talks about overcompensation at work; and, how we often swing way too hard in one direction as the first signs of a challenge. Carol talks about how her current task got away from her; and, how she suddenly founder herself creating a Pull Request with 84 files in it. Tim talks about the generation smoking ban going into effect in England. And Adam talks about the challenges of mentoring junior developers; and, how hard it is to have enough "right sized" tasks ready for them to work on.
 
