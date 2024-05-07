@@ -4,7 +4,7 @@ description: "On today's show, we cover a variety of topics. Tim had to build an
 date: 2024-05-01
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/119c6e3d-bb3f-49fa-a648-f6d9d10808e3"></script><div class="redcirclePlayer-119c6e3d-bb3f-49fa-a648-f6d9d10808e3"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/176-triumph-and-fail-safe-space/id1544142288?i=1000654156199"></iframe>
 
 On today's show, we cover a variety of topics. Tim was suffering from a "carding" attack (aka, a "credit card stuffing" attack) and had to build an internal CAPTCHA system in order to protect his web-based payment forms from bad actors. Adam created an open-source JavaScript library for mocking ES modules (see [Mockable][mockable]) that makes it possible to swap implementation details at runtime. And Ben falls back in love with ColdFusion&mdash;again&mdash;continuing to find that even the small language details bring him great joy.
 
