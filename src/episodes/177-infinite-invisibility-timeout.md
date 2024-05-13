@@ -4,7 +4,7 @@ description: "Adam uses the new CSS color functions for HSL (Hue, Saturation, Li
 date: 2024-05-08
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/37f8d3ba-90e8-4ad3-8125-5d7fda3fef9f"></script><div class="redcirclePlayer-37f8d3ba-90e8-4ad3-8125-5d7fda3fef9f"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/177-infinite-invisibility-timeout/id1544142288?i=1000654913831"></iframe>
 
 Adam uses the new CSS color functions for HSL (Hue, Saturation, Lightness) in order to [create a heatmap][hsl-so] for the number of dollars raised by his platform. Ben dives into the [Algolia search service][algolia] as a way to provide a search feature on his blog. Carol is trying to alleviate performance concerns around an N+1 SQL problem using an ORM (Object-Relational Mapper) that has decided to use an N+1 selection strategy as "the way" with no escape hatch. And, Tim is getting some great feedback regarding his AI-powered call system that will alert customers to upcoming renewal dates.
 
