@@ -4,7 +4,7 @@ description: "This week on the podcast, Ben has been incrementally building a da
 date: 2024-05-15
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/c3271a26-04a8-4c7b-9689-800fbc110743"></script><div class="redcirclePlayer-c3271a26-04a8-4c7b-9689-800fbc110743"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/178-upgrading-from-node-0-10/id1544142288?i=1000655655203"></iframe>
 
 This week on the podcast, we touch on a variety of topics. Ben has been incrementally building a data export feature for his customers; and, he's gotten to a point in which he can see a viable light at the end of the tunnel. Carol has discovered that if she doodles circles with her non-dominant hand, it occupies the ADHD portion of her brain and frees her up to focus on reading. Tim is continuing to improve his AI voice-agent, using a listener-suggested approach to loading Spanish language voice models on demand. And, Adam is battling some pretty steamy code rot; and is attempting to upgrade a series of interconnected Node.js Lambda functions from v0.10&mdash;released in 2013&mdash;to v20.
 
