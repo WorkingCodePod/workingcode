@@ -59,7 +59,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:02:10] **Ben:** So it's almost like. You can just say, like, do better. Like that's your performance improvement plan.
 
-[00:02:18] **Tim:** quarter, it's like, yeah, so you're supposed to bring in 300, 000 in net revenue and you brought in 5, 000. So we need to improve, you know, those are made up
+[00:02:18] **Tim:** quarter, it's like, yeah, so you're supposed to bring in xxx in net revenue and you brought in less than. . So we need to improve, you know, those are made up
 
 [00:02:29] **Ben:** Yeah, yeah, yeah. But
 
