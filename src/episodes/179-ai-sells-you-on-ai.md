@@ -4,7 +4,7 @@ description: "On today's show, Tim gears-up for a farm insurance conference out 
 date: 2024-05-22
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/3b1aaf44-9bbe-4386-b5d2-3f1fabba4620"></script><div class="redcirclePlayer-3b1aaf44-9bbe-4386-b5d2-3f1fabba4620"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/179-ai-sells-you-on-ai/id1544142288?i=1000656378393"></iframe>
 
 On today's show, Tim gears-up for a farm insurance conference out in Nashville where he's hoping to educate farmers on the pros and cons of artificial intelligence (AI). But, ahead of his talk, he'll be using AI voice technology to call the conference attendees and convince them to attend his presentation. And then, hopefully, weave statistics and sentiment analysis insights&mdash;from these automated calls&mdash;back into his slide deck.
 
