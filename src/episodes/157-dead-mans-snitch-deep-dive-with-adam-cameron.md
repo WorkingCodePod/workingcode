@@ -18,7 +18,8 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod157-dead-mans-snitch-deep-dive-with-adam-cameron.md
+[working-code-twitter]: https://twitter.com/WorkingCodePod
+[github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/157-dead-mans-snitch-deep-dive-with-adam-cameron.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
