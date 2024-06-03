@@ -4,7 +4,7 @@ description: "On today's show, we discuss a few of the entries outlined on the w
 date: 2024-05-29
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/0c1ca143-d805-44e1-a194-10fcfca56019"></script><div class="redcirclePlayer-0c1ca143-d805-44e1-a194-10fcfca56019"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/180-the-laws-of-software/id1544142288?i=1000657150252"></iframe>
 
 On today's show, we discuss a few of the entries outlined on the website, the [Laws of Software][laws-of-software]. Topics include Atwood's Law on JavaScript, Cunningham's Law on getting answers, Parkinson's Law on getting things done, Goodhart's Law on taking measurements, Hofstadter's Law on inevitable failure, and the Peter Principle.
 
