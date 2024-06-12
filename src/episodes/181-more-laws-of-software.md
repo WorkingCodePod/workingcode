@@ -4,7 +4,7 @@ description: "On today's show, we continue our discussion of the entries outline
 date: 2024-06-05
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/42a4026f-49db-41f7-bc29-5074e876a9aa"></script><div class="redcirclePlayer-42a4026f-49db-41f7-bc29-5074e876a9aa"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/181-more-laws-of-software/id1544142288?i=1000657914410"></iframe>
 
 On today's show, we continue our discussion of the entries outlined on the website, the [Laws of Software][laws-of-software]. Topics include McKinley's law on boring technologies, Doerr's law on aligning team vision, and Fitt's law on target touchability.
 
