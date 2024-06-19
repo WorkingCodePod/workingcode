@@ -4,7 +4,7 @@ description: "On today's show, Tim and Carol share personal updates while Adam a
 date: 2024-06-12
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/89da05ae-731a-46b6-ad7e-d4df4f227b88"></script><div class="redcirclePlayer-89da05ae-731a-46b6-ad7e-d4df4f227b88"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/182-coffee-talk-and-catching-up/id1544142288?i=1000658758195"></iframe>
 
 On today's show, Tim and Carol share personal updates while Adam and Ben are away. Carol discusses her challenging workday involving a difficult rebase and adjusting to a new routine after moving to Texas.
 
