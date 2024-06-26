@@ -1,12 +1,12 @@
 ---
 title: "184: Solving World Peace with Code Comments"
-description: "In this week's show, Ben and Adam discuss the aesthetics and functionality of code comments."
+description: "On today's show, Adam and Ben talk about their respective strategies for leaving comments within code."
 date: 2024-06-26
 ---
 
 <script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/26d7636b-ef4e-4688-8663-f3f1da7b4edb"></script><div class="redcirclePlayer-26d7636b-ef4e-4688-8663-f3f1da7b4edb"></div>
 
-In this week's show, Ben and Adam discuss the aesthetics and functionality of code comments.
+On today's show, Adam and Ben talk about their respective strategies for leaving comments within code. Each of them inhabits a different end of the spectrum, with Ben erring on the side of viewing comments as an inherent value-add; and, Adam believing that the urge to add a comment is more akin to a "code smell", indicating a need to refactor the underlying code structure. They disagree on a lot in this conversation; but, it turns out, they actually _agree_ on more than you might expect.
 
 Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
 
