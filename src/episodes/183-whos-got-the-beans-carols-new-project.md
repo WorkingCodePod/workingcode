@@ -4,7 +4,7 @@ description: "In this episode, the team discusses various aspects of starting ne
 date: 2024-06-19
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b164ccf7-daea-41c3-8399-dcec228831b2"></script><div class="redcirclePlayer-b164ccf7-daea-41c3-8399-dcec228831b2"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/183-whos-got-the-beans-carols-new-project/id1544142288?i=1000659547207"></iframe>
 
 In this episode, the team discusses various aspects of starting new projects, dealing with both personal and professional challenges, and the excitement and fears around initiating new work.
 
