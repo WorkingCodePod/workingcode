@@ -4,7 +4,7 @@ description: "On today's show, Adam and Ben talk about their respective strategi
 date: 2024-06-26
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/26d7636b-ef4e-4688-8663-f3f1da7b4edb"></script><div class="redcirclePlayer-26d7636b-ef4e-4688-8663-f3f1da7b4edb"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/184-solving-world-peace-with-code-comments/id1544142288?i=1000660296746"></iframe>
 
 On today's show, Adam and Ben talk about their respective strategies for leaving comments within code. Each of them inhabits a different end of the spectrum, with Ben erring on the side of viewing comments as an inherent value-add; and, Adam believing that the urge to add a comment is more akin to a "code smell", indicating a need to refactor the underlying code structure. They disagree on a lot in this conversation; but, it turns out, they actually _agree_ on more than you might expect.
 
