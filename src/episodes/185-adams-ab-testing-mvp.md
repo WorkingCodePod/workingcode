@@ -4,7 +4,7 @@ description: "On this week's show, Adam and Ben explore the complexities of impl
 date: 2024-07-03
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/7893791a-648a-430c-8f10-554c6c8e961a"></script><div class="redcirclePlayer-7893791a-648a-430c-8f10-554c6c8e961a"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/185-adams-a-b-testing-mvp/id1544142288?i=1000661085534"></iframe>
 
 On this week's show, Adam and Ben explore the complexities of implementing AB testing in email campaigns.
 
