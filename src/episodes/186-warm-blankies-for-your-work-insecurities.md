@@ -4,7 +4,7 @@ description: "In this week's episode Ben and Carol delve into their personal and
 date: 2024-07-10
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/4b35a387-59b9-4e3d-904a-43da8cf4b6f4"></script><div class="redcirclePlayer-4b35a387-59b9-4e3d-904a-43da8cf4b6f4"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/186-warm-blankies-for-your-work-insecurities/id1544142288?i=1000661763218"></iframe>
 
 In this week's episode Ben and Carol delve into their personal and professional insecurities. The discussion includes feeling the need to justify one's value at work, struggles with validations. They also talk about the emotional impact of customer interactions and the importance of human connections. The conversation highlights broader issues regarding job promotions, industry expectations, and the myth of constant innovation.
 
