@@ -4,7 +4,7 @@ description: "In this week's episode, Adam and Ben talk about the feasibility of
 date: 2024-07-17
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/c426e2e9-06d2-4f28-abd9-5449b01afcd7"></script><div class="redcirclePlayer-c426e2e9-06d2-4f28-abd9-5449b01afcd7"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/187-is-it-possible-to-be-a-solo-developer-in-2024/id1544142288?i=1000662506148"></iframe>
 
 In this week's episode, Adam and Ben talk about the feasibility of being a solo developer in 2024, considering industry pressures, tools, and personal strategies for balancing simplicity and complexity in the development process.
 
