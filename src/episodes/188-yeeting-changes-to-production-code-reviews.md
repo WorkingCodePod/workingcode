@@ -4,7 +4,7 @@ description: "In this week's episode, Tim returns to the podcast for a discussio
 date: 2024-07-24
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/bc03eb8f-ebdf-4d21-a9c2-3517e561c0b4"></script><div class="redcirclePlayer-bc03eb8f-ebdf-4d21-a9c2-3517e561c0b4"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/188-yeeting-changes-to-production-code-reviews/id1544142288?i=1000663308623"></iframe>
 
 In this week's episode, Tim returns to the podcast for a discussion on code reviews, touching on the importance of providing constructive feedback, tailoring reviews based on the developer's experience level, and discussing the merits and drawbacks of tools like GitHub.
 
