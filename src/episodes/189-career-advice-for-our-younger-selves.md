@@ -4,7 +4,7 @@ description: "In this episode, Tim and Adam discuss career advice for their youn
 date: 2024-07-31
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/29d3c9b9-02a2-452b-95bc-fb63eb38282e"></script><div class="redcirclePlayer-29d3c9b9-02a2-452b-95bc-fb63eb38282e"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/189-career-advice-for-our-younger-selves/id1544142288?i=1000663957002"></iframe>
 
 In this episode, Tim and Adam discuss career advice for their younger selves, including the importance of job changes for salary increases, focusing on programming tasks rather than managerial roles, and the hazards of tying one's identity to a specific programming language.
 
