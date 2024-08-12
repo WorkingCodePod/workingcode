@@ -4,7 +4,7 @@ description: "In this week's episode, Ben and Carol of the Working Code Podcast 
 date: 2024-08-07
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/3f13336c-3937-44b1-9458-e00ae2586bfc"></script><div class="redcirclePlayer-3f13336c-3937-44b1-9458-e00ae2586bfc"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/190-career-advice-for-our-younger-selves-ben-carol-edition/id1544142288?i=1000664582557"></iframe>
 
 In this week's episode, Ben and Carol of the Working Code Podcast reflect on career advice they would give to their younger selves, touching on the importance of simplicity in coding, continuous learning, and maintaining work-life balance. They emphasize the significance of learning from mentors, leveraging database constraints, and avoiding premature optimization.
 
