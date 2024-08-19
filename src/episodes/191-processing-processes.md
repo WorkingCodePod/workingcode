@@ -4,7 +4,7 @@ description: "In this week's episode, the crew discuss finding the right balance
 date: 2024-08-14
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/ab21cba6-b6b9-4114-8858-cf1a224e9f29"></script><div class="redcirclePlayer-ab21cba6-b6b9-4114-8858-cf1a224e9f29"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/191-processing-processes/id1544142288?i=1000665245120"></iframe>
 
 In this week's episode, the crew discuss finding the right balance in implementing processes within software development teams. Processes often originate from reactive measures to past mistakes but it is crucial to emphasize the importance of periodically reassessing the necessity and efficiency of these processes.
 
