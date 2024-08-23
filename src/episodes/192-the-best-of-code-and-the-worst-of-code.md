@@ -4,7 +4,7 @@ description: "In this episode, the hosts discuss their experiences with differen
 date: 2024-08-21
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/2a593070-d492-4771-ac7e-5520a21c6ed9"></script><div class="redcirclePlayer-2a593070-d492-4771-ac7e-5520a21c6ed9"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/192-the-best-of-code-and-the-worst-of-code/id1544142288?i=1000666103762"></iframe>
 
 In this episode, the hosts discuss their experiences with different codebases, from the best they've worked on to the worst. They explore the complexities of evolving and maintaining legacy code, the challenges of debugging, and the importance of clean architecture. Key points include the pain of working with ORMs, and the impact of early design decisions on long-term project health. They also touch on reactivity concerns in modern frameworks and share personal anecdotes of both successful and problematic coding practices.
 
