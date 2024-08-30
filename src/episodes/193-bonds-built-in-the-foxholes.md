@@ -4,7 +4,7 @@ description: "In this episode, the hosts delve into the idea of whether bonds fo
 date: 2024-08-28
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/19682564-acca-40ac-99a4-80eec2e7dece"></script><div class="redcirclePlayer-19682564-acca-40ac-99a4-80eec2e7dece"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/193-bonds-built-in-the-foxholes/id1544142288?i=1000666885921"></iframe>
 
 In this episode, the hosts delve into the idea of whether bonds formed in moments of workplace trauma and high-stress situations are uniquely irreplaceable. The discussion also touches on how team-building activities can simulate the bonds formed under duress, the cultural differences in work stress, and challenges faced in the workplace.
 
