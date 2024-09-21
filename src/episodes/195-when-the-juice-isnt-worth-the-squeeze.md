@@ -4,7 +4,7 @@ description: "In this week's episode, the hosts discuss situations where the eff
 date: 2024-09-11
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/120e0c83-ec00-4c8d-9b78-59f8f59d9e98"></script><div class="redcirclePlayer-120e0c83-ec00-4c8d-9b78-59f8f59d9e98"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/195-when-the-juice-isnt-worth-the-squeeze/id1544142288?i=1000669133945"></iframe>
 
 In this week's episode, the hosts discuss situations where the effort put in is not worth the results. They cover topics like the inefficiency of tracking every minute, the high cost of striving for 100% code coverage, and handling lengthy build times during deployments. The team debates the importance of releasing features incrementally versus deploying massive changes and highlights the inefficiencies in requiring extensive requirements documentation.
 
