@@ -4,7 +4,7 @@ description: "In this week's episode, the hosts discuss a variety of topics incl
 date: 2024-09-25
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/0febf51e-83dc-41ee-ae2d-51a7cc5e537f"></script><div class="redcirclePlayer-0febf51e-83dc-41ee-ae2d-51a7cc5e537f"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/197-ai-the-innovation-dilemma-promotions-and-more/id1544142288?i=1000670643781"></iframe>
 
 In this week's episode, the hosts discuss the value of focusing on a single top priority during challenging times and the implications of AI on the workplace, emphasizing the importance of maintaining human connections and individual reflection.
 
