@@ -1,16 +1,16 @@
 ---
 title: "198: Battling Build Complexity"
-description: "In this episode, the hosts discuss the complexities and frustrations of deployment automation and DevOps, particularly focusing on the challenges faced with makefiles, continuous integration (CI) processes, and build systems. "
+description: "In this episode, the hosts discuss the complexities and frustrations of deployment automation and DevOps, particularly focusing on the challenges faced with makefiles, continuous integration (CI) processes, and build systems."
 date: 2024-10-02
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/1d261235-e85f-4dd1-9deb-3a2dea771016"></script><div class="redcirclePlayer-1d261235-e85f-4dd1-9deb-3a2dea771016"></div>
-
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/198-battling-build-complexity/id1544142288?i=1000671538571"></iframe>
 
 In this episode, the hosts discuss the complexities and frustrations of deployment automation and DevOps, particularly focusing on the challenges faced with makefiles, continuous integration (CI) processes, and build systems.
 
 They explore tools like ZX from Google and Oclif from Salesforce to find better solutions for running and organizing commands. The conversation also touches on the difficulties of maintaining older legacy systems like ColdFusion.
+
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
