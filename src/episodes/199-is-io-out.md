@@ -4,7 +4,7 @@ description: "In this week's episode, the hosts discuss the potential discontinu
 date: 2024-10-23
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/68938ec7-6d1a-4d72-880d-c2146b5a5bcf"></script><div class="redcirclePlayer-68938ec7-6d1a-4d72-880d-c2146b5a5bcf"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/199-is-io-out/id1544142288?i=1000674135267"></iframe>
 
 In this week's episode, the hosts discuss the potential discontinuation of .io domains, the historical and geopolitical nuances of TLDs like .tv and .io, and the complexities of managing and pricing domain names.
 
