@@ -1,10 +1,10 @@
 ---
 title: "200: The Power of Pause - We're Taking a Break"
-description: "In this special episode, we celebrate reaching our 200th show by discussing the critical importance of taking breaks and avoiding burnout. "
+description: "In this special episode, we celebrate reaching our 200th show by discussing the critical importance of taking breaks and avoiding burnout."
 date: 2024-10-30
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/3a06ee50-507a-42c1-ae66-8b055c1a8de8"></script><div class="redcirclePlayer-3a06ee50-507a-42c1-ae66-8b055c1a8de8"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/200-the-power-of-pause-were-taking-a-break/id1544142288?i=1000675032653"></iframe>
 
 In this special episode, we celebrate reaching our 200th show by discussing the critical importance of taking breaks and avoiding burnout.
 
