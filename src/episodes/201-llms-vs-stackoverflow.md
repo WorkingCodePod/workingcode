@@ -4,7 +4,7 @@ description: "The crew returns to dive into a thought-provoking discussion on th
 date: 2025-01-15
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/6effd73e-3723-41b2-8c3f-79fcbe932db5"></script><div class="redcirclePlayer-6effd73e-3723-41b2-8c3f-79fcbe932db5"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/201-llms-vs-stackoverflow/id1544142288?i=1000684106661"></iframe>
 
 We're back! and in this episode of the Working Code Podcast, the crew returns to dive into a thought-provoking discussion on the impact of Large Language Models (LLMs) like ChatGPT on technical communities such as Stack Overflow.
 
