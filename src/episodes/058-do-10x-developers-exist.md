@@ -18,7 +18,7 @@ Of course, few developers work in a vacuum. And, when you're part of a team that
 
 Also, is [TJ Holowaychuk][tj-holowaychuk] even a real person? Or, is he an artificial persona concocted by a consortium of elite programmers who were keen to show the world what a 10x Developer might look like? We may never know!
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

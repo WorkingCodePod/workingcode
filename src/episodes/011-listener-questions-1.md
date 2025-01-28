@@ -44,7 +44,7 @@ Oh, and Adam totally built [a website for the show][working-code]! So, heck yeah
 - [Ben Nadel: Singleton vs. Single Instance And A Decade Of Unnecessary Guilt](https://www.bennadel.com/blog/3380-singleton-vs-single-instance-and-a-decade-of-unnecessary-guilt.htm) - the realization that everything he thought about the "Singleton Pattern" was wrong.
 - DevOps - who the heck knows what it actually is - platform things mostly? Code++? A mindset? A job title?
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -55,9 +55,7 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [ld2]: https://twitter.com/LD2/status/1357493535088332801
 [working-code]: https://workingcode.dev/
 [working-code-009]: https://workingcode.dev/episodes/009-testing/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/011-listener-questions-1.md
 
 ---

@@ -12,14 +12,13 @@ Sponsors
 
 The less code you write, the easier it is for people to review, the less likely it is to contain bugs, and the more likely it is to merge cleanly into your main integration branch. The converse of this tends to also be true: the more code you write - particularly within a long-lived feature branch - the harder it is to review and the more likely it is to contain bugs that cause production issues. We all basically hold this to be true; however, that doesn't mean that we can _simply choose to do the former_. Shipping less complexity is a byproduct of both team and technology constraints. This week on the show, the crew talks about how they try to reduce the complexity of their code shipping process.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/085-shipping-complexity.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

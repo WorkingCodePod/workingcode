@@ -14,15 +14,14 @@ This week, we're super excited to be getting the band back together! After sever
 
 These financial metaphors _romanticize_ the notion of technical debt, elevating it into the realm of _calculated decision making_. But, if we're being honest without ourselves, is any kind of calculation really taking place? Or, are we just trying to do the best that we can with the knowledge and experience that we have? In other words, isn't most technical debt _really_ just the result of engineers writing janky code at the limit of our capabilities?
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/099-technical-debt-isnt-always-a-choice-or-is-it.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

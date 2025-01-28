@@ -8,15 +8,14 @@ date: 2023-07-12
 
 On today's episode, we invite you into another dimension. A dimension not only of sight and sound, but of mind. Ben's mind. Ben's sick, twisted cavern of decay and depravity wherein we gain insight into what actually makes this man tick. Topics include the slippery slope of the "Shift Left" mentality; over-complicating life with JWTs (JSON Web Tokens); dangerous public-on-public method invocation; and, the inherent _cost_ of _everything_.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/135-note-to-self-v0-3-0.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

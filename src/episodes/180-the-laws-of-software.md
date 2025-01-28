@@ -8,7 +8,7 @@ date: 2024-05-29
 
 On today's show, we discuss a few of the entries outlined on the website, the [Laws of Software][laws-of-software]. Topics include Atwood's Law on JavaScript, Cunningham's Law on getting answers, Parkinson's Law on getting things done, Goodhart's Law on taking measurements, Hofstadter's Law on inevitable failure, and the Peter Principle.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -16,7 +16,6 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/180-the-laws-of-software.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

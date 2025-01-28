@@ -41,7 +41,7 @@ And just when you thought things couldn't get any better, the Working Code Podca
 - [Loggly](https://www.loggly.com/) - a log aggregation service that requires no proprietary agents.
 - [Datadog](https://www.datadoghq.com/) - a modern (and totally awesome) platform for monitoring, logging, and StatsD metrics.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -50,9 +50,7 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [launchdarkly]: https://launchdarkly.com/
 [udemy]: https://www.udemy.com/
 [working-code]: https://workingcode.dev/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/018-feature-flags-finally.md
 
 ---

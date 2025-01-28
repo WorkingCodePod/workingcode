@@ -12,14 +12,13 @@ Sponsors
 
 This week on the show, the crew talks about what they've been working on recently. Adam is exploring the use of AWS (Amazon Web Services) message queues and S3 in order to manage nightly data processing in a way that _won't crush_ his application servers. Tim has been approved to use the national "Do Not Call" list and is now working to integrate this list into his communications workflow. Ben is dealing with post-deployment depression, which is often what happens when he's at the end of his R.O.P.E. And, Carol is de-scoping a massive project down into an MVP (Minimum Viable Product) that can be shipped within a single sprint in order to demonstrate the value-add of the concept!
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/074-whats-on-your-workbench.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

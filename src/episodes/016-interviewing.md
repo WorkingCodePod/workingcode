@@ -30,16 +30,15 @@ Each week, our top Patreon supporters get a sponsored shout-out. And, today's sh
 - [MOVA](https://www.theregister.com/2021/03/10/fake_mova_programming) - a fake programming language created to help weed-out nefarious recruiters and engineers.
 - [How to Deal with Difficult People on Software Projects](https://www.howtodeal.dev/) - a breakdown of different work personalities and how to work effectively with them.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [girls-who-code]: https://girlswhocode.com/
 [rest-assured]: https://restassuredbook.com/
 [working-code]: https://workingcode.dev/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [zappos-quit]: https://www.businessinsider.com/zappos-tony-hsieh-paid-new-workers-to-quit-the-offer-2020-11
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/016-interviewing.md
 

@@ -8,14 +8,13 @@ date: 2023-05-31
 
 When Engineering, Product, and Design (EPD) come together to create the first version of a given piece of software, it feels like everyone is on the same page and has the same priorities. But, once that initial implementation ships to users, the Product and Design departments tend to move on, leaving engineers to maintain the software. This creates an uncomfortable tension between the existing user experience (UX) and the underlying technical details. On today's show, we talk about that EPD tension and how we might work to mitigate it.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/129-new-features-vs-maintenance.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

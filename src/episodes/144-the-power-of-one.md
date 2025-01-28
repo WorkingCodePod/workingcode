@@ -8,15 +8,14 @@ date: 2023-09-13
 
 In a perfect world, we always do our best. But, our capacity for "best" changes on a day-to-day basis. On some days, doing our best means jumping out of bed and absolutely _crushing the day_! On other days, doing our best means that we rallied _just_ to get out of bed. And, that's OK. When we're in the slog - when our "best" is degraded - it can be helpful to identify a single, small challenge for the day; a challenge that can be accomplish and celebrated. This technique is what Carol calls the "Power of One".
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/144-the-power-of-one.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

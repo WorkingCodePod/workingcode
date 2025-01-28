@@ -8,14 +8,13 @@ date: 2024-05-15
 
 This week on the podcast, we touch on a variety of topics. Ben has been incrementally building a data export feature for his customers; and, he's gotten to a point in which he can see a viable light at the end of the tunnel. Carol has discovered that if she doodles circles with her non-dominant hand, it occupies the ADHD portion of her brain and frees her up to focus on reading. Tim is continuing to improve his AI voice-agent, using a listener-suggested approach to loading Spanish language voice models on demand. And, Adam is battling some pretty steamy code rot; and is attempting to upgrade a series of interconnected Node.js Lambda functions from v0.10&mdash;released in 2013&mdash;to v20.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/178-upgrading-from-node-010.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

@@ -8,7 +8,7 @@ date: 2023-02-01
 
 This week, we reach into [our bag of **Listener Questions**][working-code-ama] and pontificate on such curiosities as: Who would we want to be and what skills would we want to learn if we could step into an alternate reality? Would Danny DeVito make an intriguing Wolverine? Which are the best programming-related movies and shows? And, we all laugh a little nervously as Tim shares _just how much time_ he's clearly spent figuring out how to get rid of a dead body.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -16,7 +16,6 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [working-code-ama]: https://workingcode.dev/ama
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/112-listener-questions.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

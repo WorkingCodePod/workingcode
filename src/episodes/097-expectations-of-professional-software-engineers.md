@@ -12,7 +12,7 @@ Sponsors
 
 This week on the show, the crew reviews [Mike Acton's talk, "Everyone Watching This Is Fired"][mike-acton], by way of [Adam Johnson's article, Expectations of Professional Software Engineers][adam-johnson]. This talk outlines 50 characteristics - both technical and non-technical - that go into making you and your team fit for building products and dealing with customers. Some of these line-items makes us feel seen while others leave us feeling attacked. Listen to find out which ones are which!
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -20,9 +20,8 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [mike-acton]: https://www.youtube.com/watch?v=cV5HArLYajE
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/097-expectations-of-professional-software-engineers.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

@@ -34,7 +34,7 @@ Plus, we find out that Carol can be bribed with tacos... sweet, sweet tacos!
 - [GitHub][github] - a very popular source-control solution, built on git.
 - [BitBucket][bitbucket] - another popular source-control solution from Atlassian.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -43,9 +43,8 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [working-code]: https://workingcode.dev/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/014-zen-and-the-art-of-pull-requests.md
 
 ---

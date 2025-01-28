@@ -10,14 +10,13 @@ There are 2 hard problems in computer science: cache invalidation, naming things
 
 In this week's episode, the crew discusses the complexities and nuances of naming conventions in software projects. The team reflects on their own practices, shared challenges, and the real-world impact of terminology and structure on software development and maintenance.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/203-the-hard-problem-of-naming-things.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

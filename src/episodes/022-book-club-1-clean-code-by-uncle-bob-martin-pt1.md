@@ -22,7 +22,7 @@ And, of course, we don't all agree on all the concepts. But, that's what makes t
 
 - **Tim's Triumph** - While reading [Clean Code][clean-code] in preparation for this episode, he's already feeling more cognizant of the way that he's writing his applications. And, things are feeling pretty, pretty, pretty clean.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -31,7 +31,6 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [robert-martin]: http://cleancoder.com/
 [working-code]: https://workingcode.dev/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/022-book-club-1-clean-code-by-uncle-bob-martin-pt1.md
 
 ---

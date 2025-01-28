@@ -8,14 +8,13 @@ date: 2024-08-28
 
 In this episode, the hosts delve into the idea of whether bonds formed in moments of workplace trauma and high-stress situations are uniquely irreplaceable. The discussion also touches on how team-building activities can simulate the bonds formed under duress, the cultural differences in work stress, and challenges faced in the workplace.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/193-bonds-built-in-the-foxholes.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

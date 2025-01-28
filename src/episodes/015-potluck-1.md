@@ -28,13 +28,12 @@ This week, we're trying something new: each host has brought with them a topic f
 - Dark Matter Developers - the quiet majority of engineers that do their job but don't necessarily participate in the greater web development community.
 - IGROW - Issue, Goal, Reality, Options, Way Forward: a model for mentoring and coaching.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/015-potluck-1.md
 
 ---

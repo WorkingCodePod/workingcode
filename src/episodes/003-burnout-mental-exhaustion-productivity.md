@@ -20,7 +20,7 @@ date: 2020-12-30
 - **Tim's Triumph:** He turned in the paperwork to get his team their raises on time.
 - **Adam's Triumph:** Testing on a new platform for his giant application has reached 100%, and a looming deadline may actually be met.
 
-Follow the show! Our website is [workingcode.dev](https://workingcode.dev) and We're **@workingcode.dev** on [Bluesky](https://bsky.app/profile/workingcode.dev). New episodes weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev](https://workingcode.dev) and We're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes weekly on Wednesday.
 
 ## Notes & Links
 

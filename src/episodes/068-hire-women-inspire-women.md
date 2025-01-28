@@ -12,15 +12,14 @@ Sponsors
 
 This week on the show, Carol leads a discussion about communication styles, recruiting, and the power of seeing female role models at all levels of an organization. From the onset of her career, Carol has both been _witness to_ and been _taxed by_ a general lack of female leadership in the engineering world. From the college advisor who steered Carol away from computer science to the boss that sent her pictures of his genitalia, the last 12-years have made it abundantly clear to Carol just how important it is to hire women and cultivate a diversity of thought, perspectives, and backgrounds. And, this isn't only for the sake of women - it's also a way to drive more successful outcomes for companies and the products that they build.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/068-hire-women-inspire-women.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

@@ -20,7 +20,7 @@ date: 2020-12-23
 - **Carol's Triumph and Failure:** She was locked out of a database only to realize she configured the connection wrong from the first day. Total face/palm time.
 - **Adam's Failure:** He committed to main... tsk tsk. Who commits to main?? Oh yeah, Adam does...
 
-Follow the show! Our website is [workingcode.dev](https://workingcode.dev) and We're **@workingcode.dev** on [Bluesky](https://bsky.app/profile/workingcode.dev). New episodes weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev](https://workingcode.dev) and We're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes weekly on Wednesday.
 
 ## Notes & Links
 

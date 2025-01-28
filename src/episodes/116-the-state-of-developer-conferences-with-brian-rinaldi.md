@@ -8,7 +8,7 @@ date: 2023-03-01
 
 [Brian Rinaldi][brian-rinaldi], Developer Experience Engineer at LaunchDarkly and long time friend of the show, recently wrote a blog post that was picked up in the [TL;DR newsletter][tldr]. His post, titled [The State of Developer Conferences][brian-rinaldi-post], shares a theory as to why both online and IRL (In Real Life) conferences are struggling to reach pre-pandemic attendance. Brian, who's been running conferences for 15-years, has a keen understanding of who attends events; and, why the demographics of attendees might be shifting. Conference organizers around the world are reading Brian's post and are nodding in strong agreement.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -18,7 +18,6 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/116-the-state-of-developer-conferences-with-brian-rinaldi.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

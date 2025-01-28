@@ -37,7 +37,7 @@ And finally, don't forget that we are going to have our first book club episode 
 - [Seth Bling: Machine Learning for Video Games](https://www.youtube.com/watch?v=qv6UVOQ0F44) - An example of a computer that learns to play Super Mario.
 - [Google: Natural Language](https://cloud.google.com/natural-language) - A service helps you derive insights from unstructured text.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -45,9 +45,8 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [dan-switzer]: https://www.linkedin.com/in/dswitzer/
 [tech-girlz]: https://www.techgirlz.org/
 [working-code]: https://workingcode.dev/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/020-carol-needs-a-consult.md
 
 ---

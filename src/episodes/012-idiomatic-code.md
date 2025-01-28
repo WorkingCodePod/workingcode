@@ -31,7 +31,7 @@ This week, the crew talks about idiomatic code, what they think it really means,
 - [Guido van Rossum](https://gvanrossum.github.io/) - author of the Python programming language; and, a big proponent of idiomatic code (in Python).
 - [Rick Waldron: Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js/) - an opinionated guide to writing JavaScript.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -40,7 +40,6 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [working-code]: https://workingcode.dev/
 [working-code-009]: https://workingcode.dev/episodes/009-testing/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/012-idiomatic-code.md
 
 ---

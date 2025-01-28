@@ -8,14 +8,13 @@ date: 2023-11-01
 
 When you build a system that is wholly contained within a single process, life is quite clean and predictable. But, the moment you reach outside of your process in order to get work done, you realize how messy the world is. Communication between systems can breakdown for any number of reasons. Often times, we try to create resiliency within the chaos by apply technology. But, sometimes, it makes more sense—and is far less expensive—to fix these problems using a human-oriented solution.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/151-async-human-solutions.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

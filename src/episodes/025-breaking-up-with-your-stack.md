@@ -24,15 +24,14 @@ There's no _one reason_ that companies _move away_ from or _onto_ a technology s
 - [Strangler Pattern](https://martinfowler.com/bliki/StranglerFigApplication.html) - A technique in which a new implementation slowly takes traffic from an existing implementation.
 - [JAM Stack](https://jamstack.org/) - JavaScript, APIs, and Markup stand as the pillars in this newly-coined architectural approach.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-020]: https://workingcode.dev/episodes/020-carol-needs-a-consult/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/025-breaking-up-with-your-stack.md
 
 ---

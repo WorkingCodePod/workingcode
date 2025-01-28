@@ -8,7 +8,7 @@ date: 2024-02-07
 
 For the most part, software engineers like the concept of Agile methodology; and, they have a sense that agile development practices are the best way of getting work done. But, that doesn't mean we know how to put these agile practices in place (especially at scale). Today, we talk to [Brian Sadler][brian-sadler] ([@brian_sadler][brian-sadler-twitter]) - a seasoned software developer and Agile coach - about what Agile is, what parts of it work the best, and where teams often go wrong in their interpretation of best practices.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -17,7 +17,6 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/165-agile-methodology-with-brian-sadler.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

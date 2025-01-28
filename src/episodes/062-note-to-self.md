@@ -12,14 +12,13 @@ Sponsors
 
 This week on the show, the crew peers into the deep, dark recesses of Ben's mind and tries to understand what exactly makes him tick. Composed of equal parts rant and dialogue, the topics range from throwing errors on delete operations, handling bulk operations idempotently, feeling guilty about using backup cameras, keeping large task backlogs, reprioritizing tasks on-the-fly, transpiling JavaScript to ES5 for legacy browsers, the benefits and drawbacks of a robust QA (Quality Assurance) phase, and the cargo culting of `let` and `const` in the greater JavaScript community.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/062-note-to-self.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

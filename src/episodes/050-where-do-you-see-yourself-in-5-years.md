@@ -14,15 +14,14 @@ This week on the show, the crew talks about where they each see themselves in 5 
 - [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages](https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/)
 - [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement](https://pragprog.com/titles/pwrdata/seven-databases-in-seven-weeks-second-edition/)
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. Or, leave us a message at (512) 253-2633 (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). Or, leave us a message at (512) 253-2633 (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/050-where-do-you-see-yourself-in-5-years.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

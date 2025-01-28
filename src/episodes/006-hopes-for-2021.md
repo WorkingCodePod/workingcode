@@ -21,7 +21,7 @@ We'd also like to give a huge shout-out and thank you to **[Monte Chan](https://
 - Carol Hamilton -- [Twitter](https://twitter.com/k_Roll242)
 - Tim Cunningham -- [Twitter](https://twitter.com/timcunningham71)
 
-Follow the show! Our website is [workingcode.dev](https://workingcode.dev) and We're **@workingcode.dev** on [Bluesky](https://bsky.app/profile/workingcode.dev). New episodes weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev](https://workingcode.dev) and We're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes weekly on Wednesday.
 
 ## Triumphs & Fails
 

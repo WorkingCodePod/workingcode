@@ -8,7 +8,7 @@ date: 2023-11-15
 
 Inspired by a [4-part series on "Failure"][freakanomics-failure] produced by the [Freakanomics radio podcast][freakanomics-radio], we went around the table and talked about our own failures. This helps to remove the social stigma associated with failure; and, helps other people process internal conflicts of emotion. Tim talks about failing to sell websites in the early dot-com boom; Adam talks about failing to create a ColdFusion package manager; and, Ben talks about the _years he lost_ trying to learn Object Oriented Programming (OOP).
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -17,7 +17,6 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/153-our-biggest-failures.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

@@ -28,13 +28,12 @@ This week, the crew talks about "premature optimization". As Ben explained it to
 - [Adam Tuttle: Errors Are Best When Emailed... Said Nobody Ever](https://adamtuttle.codes/blog/2013/errors-are-best-when-emailed-said-nobody-ever/) - a presentation on how to effectively monitor errors within your web application.
 - [MongoDB is Web Scale](https://www.youtube.com/watch?v=b2F-DItXtZs) - a meme poking fun at the web scale fanatics that showed up after Document Databases were first introduced.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/017-premature-optimization.md
 
 ---

@@ -8,7 +8,7 @@ date: 2023-04-26
 
 On today's show, we reflect on the YouTube video, [15 Years of Dev in a Nutshell][15-years]. A few years ago, people were complaining about "JavaScript Fatigue" - this sense that there was a new JavaScript library or framework coming out every day; and, that the race to stay up-to-date in the industry was simply overwhelming. Now, take that feeling, and expand it to include _everything_ in a web development career, from front-end frameworks to databases to server-side rendering to edge-computing. _It's a lot!_ And, it's easy to feel that we engineers are "Juniors for Life": always learning, always evolving, and &mdash; perhaps &mdash; never really mastering anything?
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -16,7 +16,6 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/124-we-are-juniors-for-life.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

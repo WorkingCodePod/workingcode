@@ -17,7 +17,7 @@ Most people sit somewhere in the middle of these extremes. This week, the crew t
 - Carol Hamilton -- [Twitter](https://twitter.com/k_Roll242)
 - Tim Cunningham -- [Twitter](https://twitter.com/timcunningham71)
 
-Follow the show! Our website is [workingcode.dev](https://workingcode.dev) and We're **@workingcode.dev** on [Bluesky](https://bsky.app/profile/workingcode.dev). New episodes weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev](https://workingcode.dev) and We're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes weekly on Wednesday.
 
 ## Triumphs & Fails
 
@@ -64,9 +64,8 @@ Follow the show! Our website is [workingcode.dev](https://workingcode.dev) and W
 If you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/009-testing.md
 
 ---

@@ -8,7 +8,7 @@ date: 2024-03-20
 
 On today's show, we talk to [Thelma Van][thelma-van] about integrating design into the product development workflow. This includes User Experience (UX) design, User Interface (UI) design, scope negotiation, and user validation through interviews. It turns out, even if you can only [talk to five of your customers][five-users], having this amount of feedback can have a massively out-sized impact on your overall design and development trajectory.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -16,9 +16,8 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [thelma-van]: https://www.linkedin.com/in/thelmavan/
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/170-thinking-in-ux-with-thelma-van.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

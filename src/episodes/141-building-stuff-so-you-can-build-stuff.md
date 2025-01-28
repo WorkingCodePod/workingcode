@@ -8,7 +8,7 @@ date: 2023-08-23
 
 Inspired by an article from [Dimitri Glazkov: Build a thing to build the thing][dimitri-glazkov], we talk about the importance of consuming of our own products. Often referred to as "Dog Fooding", this means that we must try and build something in the same way that _our customers_ would be expected to build something. And, in doing so, better identify the feature gaps and the points-of-friction. In order to best meet our customers _where they are_, we have to - in a sense - become our customers.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -16,7 +16,6 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/141-building-stuff-so-you-can-build-stuff.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

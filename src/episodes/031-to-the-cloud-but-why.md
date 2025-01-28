@@ -10,7 +10,7 @@ There is no _one thing_ that is "The Cloud". Instead, there are a set of _genera
 
 This week, the crew talks about what The Cloud is and why people are so keen to adopt it. And, of course, since nothing is _truly free_, we'll also take a look at the drawbacks of cloud-based architectures.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -18,7 +18,6 @@ With audio editing and engineering by [ZCross Media][editor].
 
 [working-code]: https://workingcode.dev/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [editor]: https://www.zcross.media/
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/031-to-the-cloud-but-why.md
 

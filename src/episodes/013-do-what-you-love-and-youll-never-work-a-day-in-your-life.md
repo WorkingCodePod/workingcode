@@ -40,7 +40,7 @@ The conversation examined the "do what you love" concept from a variety of diffe
 - [Matthew 7:13][matthew] - _Enter ye in at the strait gate_...
 - [Marianne Williamson][marianne-williamson] - author of the poem, Our Deepest Fear.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -48,9 +48,8 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [matthew]: https://en.wikipedia.org/wiki/Matthew_7:13
 [mingo-hagen]: https://mingo.nl/
 [working-code]: https://workingcode.dev/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/013-do-what-you-love-and-youll-never-work-a-day-in-your-life.md
 
 ---

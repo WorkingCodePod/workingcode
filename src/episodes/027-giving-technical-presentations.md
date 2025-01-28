@@ -19,7 +19,7 @@ As [Jerry Seinfeld joked][seinfeld-joke], when it comes to funerals, most people
 
 - [Patrick Winston: How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY) - this talk, 40-years in the making, is intended to improve your speaking ability in critical situations by teaching you a few heuristic rules.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -27,9 +27,8 @@ With audio editing and engineering by [ZCross Media][editor].
 
 [seinfeld-joke]: https://www.goodreads.com/quotes/170523-a-recent-survey-stated-that-the-average-person-s-greatest-fear
 [working-code]: https://workingcode.dev/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [editor]: https://www.zcross.media/
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/027-giving-technical-presentations.md
 

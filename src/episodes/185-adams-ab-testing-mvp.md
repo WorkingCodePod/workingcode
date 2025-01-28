@@ -10,14 +10,13 @@ On this week's show, Adam and Ben explore the complexities of implementing AB te
 
 The hosts tackle the challenge of integrating AB testing into existing systems without causing disruptions and examine methods for experimenting with various elements like subject lines, calls-to-action, and email contents. They also discuss strategies for automating the selection of winning variants based on metrics such as opens and clicks.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/185-adams-ab-testing-mvp.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

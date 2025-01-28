@@ -8,15 +8,14 @@ date: 2023-11-29
 
 Coming out of the Thanksgiving holiday (and still recovering from our food comas), we wanted to have some fun today and talk about all of the software that we're thankful to have in our lives. These aren't sponsors of the show (yet); but, we love them so much that we wanted to share them with the rest of the world. Topics include [Dead Man's Snitch](https://deadmanssnitch.com/), [Overcast podcast player](https://overcast.fm/), [git](https://git-scm.com/) source control, [GitHub](https://github.com/), [Snagit](https://www.techsmith.com/screen-capture.html) and [Skitch](https://evernote.com/products/skitch) screen capture tools, [1Password](https://1password.com/) for password management, [PlexTV](https://www.plex.tv/) for media management, video chat, IDEs and code editors, and basically everything that enhances the day-to-day lives of us developers.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/155-software-were-thankful-for.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

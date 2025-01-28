@@ -12,16 +12,15 @@ Sponsors
 
 This week on the show, the crew discusses a topic submitted by [Mingo Hagen][mingo-hagen]: _Do developers wear too many hats, do they spread themselves too thin, and does the work suffer because of it?_ There are clears benefits and drawbacks to wearing a lot of hats. Knowing a little bit about a lot of things can cut down on communication overhead and enable teams to move faster. But, without specialization, solutions will almost certainly be sub-optimal; and, "best practices" may not even be known to the engineer. Ideally, a team should consistent of both _generalists_ and _subject-matter experts_. This kind of balance creates a "healthy tension" that tempers perfectionism with pragmatism and keeps everyone moving forward at the right pace.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [mingo-hagen]: https://mingo.nl/
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/072-too-many-hats.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

@@ -10,7 +10,7 @@ On this week's show, we explore a variety of topics. Ben wants to perform a mini
 
 Also, Ben offers up some high praise for [Lenny's Podcast][lenny] - a show in which Lenny Rachitsky interviews top Product and Marketing leaders in our industry. This show is absolutely dripping in value!
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -18,7 +18,6 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/164-solo-programming-chrome-monoculture-and-more-potluck.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

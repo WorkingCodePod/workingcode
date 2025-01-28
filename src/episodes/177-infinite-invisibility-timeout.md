@@ -8,7 +8,7 @@ date: 2024-05-08
 
 Adam uses the new CSS color functions for HSL (Hue, Saturation, Lightness) in order to [create a heatmap][hsl-so] for the number of dollars raised by his platform. Ben dives into the [Algolia search service][algolia] as a way to provide a search feature on his blog. Carol is trying to alleviate performance concerns around an N+1 SQL problem using an ORM (Object-Relational Mapper) that has decided to use an N+1 selection strategy as "the way" with no escape hatch. And, Tim is getting some great feedback regarding his AI-powered call system that will alert customers to upcoming renewal dates.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -17,7 +17,6 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/177-infinite-invisibility-timeout.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

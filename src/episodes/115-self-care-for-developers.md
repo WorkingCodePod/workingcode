@@ -8,14 +8,13 @@ date: 2023-02-22
 
 After drinking close to 12 Mountain Dews in a single day, Adam started to wonder if — just maybe — he was using caffeine as a way to self-medicate. Upon discussing this with his doctor, Adam was diagnosed with ADHD (Attention-Deficit / Hyperactivity Disorder) - a condition _very common_ in the world of programming (a fact that we inspect on the show). In light of these findings, we thought it would be nice to reflect on how we've all changed during the pandemic; and, share the little things that we do in order to keep our wits about us.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/115-self-care-for-developers.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

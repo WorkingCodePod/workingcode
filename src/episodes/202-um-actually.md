@@ -10,15 +10,13 @@ In this week's episode, Tim and Ben go head-to-head in a trivia game inspired by
 
 The game reveals lesser-known facts and recent updates in HTML, CSS, JavaScript, and browser functionalities.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/202-um-actually.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

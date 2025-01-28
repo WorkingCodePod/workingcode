@@ -8,14 +8,13 @@ date: 2021-12-29
 
 When you consider the hourly-rate of everyone in the room, meetings can be shockingly expensive. And, if it's a sales meeting, both _actual_ and _opportunity_ costs are on the line. Which is why we practice our sales pitches and offer up a sacrifice to the Demo Gods. But sometimes, that's not enough. On today's show, Tim and Adam share their sad tales of _sales fails_; and illustrate why it's so important to go into any meeting with a rock-solid plan-of-attack.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. Or, leave us a message at (512) 253-2633 (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). Or, leave us a message at (512) 253-2633 (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/055-sales-fails.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

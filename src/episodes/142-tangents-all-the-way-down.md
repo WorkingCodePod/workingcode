@@ -8,14 +8,13 @@ date: 2023-08-30
 
 When Carol's not here to keep us in line, the show quickly flys off the rails. So much so, in fact, that we never made it to the intended topic - it's just tangents upon tangents upon tangents. We touch upon "vendoring" of our external libraries, installing dependencies with `apt-get`, dictation app differences between macOS and iOS, the regret of not building features sooner, building the perfect demo for clients, and the "trap" of having to innovate. And that's _not even_ everything! Carol - we need you! You're our only hope!
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/142-tangents-all-the-way-down.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

@@ -12,14 +12,13 @@ Sponsors
 
 This week on the show, the crew discusses a potluck of tasty topics. Ben is trying to figure out what project he wants to use as his vehicle for learning Docker and container-based deployments. Adam wants to completely overhaul his data synchronization workflow, but is having a lot of trouble getting excited about the work (despite all of the exciting ingredients). Carol is being worn-down by the analysis phase of a project and just wants to start _doing the work_ and accruing some wins for her team! And, Tim just can't wrap his head around Functional Programming (FP) - I mean, how the heck can you possibly program anything without `IF`-statements?!
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/071-potluck-4.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
