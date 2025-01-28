@@ -8,7 +8,7 @@ date: 2022-12-28
 
 [Happy Festivus][festivus], dear listeners! Welcome to our last show of 2022! Closing out "No Effort December", we truly run the gamut this time: Ben talks about the crippling attachment he has to his own fingers (and why he won't work with wood); Adam talks about how excited he is for the v1.0 release of [Svelte Kit][svelte-kit]; and, Tim reflects on the blinding speed with which people seem to be to making science and technology breakthroughs - I mean, we're talking some serious Sci-Fi-level stuff here!
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

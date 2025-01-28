@@ -14,39 +14,38 @@ If you like this episode about scaling, you may also enjoy our previous episode 
 
 ### Triumphs &amp; Failures
 
--  **Adam's Triumph** - After switching to a new platform, his ORM (Object-Relational Mapping) code stopped working for "reasons". And, instead of spending a whole week trying to figure it out, he just spent a single day replacing the problematic ORM queries with native SQL statements. This was a veritable "Master Class" in pragmatic problem solving.
+- **Adam's Triumph** - After switching to a new platform, his ORM (Object-Relational Mapping) code stopped working for "reasons". And, instead of spending a whole week trying to figure it out, he just spent a single day replacing the problematic ORM queries with native SQL statements. This was a veritable "Master Class" in pragmatic problem solving.
 
--  **Ben's Failure / Triumph** - This week has been _kicking his butt_! He's exhausted and stressed out - even his feet hurt. This is due, primarily, to the HTML emails that he's been crafting at work. That said, he's been able to take his "failure" and transform it into a "triumph" by channeling that frustration into an exciting new approach for building HTML emails that's powered by ColdFusion Custom Tags. It's still early, but he's hella stoked on the concept!
+- **Ben's Failure / Triumph** - This week has been _kicking his butt_! He's exhausted and stressed out - even his feet hurt. This is due, primarily, to the HTML emails that he's been crafting at work. That said, he's been able to take his "failure" and transform it into a "triumph" by channeling that frustration into an exciting new approach for building HTML emails that's powered by ColdFusion Custom Tags. It's still early, but he's hella stoked on the concept!
 
--  **Carol's Triumph** - She wrote some rather complicated code that dealt with edge-cases in her application that weren't really ever going to happen. And, when her teammates discussed this with her, she did the honorable thing and removed her code, leaving in its place a much simpler solution. The real triumph here is that she was able to overcome the "sunk cost fallacy" we engineers often succumb to when having to confront the questionable value of our own solutions.
+- **Carol's Triumph** - She wrote some rather complicated code that dealt with edge-cases in her application that weren't really ever going to happen. And, when her teammates discussed this with her, she did the honorable thing and removed her code, leaving in its place a much simpler solution. The real triumph here is that she was able to overcome the "sunk cost fallacy" we engineers often succumb to when having to confront the questionable value of our own solutions.
 
--  **Tim's Failure** - What started out as a thrilling exploration of Redis has turned into a battle for sanity! For reasons that he has not yet been able to understand, the data that he's been writing to a Redis cache isn't always available for immediate read. This is in his local development environment and he's _the only one_ hitting the code. It just doesn't make any sense!
+- **Tim's Failure** - What started out as a thrilling exploration of Redis has turned into a battle for sanity! For reasons that he has not yet been able to understand, the data that he's been writing to a Redis cache isn't always available for immediate read. This is in his local development environment and he's _the only one_ hitting the code. It just doesn't make any sense!
 
 ### Notes &amp; Links
 
--  [Redis](https://redis.io/) - a blazing-fast in-memory data structure store.
--  [CFRedis](https://github.com/MWers/cfredis) - a ColdFusion client for the Jedis Java driver for Redis.
--  [Jedis](https://github.com/redis/jedis) - a blazingly small and sane Java client for Redis.
--  [Mango Blog](https://www.mangoblog.org/) - an extensible blog engine released under the Apache license, built with ColdFusion.
--  [CockroachDB](https://www.cockroachlabs.com/) - a distributed SQL database built on a transactional and strongly-consistent key-value store.
--  [Dan McKinley: Boring Technology Club](http://boringtechnology.club/) - a spoken word version of Dan's essay, "Choose Boring Technology".
--  [Ben Nadel: "Enterprise" is not a dirty word](https://www.bennadel.com/blog/3976-enterprise-is-not-a-dirty-word.htm) - a blog post discussing the merits of "enterprise" software.
--  [FrameworkOne (FW/1)](http://framework-one.github.io/) - a light-weight conventions-over-configuration framework for ColdFusion web applications.
--  Blocking-Request Budget - a concept in which serving a user's request can only entail a limited number of blocking requests.
--  [AWS Fargate](https://aws.amazon.com/fargate/) - services compute for containers.
--  [AWS Lambda](https://aws.amazon.com/lambda/) - a "functions as a service" (FaaS) platform.
--  [Mailgun](https://www.mailgun.com/) - an email service provider (ESP) built for developers.
--  [Let's Encrypt](https://letsencrypt.org/) - a nonprofit Certificate Authority that has brought free TLS certificates to the masses.
+- [Redis](https://redis.io/) - a blazing-fast in-memory data structure store.
+- [CFRedis](https://github.com/MWers/cfredis) - a ColdFusion client for the Jedis Java driver for Redis.
+- [Jedis](https://github.com/redis/jedis) - a blazingly small and sane Java client for Redis.
+- [Mango Blog](https://www.mangoblog.org/) - an extensible blog engine released under the Apache license, built with ColdFusion.
+- [CockroachDB](https://www.cockroachlabs.com/) - a distributed SQL database built on a transactional and strongly-consistent key-value store.
+- [Dan McKinley: Boring Technology Club](http://boringtechnology.club/) - a spoken word version of Dan's essay, "Choose Boring Technology".
+- [Ben Nadel: "Enterprise" is not a dirty word](https://www.bennadel.com/blog/3976-enterprise-is-not-a-dirty-word.htm) - a blog post discussing the merits of "enterprise" software.
+- [FrameworkOne (FW/1)](http://framework-one.github.io/) - a light-weight conventions-over-configuration framework for ColdFusion web applications.
+- Blocking-Request Budget - a concept in which serving a user's request can only entail a limited number of blocking requests.
+- [AWS Fargate](https://aws.amazon.com/fargate/) - services compute for containers.
+- [AWS Lambda](https://aws.amazon.com/lambda/) - a "functions as a service" (FaaS) platform.
+- [Mailgun](https://www.mailgun.com/) - an email service provider (ESP) built for developers.
+- [Let's Encrypt](https://letsencrypt.org/) - a nonprofit Certificate Authority that has brought free TLS certificates to the masses.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-005]: /episodes/005-monoliths-vs-microservices/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/010-scaling.md
 
 ---

@@ -8,7 +8,7 @@ date: 2024-07-24
 
 In this week's episode, Tim returns to the podcast for a discussion on code reviews, touching on the importance of providing constructive feedback, tailoring reviews based on the developer's experience level, and discussing the merits and drawbacks of tools like GitHub.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

@@ -8,7 +8,7 @@ date: 2023-10-04
 
 This week, we go around the table and talk about a variety of topics. Ben talks about Transactive Memory Systems Theory and how it might be applied in an engineering context. Carol—having moved into a new home and a new job—talks about the joys of starting something new in her life. Tim talks about the short-comings of a ticketing system; and, Goodhart's Law (which states that _"when a measure becomes a target, it ceases to be a good measure"_). And, Adam considers what his life would look like if he took on more of a leadership / force-multiplier role at work.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

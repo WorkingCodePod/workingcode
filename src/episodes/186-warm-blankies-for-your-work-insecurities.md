@@ -8,15 +8,14 @@ date: 2024-07-10
 
 In this week's episode Ben and Carol delve into their personal and professional insecurities. The discussion includes feeling the need to justify one's value at work, struggles with validations. They also talk about the emotional impact of customer interactions and the importance of human connections. The conversation highlights broader issues regarding job promotions, industry expectations, and the myth of constant innovation.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/186-warm-blankies-for-your-work-insecurities.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

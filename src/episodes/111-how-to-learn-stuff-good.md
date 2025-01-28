@@ -8,7 +8,7 @@ date: 2023-01-25
 
 Learning something new - whether it be a language, framework, or library - can be challenging. And, if you're already an expert in some ways, it can be both humbling and frustrating to suddenly feel like a novice in other ways. On top of that, our expectations are often distorted by time; and, we forget how long it took us to amass the understanding that we have today. This can lead to unrealistic expectations when it comes to learning something new. Not to mention that our strategies for learning might change in relation to our experience. On today's show, we share our respective approaches to learning from the ground up, including reading the manual, building applications from scratch, and everything in between.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

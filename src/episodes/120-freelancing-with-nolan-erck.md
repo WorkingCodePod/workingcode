@@ -10,10 +10,10 @@ As Carol launches her Freelancing career, we thought it would be valuable to int
 
 Links discussed on the show:
 
--  **Book**: [The Business Side of Creativity][business-side]
--  **Video**: [Mike Monteiro: F\*ck You, Pay Me][mike-monteiro]
+- **Book**: [The Business Side of Creativity][business-side]
+- **Video**: [Mike Monteiro: F\*ck You, Pay Me][mike-monteiro]
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

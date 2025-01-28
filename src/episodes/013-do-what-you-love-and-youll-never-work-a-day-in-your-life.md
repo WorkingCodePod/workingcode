@@ -20,27 +20,27 @@ The conversation examined the "do what you love" concept from a variety of diffe
 
 ### Triumphs &amp; Failures
 
--  **Adam's Failure** - he spent many person-hours trying to reduce the size of a Docker container image. And, while he eventually reduced it quite a bit (mostly by moving to Alpine Linux), he wasted far too much time on what turned out to be a _simple little typo_ in his `make` file. The most frustrating part of all of this is that he _just assumed_ that the line-in-question _could not possibly_ be the issue; so, he kept debugging the lines around it without addressing the actual problem.
+- **Adam's Failure** - he spent many person-hours trying to reduce the size of a Docker container image. And, while he eventually reduced it quite a bit (mostly by moving to Alpine Linux), he wasted far too much time on what turned out to be a _simple little typo_ in his `make` file. The most frustrating part of all of this is that he _just assumed_ that the line-in-question _could not possibly_ be the issue; so, he kept debugging the lines around it without addressing the actual problem.
 
--  **Ben's Triumph** - he and a co-worker, Jackie Ewald, were recently called-out as the embodiment of "customer empathy" at work because they built a custom feature for one of their clients. What made this so rewarding is the fact that they **did not ask for permission** to build this feature; and, it was a feature that they almost-certainly _would not have been allowed_ to build had they asked for permission.
+- **Ben's Triumph** - he and a co-worker, Jackie Ewald, were recently called-out as the embodiment of "customer empathy" at work because they built a custom feature for one of their clients. What made this so rewarding is the fact that they **did not ask for permission** to build this feature; and, it was a feature that they almost-certainly _would not have been allowed_ to build had they asked for permission.
 
-   Ben likes to keep this quote from Stephen Gates - the former Head Design Evangelist at InVision - on hand during all ideation meetings:
+  Ben likes to keep this quote from Stephen Gates - the former Head Design Evangelist at InVision - on hand during all ideation meetings:
 
-   > ".... for most companies, right now, because of the way their processes are—because of how afraid they are of so many things—the innovation that they need will probably not be authorized.... When I look back at all the work that was innovative, it was only innovative in hindsight—it almost got me fired on the way there."
+  > ".... for most companies, right now, because of the way their processes are—because of how afraid they are of so many things—the innovation that they need will probably not be authorized.... When I look back at all the work that was innovative, it was only innovative in hindsight—it almost got me fired on the way there."
 
--  **Carol's Triumph** - She's loving life in Lake Tahoe! Woot woot! Rock on with your bad self!
+- **Carol's Triumph** - She's loving life in Lake Tahoe! Woot woot! Rock on with your bad self!
 
--  **Tim's Triumph** - as a manager, he usually finds himself in a constant state of "meeting". However, he recently blocked-off **7-hours of heads-down time** on his calendar so that he would not be interrupted; and, the amount of work that he was able to get done was refreshingly preposterous. He even received a compliment from one of his clients who thanked him profusely, at the end of the day, for everything he was able to complete!
+- **Tim's Triumph** - as a manager, he usually finds himself in a constant state of "meeting". However, he recently blocked-off **7-hours of heads-down time** on his calendar so that he would not be interrupted; and, the amount of work that he was able to get done was refreshingly preposterous. He even received a compliment from one of his clients who thanked him profusely, at the end of the day, for everything he was able to complete!
 
-   > **ASIDE**: Managers, consider this story when it comes to scheduling meetings for your engineers! We need focus time to get our work done!
+  > **ASIDE**: Managers, consider this story when it comes to scheduling meetings for your engineers! We need focus time to get our work done!
 
 ### Notes &amp; Links
 
--  [Mingo Hagen][mingo-hagen] - listener who suggested the topic.
--  [Matthew 7:13][matthew] - _Enter ye in at the strait gate_...
--  [Marianne Williamson][marianne-williamson] - author of the poem, Our Deepest Fear.
+- [Mingo Hagen][mingo-hagen] - listener who suggested the topic.
+- [Matthew 7:13][matthew] - _Enter ye in at the strait gate_...
+- [Marianne Williamson][marianne-williamson] - author of the poem, Our Deepest Fear.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

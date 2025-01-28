@@ -8,7 +8,7 @@ date: 2023-11-22
 
 On today's show, we continue reflecting on the [4-part series on "Failure"][freakanomics-failure] produced by the [Freakanomics radio podcast][freakanomics-radio]. This time, we talk about Premortems; and, about how important it is for a company to create a safe space in which people can talk about failure and about the reasons failure might occur. We also dig into Logging strategies, structured logging, and role of different log levels. And, how we can best consume logs in a way that makes them valuable without being too noisy.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

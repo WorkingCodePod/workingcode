@@ -8,7 +8,7 @@ date: 2023-10-25
 
 This week we go around the table and see what the hosts have going on. Carol got a promotion in her first week back at work, despite the fact that she's had to emotionally suppress everything she once knew about dotnet. Adam is now - finally - at 100% SOC compliance (and is awaiting a 3-month review period). Tim has been wrestling with APIs and bending them to his will (to receive JSON payloads). And, Ben is considering different ways in which to package his Feature Flags book.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

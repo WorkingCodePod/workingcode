@@ -8,7 +8,7 @@ date: 2022-03-02
 
 Sponsors
 
--  [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
+- [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
 
 Gone is the era of the life-long employee. It's hard to even imagine rising up through the ranks, grinding out the decades, and then retiring - _with a penchant_ - all at a single company. Companies don't see their people that way anymore - a perspective that is, no doubt, shared in both directions. But, if you're not going to plant your flag and hunker down for the long-haul, how long should you stay at your job?
 
@@ -18,7 +18,7 @@ Of course, staying in one place too long may lead to stagnation in your skills a
 
 There's no correct path. And, there's no reason that your personal journey has to be uniform. Sometimes, as Adam points out, it can be quite beneficial to have a few shorter jobs before settling in for a longer stint. Just about the only thing we all agree on is that you shouldn't hop from job to job to job. At some point, you have to demonstrate some grit.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

@@ -12,11 +12,11 @@ On today's episode, Carol shares her team's approach to product development whic
 
 ## Notes &amp; Links
 
--  [Agile Alliance: Pair Programmging][pair-programming]
--  [Agile Alliance: Mob Programming][mob-programming]
--  [Ward Cunningham: Ping-Pong Programming](http://wiki.c2.com/?PairProgrammingPingPongPattern)
+- [Agile Alliance: Pair Programmging][pair-programming]
+- [Agile Alliance: Mob Programming][mob-programming]
+- [Ward Cunningham: Ping-Pong Programming](http://wiki.c2.com/?PairProgrammingPingPongPattern)
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -25,9 +25,8 @@ With audio editing and engineering by [ZCross Media][editor].
 [mob-programming]: https://www.agilealliance.org/glossary/mob-programming/
 [pair-programming]: https://www.agilealliance.org/glossary/pairing/
 [working-code]: https://workingcode.dev/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [editor]: https://www.zcross.media/
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/043-relay-race-programming.md
 

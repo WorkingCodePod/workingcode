@@ -8,7 +8,7 @@ date: 2024-03-13
 
 Several years ago, Stack Overflow noticed a small but surprising [trend within their 2017 Developer Survey data][so-money]. Even when attempting to adjust for several factors, it seems that the programmers who indent their code with spaces (as opposed to with tabs) have a higher earning potential. As an example of programmers who love using tabs, the hosts of the show offer up theories about this strange finding.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

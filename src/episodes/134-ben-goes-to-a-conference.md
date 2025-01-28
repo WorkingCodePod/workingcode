@@ -8,7 +8,7 @@ date: 2023-07-05
 
 After a multi-year global pandemic, preceded by a dearth of ColdFusion conferences in the U.S., Ben finally made it out to Munich, Germany for [CFCamp 2023][cfcamp] - Europe's premier CFML-oriented conference. At 130 attendees, it was the perfect place to re-enter society and talk tech with like-minded engineers. Going into it, Ben was anxious. But, by the end of the 3-day event, he ended up having a great time and was privileged to hang out with some truly wonderful people!
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

@@ -8,7 +8,7 @@ date: 2023-05-03
 
 On today's show, the crew discusses a variety of topics. By which, I mean, Ben waxes philosophical on the subjective nature of _everything_; and, how he wants to live in a world where those who choose to indent code with 2-spaces may peacefully coexist alongside those who choose to indent code with tabs. Also, Adam body-slams his younger brother into a concrete floor. And then, gets in trouble because he let blood get on the carpet. Be sure to listen for Adam's pro-tips for removing blood stains.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

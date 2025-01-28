@@ -8,7 +8,7 @@ date: 2023-03-15
 
 As web developers, we're all high-functioning, motivated people. And, we certainly have a good sense of what we _should_ be doing with our time (both personally and professionally). But, theory rarely survives contact with reality. And, on today's show, we talk about all that sweet, sweet stuff we ought to be doing and why we can't quite motivate to get any of it done! Topics including backing up computers; creating reproducible systems; reading educational books; upgrading all the things; learning analytics; and, meeting other hoomans!
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

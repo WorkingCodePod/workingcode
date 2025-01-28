@@ -8,7 +8,7 @@ date: 2024-01-24
 
 In web development, we tend to hold learning as a virtuous activity that's worthy of our spare time. In fact, there can be a lot of pressure on us to always be learning; and, to some degree, those of us who _don't_ ride the wave of cutting-edge tech are "othered". But, is _dabbling_ in new technology really moving the needle? Does learning a little of this and little of that really make for a more robust engineer? Or, is there more value to be gained from depth of understanding? And, at the end of the day, does the biggest impact on what we know actually come from switching jobs and joining new teams?
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

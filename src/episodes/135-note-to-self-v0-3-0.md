@@ -8,7 +8,7 @@ date: 2023-07-12
 
 On today's episode, we invite you into another dimension. A dimension not only of sight and sound, but of mind. Ben's mind. Ben's sick, twisted cavern of decay and depravity wherein we gain insight into what actually makes this man tick. Topics include the slippery slope of the "Shift Left" mentality; over-complicating life with JWTs (JSON Web Tokens); dangerous public-on-public method invocation; and, the inherent _cost_ of _everything_.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

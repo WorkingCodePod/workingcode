@@ -8,7 +8,7 @@ date: 2024-09-11
 
 In this week's episode, the hosts discuss situations where the effort put in is not worth the results. They cover topics like the inefficiency of tracking every minute, the high cost of striving for 100% code coverage, and handling lengthy build times during deployments. The team debates the importance of releasing features incrementally versus deploying massive changes and highlights the inefficiencies in requiring extensive requirements documentation.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

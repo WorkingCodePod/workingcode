@@ -10,7 +10,7 @@ date: 2022-11-09
 
 It's hard to believe that we made it to **episode 100**! When we, four, started out on this journey almost two years ago, we were convinced that we'd either get sick of each other or quickly run out of topics to discuss. But, here we are, still loving it and having a great time. And, to celebrate this milestone in the _most masochistic way possible_, we've decided to ignite our guts and destroy our butts with a [Hot Ones][hot-ones]-inspired Spicetacular! Come for the AMA (Ask Me Anything) and stay for the [schadenfreude][schadenfreude]!
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -18,9 +18,8 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [schadenfreude]: https://www.merriam-webster.com/dictionary/schadenfreude
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/100-the-spicetacular.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

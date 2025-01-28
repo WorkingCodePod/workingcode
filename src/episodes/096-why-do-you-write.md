@@ -8,11 +8,11 @@ date: 2022-10-12
 
 Sponsors
 
--  [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
+- [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
 
 A year ago, on Episode 36, we talked about [blogs and digital gardens][working-code-36]. Today, Adam and Ben, our resident authors, dive deeper into how they got started writing, what keeps them writing today, and how the act of - and the _engagement with_ - writing has changed over the years. The advent of Social Media, along with the doubling of new programmers every 5-years, has certainly created a contentious relationship with long-form content. And, is at times, antithetical to our hope of bringing readers along for the journey.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

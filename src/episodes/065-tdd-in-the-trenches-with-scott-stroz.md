@@ -8,7 +8,7 @@ date: 2022-03-09
 
 Sponsors
 
--  [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
+- [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
 
 Testing code is like taking out insurance: until you _need_ it, it can be hard to understand why it's so important; it can be hard to understand what everyone is _raving_ about. And so, you continue writing your code without tests. And, everything is fine, until one day it isn't. And in that moment, you _finally_ see for yourself what value automated testing could have brought to the table.
 
@@ -16,19 +16,18 @@ On today's show, the crew talks to [Scott Stroz][scott-stroz] about his experien
 
 ## Notes &amp; Links
 
--  [Sandi Metz: RailsConf 2014 - All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)
--  [Sandi Metz: No Private Methods](https://www.youtube.com/watch?v=qT5iriwidRg&t=732s)
+- [Sandi Metz: RailsConf 2014 - All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+- [Sandi Metz: No Private Methods](https://www.youtube.com/watch?v=qT5iriwidRg&t=732s)
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [scott-stroz]: https://www.linkedin.com/in/boyzoid/
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/065-tdd-in-the-trenches-with-scott-stroz.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

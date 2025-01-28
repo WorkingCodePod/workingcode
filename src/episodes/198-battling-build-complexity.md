@@ -10,7 +10,7 @@ In this episode, the hosts discuss the complexities and frustrations of deployme
 
 They explore tools like ZX from Google and Oclif from Salesforce to find better solutions for running and organizing commands. The conversation also touches on the difficulties of maintaining older legacy systems like ColdFusion.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

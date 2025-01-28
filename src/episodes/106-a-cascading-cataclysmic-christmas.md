@@ -10,9 +10,9 @@ This week, we continue to lean into "No Effort December", talking about a hodgep
 
 Links discussed in this episode:
 
--  [Super Useful CSS Resources](https://dev.to/lissy93/super-useful-css-resources-1ba3)
+- [Super Useful CSS Resources](https://dev.to/lissy93/super-useful-css-resources-1ba3)
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

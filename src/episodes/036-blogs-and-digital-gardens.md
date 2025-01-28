@@ -14,18 +14,18 @@ The value-add of blogging is obvious; the way start blogging is less clear. This
 
 ## Notes &amp; Links
 
--  [Blogger](https://www.blogger.com/)
--  [Medium](https://medium.com/)
--  [GitHub Pages](https://pages.github.com/)
--  [WordPress](https://wordpress.com/)
--  [Trello](https://trello.com/)
--  [Digital Gardening](https://joelhooks.com/digital-garden)
--  [Awesome Socks Club](https://awesomesocks.club/)
--  [Adam's first blog post](https://adamtuttle.codes/blog/2007/optimizing-your-applicationcfm/)
--  [Ben's first blog post](https://www.bennadel.com/blog/3-did-i-mention-how-cool-this-is.htm)
--  [Tim's blog](https://www.timothycunningham.com/)
+- [Blogger](https://www.blogger.com/)
+- [Medium](https://medium.com/)
+- [GitHub Pages](https://pages.github.com/)
+- [WordPress](https://wordpress.com/)
+- [Trello](https://trello.com/)
+- [Digital Gardening](https://joelhooks.com/digital-garden)
+- [Awesome Socks Club](https://awesomesocks.club/)
+- [Adam's first blog post](https://adamtuttle.codes/blog/2007/optimizing-your-applicationcfm/)
+- [Ben's first blog post](https://www.bennadel.com/blog/3-did-i-mention-how-cool-this-is.htm)
+- [Tim's blog](https://www.timothycunningham.com/)
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

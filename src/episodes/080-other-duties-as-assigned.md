@@ -8,11 +8,11 @@ date: 2022-06-22
 
 Sponsors
 
--  [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
+- [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
 
 In each role, there are the responsibilities that get listed on the job board; and then, there's all the random stuff that they ask you do to once you show up. On today's show, the crew discusses the latter: those strange and wondrous "extras" that sometimes get rolled-up into an honest day's work. Topics include: buying nipple cream, picking up cigarette butts, cleaning bathrooms, taking out trash, driving to remote server locations, restocking photocopiers, and - perhaps worst of all - getting pushed into Sales.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

@@ -8,13 +8,13 @@ date: 2022-02-23
 
 Sponsors
 
--  [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
+- [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
 
 Van Wilder reminds us to enjoy the moment, warning us _"Don't take life too seriously, you'll never make it out alive."_ And while this is a jocular take on our own mortality, the truth is such that the total cost of death isn't levied against the dead, it's wrought upon the living - the ones left behind. To ease their transition in the wake of loss, we can prepare for own departure; and, provide a plan for our own digital landscape and social networks.
 
 This week, inspired in part by a [post-mortem checklist][chrissy-gh] created by [Chrissy LeMaire][chrissy-lemaire], the crew shares their thoughts and experiences with death. And what steps they've taken—_or not yet taken_—to ease the terrible, yet inevitable, burden on our loved ones.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -22,9 +22,8 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [chrissy-gh]: https://github.com/potatoqualitee/froopyland-dr
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/063-nobody-makes-it-out-alive.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

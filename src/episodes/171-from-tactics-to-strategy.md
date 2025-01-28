@@ -8,15 +8,14 @@ date: 2024-03-27
 
 Tim just completed his quarterly strategy review meeting at work. As such, he's in the perfect head space to teach Adam and Ben what strategy is; how strategy differs from tactics; and, how OKRs (Objectives and Key Results) can be used in order to ensure that the work to be done actually rolls-up to one of the company's core strategies. In the end, Ben still has no idea what's going on (as per usual); but, Adam is down to clown.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/171-from-tactics-to-strategy.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

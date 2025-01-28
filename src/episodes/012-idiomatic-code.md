@@ -16,22 +16,22 @@ This week, the crew talks about idiomatic code, what they think it really means,
 
 ### Triumphs &amp; Failures
 
--  **Adam's Triumph** - He's not on call this week! And that feels like a sweet, sweet triumph!
+- **Adam's Triumph** - He's not on call this week! And that feels like a sweet, sweet triumph!
 
--  **Ben's Triumph** - The moment he realized that he was going to miss a deployment deadline, he took a step back and figured out how to properly "descope" the work such that he could meet his deployment deadline by releasing a smaller - _yet still meaningful_ - set of features. He saw this as a victory in the agile development mindset.
+- **Ben's Triumph** - The moment he realized that he was going to miss a deployment deadline, he took a step back and figured out how to properly "descope" the work such that he could meet his deployment deadline by releasing a smaller - _yet still meaningful_ - set of features. He saw this as a victory in the agile development mindset.
 
--  **Carol's Triumph** - She's going on vacation to Lake Tahoe for some fun in the snow - something she rarely has a chance to do in hot, hot Georgia.
+- **Carol's Triumph** - She's going on vacation to Lake Tahoe for some fun in the snow - something she rarely has a chance to do in hot, hot Georgia.
 
--  **Tim's Triumph** - For his entire life, Tim has been parting his hair left-to-right. But, in a recent moment of brashness, he threw caution to the wind and tried parting his hair right-to-left. This seemingly small tweak ended up being a _total game changer_! And, just as [Clark Kent transformed into Superman with a change in part][superman-hair], so has Tim transformed into a more stunning, beautiful version of himself!
+- **Tim's Triumph** - For his entire life, Tim has been parting his hair left-to-right. But, in a recent moment of brashness, he threw caution to the wind and tried parting his hair right-to-left. This seemingly small tweak ended up being a _total game changer_! And, just as [Clark Kent transformed into Superman with a change in part][superman-hair], so has Tim transformed into a more stunning, beautiful version of himself!
 
--  He also figured out why his Redis code wasn't working. [Ironically][working-code-009], it had to do with how his tests were running (and how they were mutating the shared data).
+- He also figured out why his Redis code wasn't working. [Ironically][working-code-009], it had to do with how his tests were running (and how they were mutating the shared data).
 
 ### Notes &amp; Links
 
--  [Guido van Rossum](https://gvanrossum.github.io/) - author of the Python programming language; and, a big proponent of idiomatic code (in Python).
--  [Rick Waldron: Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js/) - an opinionated guide to writing JavaScript.
+- [Guido van Rossum](https://gvanrossum.github.io/) - author of the Python programming language; and, a big proponent of idiomatic code (in Python).
+- [Rick Waldron: Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js/) - an opinionated guide to writing JavaScript.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -39,9 +39,8 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [superman-hair]: https://www.reddit.com/r/MovieDetails/comments/6khyt8/in_superman_when_christopher_reeve_portrays_clark/
 [working-code]: https://workingcode.dev/
 [working-code-009]: https://workingcode.dev/episodes/009-testing/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/012-idiomatic-code.md
 
 ---

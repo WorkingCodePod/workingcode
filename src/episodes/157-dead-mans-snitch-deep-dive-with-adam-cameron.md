@@ -8,7 +8,7 @@ date: 2023-12-13
 
 On this week's show, Adam Tuttle and friend-of-the-show, [Adam Cameron][adam-cameron], go in depth on [Dead Man's Snitch][dead-mans-snitch] - a software service that triggers an alarm if your application doesn't "check in" with high enough frequency.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

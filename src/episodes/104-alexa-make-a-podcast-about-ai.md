@@ -10,7 +10,7 @@ Tim recently read that, "1 in 10 AI (Artificial Intelligence) engineers think th
 
 It seems that AI/ML is advancing at a breakneck speed, leveraging a rich Venture Capital (VC) space driven by a "move fast and break things" mentality. This can be really effective at creating change; but, we're also seeing lots of AI models becoming so big and so complex that no one really understand how they work. Which is problematic when such models take on the inherently biased tendencies of their creators and moderators.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

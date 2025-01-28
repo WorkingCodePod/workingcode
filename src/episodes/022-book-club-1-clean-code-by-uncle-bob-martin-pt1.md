@@ -14,15 +14,15 @@ And, of course, we don't all agree on all the concepts. But, that's what makes t
 
 ## Triumphs &amp; Failures
 
--  **Adam's Triumph** - Adam's son broke both of his wrists (what the doctors refer to a "bilateral ouchie") while playing on the monkey-bars. Thankfully, his family has great insurance and lives very close to one of best children's hospitals in the country: the Children's Hospital of Philadelphia. So, while it has been (and will likely be) a rough recovery period, Adam feels like he has much to be thankful for.
+- **Adam's Triumph** - Adam's son broke both of his wrists (what the doctors refer to a "bilateral ouchie") while playing on the monkey-bars. Thankfully, his family has great insurance and lives very close to one of best children's hospitals in the country: the Children's Hospital of Philadelphia. So, while it has been (and will likely be) a rough recovery period, Adam feels like he has much to be thankful for.
 
--  **Ben's Triumph** - His big hairy goal for 2021 was supposed to be learning about "Design Systems". But, in the first 4-months of the year, he didn't follow-through on that goal in any way whatsoever However, in just the last few weeks, he's finally started to piece together some reusable components for his AngularJS application. Eventually, he might move to something like Google's Material Design; but, he feels like he needs to "fail first" before he can truly understand the problem that robust Design Systems are solving.
+- **Ben's Triumph** - His big hairy goal for 2021 was supposed to be learning about "Design Systems". But, in the first 4-months of the year, he didn't follow-through on that goal in any way whatsoever However, in just the last few weeks, he's finally started to piece together some reusable components for his AngularJS application. Eventually, he might move to something like Google's Material Design; but, he feels like he needs to "fail first" before he can truly understand the problem that robust Design Systems are solving.
 
--  **Carol's Failure** - Despite what felt like an effortless start in her adventure with Amazon AWS, Carol hit a brick-wall while trying to get AWS Lambda to communicate with GMail. After struggling for 3-days to no avail, she finally got in touch with her Google Cloud Account support; and, _not even they can figure out_ why it's not working.
+- **Carol's Failure** - Despite what felt like an effortless start in her adventure with Amazon AWS, Carol hit a brick-wall while trying to get AWS Lambda to communicate with GMail. After struggling for 3-days to no avail, she finally got in touch with her Google Cloud Account support; and, _not even they can figure out_ why it's not working.
 
--  **Tim's Triumph** - While reading [Clean Code][clean-code] in preparation for this episode, he's already feeling more cognizant of the way that he's writing his applications. And, things are feeling pretty, pretty, pretty clean.
+- **Tim's Triumph** - While reading [Clean Code][clean-code] in preparation for this episode, he's already feeling more cognizant of the way that he's writing his applications. And, things are feeling pretty, pretty, pretty clean.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -30,9 +30,8 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [clean-code]: https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM
 [robert-martin]: http://cleancoder.com/
 [working-code]: https://workingcode.dev/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/022-book-club-1-clean-code-by-uncle-bob-martin-pt1.md
 
 ---

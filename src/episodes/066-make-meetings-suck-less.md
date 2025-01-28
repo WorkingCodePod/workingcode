@@ -8,7 +8,7 @@ date: 2022-03-16
 
 Sponsors
 
--  [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
+- [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
 
 For many of us, meetings feel like a necessary evil. We love to complain that we have too many meetings; and, that most of them are useless. However, forgoing meetings and attempting to solve problems and reach consensus asynchronously can feel like _even more_ of a drain on our time and effort. We all have some degree of meeting PTSD. But, none of us is really sure what to do about it.
 
@@ -16,7 +16,7 @@ This week on the show, the crew talks about their love-hate relationship with me
 
 That's part of the problem - there is no one-size-fits-all when it comes to good meetings. That said, we do all agree on a few things: silence can be golden; it's OK (but hard) to leave irrelevant meeting; and, no meeting attendee should _ever_ have to prepare for a meeting a head of time - **don't be giving people homework**!
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

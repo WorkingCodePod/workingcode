@@ -8,11 +8,11 @@ date: 2022-07-06
 
 Sponsors
 
--  [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
+- [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
 
 This week on the show, the crew talks about [GitHub Copilot][github-copilot]. After being in private beta for several months, this _"AI pair programmer"_ is now generally available as a paid product for $10/month or $100/year. But is this something people want to pay for? Will a price put the kibosh on grassroots adoption? Are there pros-and-cons to different pricing models? And, is there ever going to be a world in which Ben can get past his own fanatical formatting tendencies?
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

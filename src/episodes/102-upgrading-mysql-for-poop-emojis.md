@@ -8,7 +8,7 @@ date: 2022-11-23
 
 Migrating data is always complicated. And, the more data that you have to migrate, the more complex your migration process becomes. This week on the show, Adam shares the lessons that he learned while performing a [large, multi-client, multi-cluster, week-long database migration][adam-post] for [AlumnIQ][alumniq]. This included moving roughly a dozen different databases from Amazon Aurora (MySQL 5) to Aurora 8. Late nights, indexes, and UTF-8 character encodings, oh my!
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

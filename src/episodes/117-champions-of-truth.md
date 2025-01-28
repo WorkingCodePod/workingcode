@@ -8,7 +8,7 @@ date: 2023-03-08
 
 On [episode 114][working-code-114] of the show, in effort to balance out the somber tone of Carol's unfortunate layoff, we decided to have a little fun and play **Two Truths and a Lie**. On today's episode we review the listener submissions and crown the **one winner** who correctly selected all of our lies. And the prize goes to.... _listen to the show_!
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

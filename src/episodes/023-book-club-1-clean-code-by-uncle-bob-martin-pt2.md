@@ -12,21 +12,21 @@ All-in-all, I'd say that our first attempt at a book review was a smashing succe
 
 ## Triumphs &amp; Failures
 
--  **Adam's Triumph** - He took a SQL query that was running for over 3-minutes, refactored it, and brought the execution time down to _30 milliseconds_. For those of you following along at home, that's a "4 orders of magnitude" improvement! There's nothing quite as thrilling as query optimization! But, anytime you get to describe an improvement in terms of "orders of magnitude", you are already winning!
+- **Adam's Triumph** - He took a SQL query that was running for over 3-minutes, refactored it, and brought the execution time down to _30 milliseconds_. For those of you following along at home, that's a "4 orders of magnitude" improvement! There's nothing quite as thrilling as query optimization! But, anytime you get to describe an improvement in terms of "orders of magnitude", you are already winning!
 
--  **Ben's Triumph** - After spending weeks of his personal time building a ColdFusion custom tag DSL (Domain Specific Language) for generating HTML emails; and, then using said DSL in a company Hackathon to rebuild a bevy of transactional emails; he finally starting applying the approach at work! And, it's all going very smoothly!
+- **Ben's Triumph** - After spending weeks of his personal time building a ColdFusion custom tag DSL (Domain Specific Language) for generating HTML emails; and, then using said DSL in a company Hackathon to rebuild a bevy of transactional emails; he finally starting applying the approach at work! And, it's all going very smoothly!
 
--  **Carol's Failure** - She was so focused on putting together the mother's day plans (for her mothers) that she completely forgot that her son was coming home from his Freshman year of college. So, instead of going to get him, he had to rely on his friends (and their parents) to help him move back home. Of course, isn't a big part of going to college all about becoming more independent and self-reliant?
+- **Carol's Failure** - She was so focused on putting together the mother's day plans (for her mothers) that she completely forgot that her son was coming home from his Freshman year of college. So, instead of going to get him, he had to rely on his friends (and their parents) to help him move back home. Of course, isn't a big part of going to college all about becoming more independent and self-reliant?
 
--  **Tim's Failure** - He is terrible at negotiating. And, the very act of "countering" an offer makes him feel like a bad person. In a contentious situation, his primary goal is to figure out exactly what he can say to bring the situation to an end. This is something he always wishes he was better at.
+- **Tim's Failure** - He is terrible at negotiating. And, the very act of "countering" an offer makes him feel like a bad person. In a contentious situation, his primary goal is to figure out exactly what he can say to bring the situation to an end. This is something he always wishes he was better at.
 
 ## Notes &amp; Links
 
--  [Getting To Yes: Negotiating Agreement Without Giving In](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/) - Offers a proven, step-by-step strategy for coming to mutually acceptable agreements in every sort of conflict.
+- [Getting To Yes: Negotiating Agreement Without Giving In](https://www.amazon.com/Getting-Yes-Negotiating-Agreement-Without/dp/0143118757/) - Offers a proven, step-by-step strategy for coming to mutually acceptable agreements in every sort of conflict.
 
--  [Never Split the Difference](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805) - A former international hostage negotiator for the FBI offers a new, field-tested approach to high-stakes negotiations.
+- [Never Split the Difference](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805) - A former international hostage negotiator for the FBI offers a new, field-tested approach to high-stakes negotiations.
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

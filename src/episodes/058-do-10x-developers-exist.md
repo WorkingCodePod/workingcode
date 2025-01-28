@@ -8,7 +8,7 @@ date: 2022-01-19
 
 Sponsors
 
--  [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
+- [Audible](https://workingcode.dev/audible) - get a free audiobook from Audible with no strings attached at https://workingcode.dev/audible
 
 Sometimes, people on the internet are wrong. And this week, that person is Tim, who said something inaccurate about the .net (dotnet) framework. Thankfully, our de facto .net ambassador, [Nathan Strutz][nathan-strutz], sent us a recording that shed light on the current state of .net, its open source architecture, its ability to run on many platforms, and its sweet, sweet modern features. Thank you so much Nathan for keeping us honest! And, keep those recordings coming!
 
@@ -18,7 +18,7 @@ Of course, few developers work in a vacuum. And, when you're part of a team that
 
 Also, is [TJ Holowaychuk][tj-holowaychuk] even a real person? Or, is he an artificial persona concocted by a consortium of elite programmers who were keen to show the world what a 10x Developer might look like? We may never know!
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -27,7 +27,6 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-twitter]: https://www.twitter.com/workingcodepod/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/058-do-10x-developers-exist.md
 

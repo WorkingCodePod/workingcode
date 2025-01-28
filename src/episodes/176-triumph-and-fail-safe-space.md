@@ -8,7 +8,7 @@ date: 2024-05-01
 
 On today's show, we cover a variety of topics. Tim was suffering from a "carding" attack (aka, a "credit card stuffing" attack) and had to build an internal CAPTCHA system in order to protect his web-based payment forms from bad actors. Adam created an open-source JavaScript library for mocking ES modules (see [Mockable][mockable]) that makes it possible to swap implementation details at runtime. And Ben falls back in love with ColdFusion&mdash;again&mdash;continuing to find that even the small language details bring him great joy.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

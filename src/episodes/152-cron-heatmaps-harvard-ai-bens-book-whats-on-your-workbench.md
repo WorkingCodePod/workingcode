@@ -8,16 +8,15 @@ date: 2023-11-08
 
 This week on the show, the hosts talk about what they have going on. Adam is trying to better understand the cadence with which his scheduled tasks are executing; and, has built a visualization tool using Svelte and D3. Tim has signed up for [CS50 at Harvard][cs50] - an online course introducing Artificial Intelligence (AI) with Python. And, Ben has a working draft for the first half of his Feature Flags book; and, is now considering some sort of pre-sale (if he can figure out how to turn his Markdown files into something consumable).
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
 [cs50]: https://cs50.harvard.edu/ai/2023/
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/152-cron-heatmaps-harvard-ai-bens-book-whats-on-your-workbench.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

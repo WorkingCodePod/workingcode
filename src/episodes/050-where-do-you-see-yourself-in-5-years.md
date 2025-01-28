@@ -10,11 +10,11 @@ This week on the show, the crew talks about where they each see themselves in 5 
 
 ## Notes &amp; Links
 
--  [Adam Tuttle: Challenge Breeds Stability](https://adamtuttle.codes/blog/2020/challenge-breeds-stability/)
--  [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages](https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/)
--  [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement](https://pragprog.com/titles/pwrdata/seven-databases-in-seven-weeks-second-edition/)
+- [Adam Tuttle: Challenge Breeds Stability](https://adamtuttle.codes/blog/2020/challenge-breeds-stability/)
+- [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages](https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/)
+- [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement](https://pragprog.com/titles/pwrdata/seven-databases-in-seven-weeks-second-edition/)
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. Or, leave us a message at (512) 253-2633 (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. Or, leave us a message at (512) 253-2633 (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 

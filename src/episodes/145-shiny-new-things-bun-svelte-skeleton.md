@@ -8,7 +8,7 @@ date: 2023-09-20
 
 Adam, our early-adopter in residence, talks to Carol about [Bun][bun], [Skeleton][skeleton], and [Svelte][svelte]. With a focus on introducing new tools to an existing team, the two mainly talk about Bun, a hot new all-in-one JavaScript toolkit that is simultaneously a _runtime_, a _server_, a _package manager_, and a _test runner_. Come find out why its feature-set and speed leave Adam singing, _My application don't want none unless you got Bun, hun!_
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -17,9 +17,8 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 [svelte]: https://svelte.dev/
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/145-shiny-new-things-bun-svelte-skeleton.md
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).

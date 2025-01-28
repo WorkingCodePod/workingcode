@@ -54,9 +54,9 @@ _Amen!_ But, there's also the practicalities of running a business, building a r
 
 ## Notes &amp; Links
 
--  [Daniel Kahneman: The Planning Fallacy](https://en.wikipedia.org/wiki/Planning_fallacy)
+- [Daniel Kahneman: The Planning Fallacy](https://en.wikipedia.org/wiki/Planning_fallacy)
 
-Follow the show! Our website is [workingcode.dev][working-code] and we're [@WorkingCodePod on Twitter][working-code-twitter] and [Instagram][working-code-instagram]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
+Follow the show! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky][bsky]. Or, leave us a message at (512) 253-2633‬ (that's 512-253-**CODE**). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
@@ -64,9 +64,8 @@ With audio editing and engineering by [ZCross Media][editor].
 
 [hal-helms]: https://www.linkedin.com/in/hal-helms-613a992/
 [working-code]: https://workingcode.dev/
-[working-code-instagram]: https://www.instagram.com/workingcodepod/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[working-code-twitter]: https://twitter.com/WorkingCodePod
+[bsky]: https://bsky.app/profile/workingcode.dev
 [editor]: https://www.zcross.media/
 [github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/038-holding-developers-accountable.md
 
