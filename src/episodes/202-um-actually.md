@@ -8,7 +8,7 @@ date: 2025-01-22
 
 In this week's episode, Tim and Ben go head-to-head in a trivia game inspired by Cunningham's Law, answering questions, with points awarded for correct 'um, actually' corrections.
 
-The game reveals lesser-known facts and recent updates in HTML, CSS, JavaScript, and browser functionalities.
+The game reveals lesser-known facts and recent updates in HTML, CSS, JavaScript, and browser functionalities. [Source material for all questions came from this article](https://frontendmasters.com/blog/bone-up-html-2025/).
 
 Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
