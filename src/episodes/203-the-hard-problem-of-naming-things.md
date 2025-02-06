@@ -4,7 +4,7 @@ description: "In this week's episode, the crew discuesses the complexities and n
 date: 2025-01-29
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/8b2dba65-bfe4-421a-be34-2c0fbf32cdf9"></script><div class="redcirclePlayer-8b2dba65-bfe4-421a-be34-2c0fbf32cdf9"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/203-the-hard-problem-of-naming-things/id1544142288?i=1000686681337"></iframe>
 
 There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors. (Leon Bambrick)
 
