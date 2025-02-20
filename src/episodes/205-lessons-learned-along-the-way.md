@@ -4,7 +4,7 @@ description: "In this week's episode, the team discusses various software develo
 date: 2025-02-13
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/ba019e35-efe9-40e2-b499-ca52f6d93dcb"></script><div class="redcirclePlayer-ba019e35-efe9-40e2-b499-ca52f6d93dcb"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/205-lessons-learned-along-the-way/id1544142288?i=1000691809975"></iframe>
 
 In this week's episode, the team discusses various software development topics and how their opinions on these subjects have evolved over time. Key topics include the benefits and challenges of testing, the balance between microservices and monoliths, the role of static typing in code, and the practicality of semver versus other versioning strategies.
 
