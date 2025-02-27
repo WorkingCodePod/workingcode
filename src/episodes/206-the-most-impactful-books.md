@@ -4,7 +4,7 @@ description: "In this week's episode of the podcast, Adam, Ben and Tim discuss v
 date: 2025-02-20
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/412aff2e-f480-45d0-823d-9218b2fc6d28"></script><div class="redcirclePlayer-412aff2e-f480-45d0-823d-9218b2fc6d28"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/206-the-most-impactful-books/id1544142288?i=1000694313446"></iframe>
 
 In this week's episode of the podcast, Adam, Ben and Tim discuss various books that have significantly influenced their careers and coding philosophies. The conversation ranges from classics like 'Clean Code' and 'The Phoenix Project' to unexpected titles such as 'Fight Club' and 'The Four Agreements'.
 
