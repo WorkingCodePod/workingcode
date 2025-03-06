@@ -4,7 +4,7 @@ description: "In this week's episode, Adam, Ben, and Carol discuss a variety of 
 date: 2025-02-27
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/dba3d350-15ca-4b81-8728-6096d24a4cc4"></script><div class="redcirclePlayer-dba3d350-15ca-4b81-8728-6096d24a4cc4"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/207-potluck-and-fun-facts/id1544142288?i=1000696520610"></iframe>
 
 In this week's episode, Adam, Ben, and Carol discuss a variety of topics including "disagree and commit", responsive design, and feature flags. We take a trip through time with some fun facts from internet and web development history.
 
