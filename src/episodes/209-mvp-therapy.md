@@ -27,6 +27,8 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [Spot an error? Send a pull request on GitHub.][github]
 
+## [00:00:00] Highlight
+
 [00:00:00] **Adam:** I'm using you guys as a support group, right? Like I, how do I, how do I get through that wall?
 
 [00:00:04] **Tim:** Hi, my name is Adam.
