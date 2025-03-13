@@ -4,7 +4,7 @@ description: "In this week's episode, the crew play Real or Fake for esoteric pr
 date: 2025-03-06
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/48cb14c1-89eb-4b5d-9691-dcdd256d4a5f"></script><div class="redcirclePlayer-48cb14c1-89eb-4b5d-9691-dcdd256d4a5f"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/208-real-or-fake-esoteric-programming-languages/id1544142288?i=1000698069340"></iframe>
 
 In this week's episode, the crew play Real or Fake for esoteric programming languages. Are Whitespace, JSF\*\*\*, Cow or DeadFish real or fake? Listen to find out.
 
