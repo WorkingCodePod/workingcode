@@ -4,7 +4,7 @@ description: "In this week's episode, Adam seeks support from Ben and Tim as he 
 date: 2025-03-13
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/2343d2ed-90f3-4180-a03b-8aa15c93a27d"></script><div class="redcirclePlayer-2343d2ed-90f3-4180-a03b-8aa15c93a27d"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/209-mvp-therapy/id1544142288?i=1000699019444"></iframe>
 
 In this week's episode, Adam seeks support from Ben and Tim as he ventures into creating a Minimum Viable Product (MVP) for a new app designed to digitize the operations of drop zones.
 
