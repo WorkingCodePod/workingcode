@@ -4,7 +4,7 @@ description: "In episode 211, Adam, Carol, and Tim play 'Roast My Desk, Rate My 
 date: 2025-03-27
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b57b331d-05c5-450e-8c0e-7a257c3d883a"></script><div class="redcirclePlayer-b57b331d-05c5-450e-8c0e-7a257c3d883a"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/211-roast-my-desk-rate-my-clean-up/id1544142288?i=1000701051651"></iframe>
 
 In episode 211, Adam, Carol, and Tim play 'Roast My Desk, Rate My Clean-up.' Listeners submitted before and after photos of their desks, and the crew roast their setups and rate their clean-up effort.
 
