@@ -1,10 +1,10 @@
 ---
 title: "212: You Are Not a Coder"
-description: "In this week's episode, Adam, Ben, and Tim tackle the intriguing and timely topic of AI and its implications for the future of coding. "
+description: "In this week's episode, Adam, Ben, and Tim tackle the intriguing and timely topic of AI and its implications for the future of coding."
 date: 2025-04-05
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/e8ce34b6-b9e6-4b04-97b4-f32ff774761a"></script><div class="redcirclePlayer-e8ce34b6-b9e6-4b04-97b4-f32ff774761a"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/212-you-are-not-a-coder/id1544142288?i=1000702305663"></iframe>
 
 In this week's episode, Adam, Ben, and Tim tackle the intriguing and timely topic of AI and its implications for the future of coding.
 
