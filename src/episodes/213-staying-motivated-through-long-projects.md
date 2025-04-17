@@ -4,7 +4,7 @@ description: "In this week's episode, Adam, Ben, and Tim discuss strategies to s
 date: 2025-04-10
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/a4d07c5a-ba0a-46fc-a7f5-f3a0f8b4b4be"></script><div class="redcirclePlayer-a4d07c5a-ba0a-46fc-a7f5-f3a0f8b4b4be"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/213-staying-motivated-through-long-projects/id1544142288?i=1000702992565"></iframe>
 
 In this week's episode, Adam, Ben, and Tim discuss strategies to stay motivated during long-term projects or repetitive tasks.
 
