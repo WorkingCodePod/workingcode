@@ -1,10 +1,10 @@
 ---
 title: "214: Is Tech the Bad Guy Now?"
-description: "In this week's episode, Adam, Ben, and Tim discuss the evolving perception of technology, shifting from an optimistic view in the 80s and 90s to a more critical stance today due to its potential negative impacts. "
+description: "In this week's episode, Adam, Ben, and Tim discuss the evolving perception of technology, shifting from an optimistic view in the 80s and 90s to a more critical stance today due to its potential negative impacts."
 date: 2025-04-17
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/f2a78bd1-b57b-40f2-9be0-c86baa6beec5"></script><div class="redcirclePlayer-f2a78bd1-b57b-40f2-9be0-c86baa6beec5"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/214-is-tech-the-bad-guy-now/id1544142288?i=1000703857235"></iframe>
 
 In this week's episode, Adam, Ben, and Tim discuss the evolving perception of technology, shifting from an optimistic view in the 80s and 90s to a more critical stance today due to its potential negative impacts.
 
