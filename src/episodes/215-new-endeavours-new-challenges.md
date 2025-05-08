@@ -4,7 +4,7 @@ description: "In this week's episode, the full crew is back to discuss the chall
 date: 2025-05-01
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/e7e6265a-09b8-4ac3-b70b-cf2be0390a8d"></script><div class="redcirclePlayer-e7e6265a-09b8-4ac3-b70b-cf2be0390a8d"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/215-new-endeavours-new-challenges/id1544142288?i=1000705675429"></iframe>
 
 In this week's episode, the full crew is back to discuss the challenges and strategies of managing development teams. Tim shares his new role as Director of Development and his approach towards improving developer experience and scaling applications.
 
