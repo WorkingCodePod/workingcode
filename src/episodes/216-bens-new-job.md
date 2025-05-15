@@ -4,7 +4,7 @@ description: "In this week's episode, the team discusses Ben's new job in a radi
 date: 2025-05-08
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b8d5f75d-3b94-4649-b94b-f21d89b77b81"></script><div class="redcirclePlayer-b8d5f75d-3b94-4649-b94b-f21d89b77b81"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/216-bens-new-job/id1544142288?i=1000706788960"></iframe>
 
 In this week's episode, the team discusses Ben's new job in a radically different domain, the common difficulties when joining a new team with a new 'language', and the unique challenges of working at a manufacturing focused business as opposed to a start-up style tech business.
 
