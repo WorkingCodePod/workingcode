@@ -4,7 +4,7 @@ description: "In this week's episode, Adam puts the spotlight on Svelte, and tak
 date: 2025-05-15
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/7ac65c77-1fd4-4edd-bf10-3df15cb4c5d8"></script><div class="redcirclePlayer-7ac65c77-1fd4-4edd-bf10-3df15cb4c5d8"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/217-more-svelte-than-you-can-shake-a-stick-at/id1544142288?i=1000708570477"></iframe>
 
 In this week's episode, Adam puts the spotlight on Svelte, and takes us on a deep dive of Svelte features, latest developments and some of his own applications of Svelte in recent projects.
 
