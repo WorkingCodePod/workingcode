@@ -4,7 +4,7 @@ description: "In this week's episode, the crew is back to discuss and question q
 date: 2025-05-29
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/d65dc296-7a5d-4d31-aebb-cf60ac2bf9b0"></script><div class="redcirclePlayer-d65dc296-7a5d-4d31-aebb-cf60ac2bf9b0"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/218-rethinking-values-in-the-age-of-ai/id1544142288?i=1000710410594"></iframe>
 
 In this week's episode, the crew is back to discuss and question quickly shifting values in the world and their implications for developers. Will AI erode the importance of code craftsmanship? When old values are quickly discarded, what does that say about the legitimacy of the new values? Is human coding obsolescence the elephant in the room?
 
