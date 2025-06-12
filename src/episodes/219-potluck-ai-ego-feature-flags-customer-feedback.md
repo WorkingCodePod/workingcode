@@ -4,7 +4,7 @@ description: "In this week's episode, the team dives into a potluck of topics in
 date: 2025-06-07
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/bedb5d04-d808-4fda-abce-9f72b75c3cf9"></script><div class="redcirclePlayer-bedb5d04-d808-4fda-abce-9f72b75c3cf9"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/219-potluck-ai-ego-feature-flags-customer-feedback/id1544142288?i=1000711942810"></iframe>
 
 In this week's episode, the team dives into a potluck of topics including the effective usage of Large Language Models (LLMs) by feeding their ego, the excitement of implementing feature flags in development cycles, and further developments and opportunities with Adam's side hustle app "Jump Run" the journey of building a side hustle with 'Jump Run'.
 
@@ -27,7 +27,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 ## [00:00:00] Highlight
 
-[00:00:00] **Tim:** if you te, if you give the, the LLM sort of its role, explain it to it. Like, so rather than just saying. Hey, refactor this code for me.
+[00:00:00] **Tim:** if you, if you give the, the LLM sort of its role, explain it to it. Like, so rather than just saying. Hey, refactor this code for me.
 
 [00:00:09] **Tim:** You say you are a experienced cold fusion developer with 20 years who always follows best practices and security guidelines. You actually get much better output than if you just say, refactor this code.
 
