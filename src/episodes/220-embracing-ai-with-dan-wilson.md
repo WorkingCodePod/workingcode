@@ -11,7 +11,7 @@ In this week's episode, the team gets into it with special guest Dan Wilson, an 
 Dan's courses:
 
 -   [Master ChatGPT: Build AI Assistants That Know Your Business](https://www.udemy.com/course/master-chatgpt-build-ai-assistants-that-know-your-business/) (FREE)
--   [Generative AI for Developers: How To Use AI In Your Workday](https://www.udemy.com/course/generative-ai-for-developers-how-to-use-ai-in-your-workday) (Use code quackquack for a special discount)
+-   [Generative AI for Developers: How To Use AI In Your Workday](https://www.udemy.com/course/generative-ai-for-developers-how-to-use-ai-in-your-workday/?couponCode=QUACKQUACK) (Use code quackquack for a special discount)
 
 Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
