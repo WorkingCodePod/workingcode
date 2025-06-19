@@ -4,7 +4,7 @@ description: "In this week's episode, the team gets into it with special guest D
 date: 2025-06-12
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/232db142-647b-42e9-8b60-ae3498a1aeda"></script><div class="redcirclePlayer-232db142-647b-42e9-8b60-ae3498a1aeda"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/220-embracing-ai-with-dan-wilson/id1544142288?i=1000712610898"></iframe>
 
 In this week's episode, the team gets into it with special guest Dan Wilson, an AI & tech consultant that has recently created free and paid courses on using AI in daily workflows. They also dig into the ins and outs of creating Udemy courses and their viability in the tech space.
 
