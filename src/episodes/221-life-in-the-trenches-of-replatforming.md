@@ -4,7 +4,7 @@ description: "In this week's episode, the full crew is back to talk about practi
 date: 2025-06-19
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/5fa55917-1fb5-4e7c-81cf-603d8ebe2c64"></script><div class="redcirclePlayer-5fa55917-1fb5-4e7c-81cf-603d8ebe2c64"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/221-life-in-the-trenches-of-replatforming/id1544142288?i=1000713632916"></iframe>
 
 In this week's episode, the full crew is back to talk about practical replatforming. In past episodes we've discussed replatforming in a more abstract sense, but Adam has much to share about ongoing real-world replatforming at AlumniQ. When the rubber meets the road, certain realities and complexities, which may not be obvious, may affect decision-making and replatforming strategy.
 
