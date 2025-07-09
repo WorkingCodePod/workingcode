@@ -4,7 +4,7 @@ description: "In this week's episode, Adam and Tim delve into Google Gemini CLI,
 date: 2025-07-04
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/dee5e37f-d4b4-42fa-b1b4-3c0b894eb168"></script><div class="redcirclePlayer-dee5e37f-d4b4-42fa-b1b4-3c0b894eb168"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/222-gemini-cli-test-drive/id1544142288?i=1000715723815"></iframe>
 
 In this week's episode, Adam and Tim delve into Gemini CLI, a command line interface tool for AI by Google, test-driving it on real code to find its capabilities and limitations.
 
