@@ -6,7 +6,7 @@ date: 2025-07-17
 
 <script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/a623e450-3ad1-4b7c-b920-6cb5fd8c181a"></script><div class="redcirclePlayer-a623e450-3ad1-4b7c-b920-6cb5fd8c181a"></div>
 
-To be a good producer you have to be a good consumer. In this week's podcast, the whole team is back to delve into the concept of 'skin in the game' in product development and how consuming your own product, known as "dog-fooding", and empathizing with users can influence the development process.
+To be a good producer you have to be a good consumer. In this week's podcast, the whole team is back to delve into the concept of 'skin in the game' in product development and how consuming your own product, known as "dogfooding", and empathizing with users can influence the development process.
 
 Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
