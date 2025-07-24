@@ -4,7 +4,7 @@ description: "In this week's podcast, the whole team is back to delve into the c
 date: 2025-07-17
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/a623e450-3ad1-4b7c-b920-6cb5fd8c181a"></script><div class="redcirclePlayer-a623e450-3ad1-4b7c-b920-6cb5fd8c181a"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/224-skin-in-the-game/id1544142288?i=1000717686752"></iframe>
 
 To be a good producer you have to be a good consumer. In this week's podcast, the whole team is back to delve into the concept of 'skin in the game' in product development and how consuming your own product, known as "dogfooding", and empathizing with users can influence the development process.
 
