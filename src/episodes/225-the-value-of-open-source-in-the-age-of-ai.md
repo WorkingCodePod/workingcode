@@ -4,7 +4,7 @@ description: "In this week's episode, the crew discuss the relevance and signifi
 date: 2025-07-24
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/3321bd51-376c-47e8-9cb9-3bfc8e909054"></script><div class="redcirclePlayer-3321bd51-376c-47e8-9cb9-3bfc8e909054"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/225-the-value-of-open-source-in-the-age-of-ai/id1544142288?i=1000718835043"></iframe>
 
 In this week's episode, the crew discuss the relevance and significance of open-source software in the age of AI. The open source community offers domain expertise, rigorous testing, responsive bug fixing, and community support. But when AI can generate code with proficiency, how does the value calculus change when deciding to install a new package, generate code with an AI, or simply do it yourself?
 
