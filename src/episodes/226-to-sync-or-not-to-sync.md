@@ -4,7 +4,7 @@ description: "Sparked by an exploration of a competitor's API approach, the team
 date: 2025-07-31
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/5476764c-9865-46a3-a279-0b0f82c6f7fb"></script><div class="redcirclePlayer-5476764c-9865-46a3-a279-0b0f82c6f7fb"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/226-to-sync-or-not-to-sync/id1544142288?i=1000720006857"></iframe>
 
 In this week's episode, Adam, asks the question: To sync or not to sync? Sparked by an exploration of a competitor's API approach, the team share their thoughts on handling long-running tasks efficiently.
 
