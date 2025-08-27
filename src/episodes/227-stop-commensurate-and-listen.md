@@ -4,7 +4,7 @@ description: "In this week's episode, Ben, Carol, and Tim are back to discuss pi
 date: 2025-08-14
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/cbc2375a-5cdd-4d86-b251-cb358da88036"></script><div class="redcirclePlayer-cbc2375a-5cdd-4d86-b251-cb358da88036"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/227-stop-commensurate-and-listen/id1544142288?i=1000721947038"></iframe>
 
 In this week's episode, Ben, Carol, and Tim are back to discuss picking the right tool for the right job. More specifically, the value of proportionality in effort and resource allocation, questioning when it's appropriate to cut corners versus maintaining high standards, when you should stick to what you know versus learning something new, and when you should pay more attention to context when making decisions.
 
