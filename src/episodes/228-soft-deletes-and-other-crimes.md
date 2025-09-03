@@ -4,7 +4,7 @@ description: "In this week's episode, Adam, Ben, and Tim discuss the never endin
 date: 2025-08-28
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/e982b674-a08f-4ff2-9d55-58f09a2f6ae5"></script><div class="redcirclePlayer-e982b674-a08f-4ff2-9d55-58f09a2f6ae5"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/228-soft-deletes-and-other-crimes/id1544142288?i=1000723865470"></iframe>
 
 In this week's episode, Adam, Ben, and Tim discuss the never ending rabbit hole that is implementing soft deletes in a database. What starts as a simple solution cascades into countless challenges and pitfalls, such as referential integrity, data consistency and compliance. This and other coding crimes in this week's episode.
 
