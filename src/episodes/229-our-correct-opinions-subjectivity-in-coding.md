@@ -4,7 +4,7 @@ description: "In this week's episode, Adam, Ben, and Carol dive into the nuanced
 date: 2025-09-04
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/9b10051d-803e-4434-a0ef-e65a0fecb2ea"></script><div class="redcirclePlayer-9b10051d-803e-4434-a0ef-e65a0fecb2ea"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/229-our-correct-opinions-subjectivity-in-coding/id1544142288?i=1000724966180"></iframe>
 
 In this week's episode, Adam, Ben, and Carol dive into the nuanced world of software development as they explore the subjectivity inherent in coding.
 
