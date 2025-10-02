@@ -4,7 +4,7 @@ description: "It's all too common in business to hear about reducing and elimina
 date: 2025-09-18
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/3f840d41-fb85-4d27-86bf-972644471b07"></script><div class="redcirclePlayer-3f840d41-fb85-4d27-86bf-972644471b07"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/231-good-friction/id1544142288?i=1000727328238"></iframe>
 
 In this week's episode the whole crew is back, and Ben brings our attention to "good" friction. It's all too common in business to hear about reducing and eliminating friction, but some forms of friction can be positive in ways we take for granted.
 
