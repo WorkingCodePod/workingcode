@@ -4,7 +4,7 @@ description: "In this week's episode the crew is back to discuss the never-endin
 date: 2025-10-02
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/86195141-7494-4b9c-88b6-87ac568fc0ab"></script><div class="redcirclePlayer-86195141-7494-4b9c-88b6-87ac568fc0ab"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/232-are-we-idiots-or-maniacs/id1544142288?i=1000729682501"></iframe>
 
 In this week's episode the crew is back to discuss the never-ending journey of self-improvement in the tech industry, are we idiots to ignore it or maniacs to go along with it? Ben and Tim are back from CF Summit to recount there experiences where a big topic of discussion was... you guessed it, AI.
 
