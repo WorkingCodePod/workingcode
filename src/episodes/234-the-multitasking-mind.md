@@ -4,8 +4,7 @@ description: "Can you really multitask, or are you just rapidly switching betwee
 date: 2025-10-18
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/af34044e-9aaf-43f6-b576-934e958f6b9e"></script>
-<div class="redcirclePlayer-af34044e-9aaf-43f6-b576-934e958f6b9e"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/234-the-multitasking-mind/id1544142288?i=1000732426600"></iframe>
 
 Can you really multitask, or are you just rapidly switching between contexts and hoping your brain doesn't lose track? This week, we dig into the cognitive load of deep work, the impossibility of maintaining multiple large projects in your head simultaneously, and the ADHD patterns that shape how many of us think and work.
 
