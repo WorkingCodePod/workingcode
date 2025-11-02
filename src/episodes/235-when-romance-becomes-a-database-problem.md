@@ -4,8 +4,7 @@ description: "How do you keep millions of people safe on 40 different dating sit
 date: 2025-10-23
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/52fc3e5b-fc03-4b1c-848d-2aa5c24697b2"></script>
-<div class="redcirclePlayer-52fc3e5b-fc03-4b1c-848d-2aa5c24697b2"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/235-when-romance-becomes-a-database-problem-with/id1544142288?i=1000733145889"></iframe>
 
 How do you keep millions of people safe on 40 different dating sites while simultaneously figuring out what drives them to buy memberships? Sean Corfield joins Adam and Ben to discuss the surprisingly complex engineering and business challenges of observing user behavior at massive scale. 
 
