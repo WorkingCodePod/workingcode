@@ -4,8 +4,7 @@ description: "In this week's episode the gather round and share what they've bee
 date: 2025-11-03
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/c895a6da-b5ed-48dd-aa12-5a5bde98a075"></script>
-<div class="redcirclePlayer-c895a6da-b5ed-48dd-aa12-5a5bde98a075"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/236-trunk-or-treat/id1544142288?i=1000735023091"></iframe>
 
 In this week's episode the gather round and share what they've been up to for trunk or treat. Adam shares his waning motivation for his Jump Run side project, we explore sustainable motivation, the rewrite temptation, and whether it's okay to just... do the fun thing sometimes. Meanwhile, Tim provides a reality check on AI coding tools—he spent real hours comparing GitHub Copilot and Codex on actual work, and the results are messier than the hype suggests.
 
