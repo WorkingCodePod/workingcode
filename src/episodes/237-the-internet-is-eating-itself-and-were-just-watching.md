@@ -4,8 +4,7 @@ description: "In this week's episode, we explore the economics of AI search, the
 date: 2025-11-06
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/1fccd134-e7f5-42e8-b16f-046ace79ce7e"></script>
-<div class="redcirclePlayer-1fccd134-e7f5-42e8-b16f-046ace79ce7e"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/237-the-internet-is-eating-itself-and-were-just-watching/id1544142288?i=1000735542566"></iframe>
 
 When you use ChatGPT instead of Google, you're not just getting a faster answer—you're cutting out the content creators who made that knowledge possible. In this week's episode, we explore the economics of AI search, the death of Stack Overflow, the junior developer problem writ large, and why capitalism keeps pushing moral responsibility onto individuals who have the least power to change anything.
 
