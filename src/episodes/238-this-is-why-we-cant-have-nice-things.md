@@ -4,8 +4,7 @@ description: "This week, the hosts explore how good intentions collide with bad 
 date: 2025-11-13
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/86d5f6bb-11bb-4992-a254-480d2a134d71"></script>
-<div class="redcirclePlayer-86d5f6bb-11bb-4992-a254-480d2a134d71"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/238-this-is-why-we-cant-have-nice-things/id1544142288?i=1000736575003"></iframe>
 
 What happens when your passion project becomes so successful that you have to shut it down? Advent of Code creator Eric Wastl announced he was scaling back from 25 days to 12 and removing the global leaderboard. The reason? People were feeling bad at their jobs because they couldn't solve puzzles in 45 seconds like the leaderboard speedrunners.
 
