@@ -4,8 +4,7 @@ description: "When developers burn out from building features without understand
 date: 2025-11-20
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/78c9a98f-7250-4bfc-99e5-a26eb8adf6bb"></script>
-<div class="redcirclePlayer-78c9a98f-7250-4bfc-99e5-a26eb8adf6bb"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/239-welcome-to-the-feature-factory/id1544142288?i=1000737577948"></iframe>
 
 How do you stay motivated when you're stuck building features you don't understand? Carol brings a conversation she's been having with her team about feeling like a "feature factory"—churning out work without clarity on what problem they're solving or what value it adds. When every standup is "is this done?" instead of "have we made anything better?", burnout follows fast. The hosts explore the tension between customer-driven features, competitive pressure, arbitrary boss decisions, and the human need to feel connected to meaningful work.
 
