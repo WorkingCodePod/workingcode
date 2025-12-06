@@ -4,8 +4,7 @@ description: "What happens to your digital life when you die? Shawn Oden shares 
 date: 2025-11-27
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/6fda054d-b13e-433c-a31c-8c2af68d5171"></script>
-<div class="redcirclePlayer-6fda054d-b13e-433c-a31c-8c2af68d5171"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/240-memento-mori-with-shawn-oden/id1544142288?i=1000738658515"></iframe>
 
 Remember that you will die. That's the meaning behind "Memento Mori," and it's the theme of this week's episode. Guest Shawn Oden, joins Adam, Ben, and Tim to discuss digital death preparedness for geeks. Inspired by clearing out his grandmother's house and buying his late best friend's computers to protect his digital legacy (and potentially lost Bitcoin), Shawn advocates for documenting passwords, creating wills, setting up power of attorney, and having honest conversations with loved ones. The hosts explore practical steps like using 1Password with shared family vaults, the importance of organ donation documentation, and the philosophical tension between honoring a deceased person's wishes versus meeting the needs of those left behind.
 
