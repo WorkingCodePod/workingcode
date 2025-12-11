@@ -4,8 +4,7 @@ description: "How do you teach an LLM to write code you can actually trust? Caro
 date: 2025-12-06
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/6221bf29-d623-42ea-addc-a6eb71410cb9"></script>
-<div class="redcirclePlayer-6221bf29-d623-42ea-addc-a6eb71410cb9"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/241-welcoming-our-new-robot-overlords/id1544142288?i=1000739974016"></iframe>
 
 How do you teach an LLM to write code you can actually trust? Carol's federal government team has been tasked with exploring unattended AI code generation, so she came to Adam and Tim for advice. Their first piece of guidance: whatever tools you pick today will be obsolete by the time you're done evaluating them. The real goal isn't adopting a specific workflow—it's building the skills to ride the wave.
 
