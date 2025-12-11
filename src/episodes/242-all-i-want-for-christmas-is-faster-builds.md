@@ -11,6 +11,11 @@ It's that time of year—each host reaches into Santa's sack of topics to see wh
 
 Plus: December blues, mushroom tea for focus, and jQuery as peak imperative JavaScript.
 
+Links mentioned:
+
+- [Owning A Lucid Has Been Super Disappointing](https://www.youtube.com/watch?v=1WiQAOmESH0)
+- [Driving Xiaomi's Electric Car: Are we Cooked?](https://www.youtube.com/watch?v=Mb6H7trzMfI)
+
 Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
