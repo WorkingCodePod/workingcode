@@ -11,7 +11,7 @@ It's the holidays, and the Working Code crew has a gift for you: a peek behind t
 
 Tim unpacks Cory Doctorow's concept of "reverse centaurs"—what happens when you're not assisted by AI, but reduced to its peripheral? Meanwhile, Adam drops a perspective on humanity's place in the universe that reframes everything you thought you knew about time. That, plus Carol humbling an AI chatbot, the death of the golden age of television, and whether the books you loved as a kid were actually any good.
 
-Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
+Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Thursday.
 
 And, if you're **feeling the love**, [support us on Patreon][working-code-patreon].
 
