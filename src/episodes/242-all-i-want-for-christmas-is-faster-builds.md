@@ -4,8 +4,7 @@ description: "It's that time of year—each host reaches into Santa's sack of to
 date: 2025-12-11
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/d2369e02-0414-446d-bbbd-ddeb01501656"></script>
-<div class="redcirclePlayer-d2369e02-0414-446d-bbbd-ddeb01501656"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/242-all-i-want-for-christmas-is-faster-builds/id1544142288?i=1000740833355"></iframe>
 
 It's that time of year—each host reaches into Santa's sack of topics to see who's been naughty and who's been nice. Ben returns from visiting his employer's manufacturing headquarters in Georgia with some philosophical musings. Carol is on a mission to slash CI/CD build times. Adam has cautiously optimistic news about passkeys finally working (sometimes). And Tim reflects on a TLDR article suggesting that the management skills you've built—knowing what to build and what _not_ to build—might be exactly what AI-era coding demands.
 
@@ -13,8 +12,8 @@ Plus: December blues, mushroom tea for focus, and jQuery as peak imperative Java
 
 Links mentioned:
 
-- [Owning A Lucid Has Been Super Disappointing](https://www.youtube.com/watch?v=1WiQAOmESH0)
-- [Driving Xiaomi's Electric Car: Are we Cooked?](https://www.youtube.com/watch?v=Mb6H7trzMfI)
+-   [Owning A Lucid Has Been Super Disappointing](https://www.youtube.com/watch?v=1WiQAOmESH0)
+-   [Driving Xiaomi's Electric Car: Are we Cooked?](https://www.youtube.com/watch?v=Mb6H7trzMfI)
 
 Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Wednesday.
 
