@@ -4,8 +4,7 @@ description: "In the spirit of Captain Crunch's Oops! All Berries, the crew gift
 date: 2025-12-18
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/af0afa37-ec07-470b-a6fc-ba8202547d20"></script>
-<div class="redcirclePlayer-af0afa37-ec07-470b-a6fc-ba8202547d20"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/243-oops-all-aftershow/id1544142288?i=1000741822276"></iframe>
 
 It's the holidays, and the Working Code crew has a gift for you: a peek behind the velvet rope. In the spirit of Captain Crunch's "Oops! All Berries," this week's episode ditches the usual format entirely. No triumphs, no fails, no structured topic—just pure, unfiltered aftershow energy.
 
