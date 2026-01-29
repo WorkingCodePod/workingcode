@@ -4,8 +4,7 @@ description: "What starts as a gentle roasting turns into a deep dive on passwor
 date: 2026-01-22
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/e1e37827-086f-4624-800d-1eb9a477af51"></script>
-<div class="redcirclePlayer-e1e37827-086f-4624-800d-1eb9a477af51"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/245-browser-passwords-youre-doing-it-wrong/id1544142288?i=1000746194527"></iframe>
 
 Tim stores his passwords in the browser. There, we said it. But before you grab your pitchforks, it turns out he's got an ancient password vault program backing him up—so he's not _completely_ feral. Still, the hosts can't resist a good-natured intervention. What starts as a gentle roasting turns into a deep dive on password managers, shared family vaults, and why your retirement account deserves better than Chrome's autofill. Carol reveals her galaxy-brain solution to her husband constantly forgetting his master password: she just signed him into her account. He still doesn't know he doesn't have his own 1Password.
 
