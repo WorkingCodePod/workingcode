@@ -4,8 +4,7 @@ description: "Ben finally takes the plunge with Claude Code. What he finds is un
 date: 2026-01-29
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/6d7ad0c7-7059-4889-8b51-79c2caf8589f"></script>
-<div class="redcirclePlayer-6d7ad0c7-7059-4889-8b51-79c2caf8589f"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/246-bens-feeling-the-vibe/id1544142288?i=1000747168000"></iframe>
 
 Ben's been circling vibe coding for months, kept at bay by a simple fear: what if he spends more time fighting the AI over formatting than actually building anything? What if he has to bolt on linters and test runners just to babysit the output? Then his work handed him a Claude plan, and he decided it was finally time to take the plunge. And then something unsettling happened—the code looked like _his_ code. Same line lengths. Same method ordering. Same obsessive formatting. Nobody told it to do that. It just... knew.
 
