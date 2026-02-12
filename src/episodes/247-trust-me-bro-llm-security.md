@@ -4,8 +4,7 @@ description: "Adam builds a Claude Code skill and stumbles into an uncomfortable
 date: 2026-02-05
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/28e4ee23-5d1f-48e2-8e8e-e0cd9979ae88"></script>
-<div class="redcirclePlayer-28e4ee23-5d1f-48e2-8e8e-e0cd9979ae88"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/247-trust-me-bro-llm-security/id1544142288?i=1000748358887"></iframe>
 
 Adam built a Claude Code skill for his Taffy REST framework and wanted to share it with the CFML community. Simple enough—create a GitHub repo, add some markdown files, done. But somewhere between "this is cool" and "anyone can install this," a familiar chill crept in. These skills are just text files. No checksums. No digital signatures. No verification that the thing you're installing won't quietly exfiltrate your code to some server in Eastern Europe. Sound familiar? It should. We've been here before—back when passwords lived in plain text and "security" meant hoping nobody looked too hard.
 
