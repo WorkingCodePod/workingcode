@@ -1,20 +1,13 @@
 ---
-title: "248: AI All the Way Down"
-description: "Ben's been riding high on vibe coding—until he tries it on code he actually cares about and that 10x productivity starts feeling more like 10%."
-date: 2026-02-12
+title: "249: 10 Years of Tech Debt"
+description: "Adam's been sitting on 900 ORM functions across 1,500 files for a decade. He's finally doing something about it—and he's not typing a single line."
+date: 2026-02-26
 ---
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/248-ai-all-the-way-down/id1544142288?i=1000749420232"></iframe>
+<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/897e895f-6f74-478b-ae8f-62a2e0c3ef6a"></script>
+<div class="redcirclePlayer-897e895f-6f74-478b-ae8f-62a2e0c3ef6a"></div>
 
-Ben had been riding high on vibe coding—throwaway scripts, zero attachment, pure productivity magic. Then he tried the same approach on a project he actually cares about and watched that 10x feeling crater to something closer to 10%. The bottleneck, it turns out, was never the typing.
-
-The hosts dig into what it feels like to let go of code you used to care about, whether "write-only code" is actually the future, and the growing gap between building software and keeping it alive.
-
-### Links
-
-- [Vibe Coding by Gene Kim & Steve Yegge][vibe-coding] - The audiobook on AI-assisted development
-- [1Password: From Magic to Malware][1password-blog] - How OpenClaw's agent skills became a supply chain attack surface
-- [TLDR Newsletter][tldr] - Source of the "write-only code" concept
+For ten years, Adam's codebase has carried an ORM layer that everybody knew was wrong and nobody was touching. Nine hundred functions. Fifteen hundred files. The kind of job that gets solemnly nodded at in architecture meetings and quietly dies on the roadmap — every single year. So he stopped waiting for a volunteer and handed it to an AI agent instead. Claude's problem now.
 
 Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Thursday.
 
@@ -25,10 +18,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/248-ai-all-the-way-down.md
-[vibe-coding]: https://www.audible.com/pd/Vibe-Coding-Audiobook/B0DQJPB5VT
-[1password-blog]: https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface
-[tldr]: https://tldr.tech/
+[github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/249-10-years-of-tech-debt.md
 
 ---
 
