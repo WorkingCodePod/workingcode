@@ -4,8 +4,7 @@ description: "Adam's been sitting on 900 ORM functions across 1,500 files for a 
 date: 2026-02-26
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/897e895f-6f74-478b-ae8f-62a2e0c3ef6a"></script>
-<div class="redcirclePlayer-897e895f-6f74-478b-ae8f-62a2e0c3ef6a"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/249-10-years-of-tech-debt/id1544142288?i=1000751732688"></iframe>
 
 For ten years, Adam's codebase has carried an ORM layer that everybody knew was wrong and nobody was touching. Nine hundred functions. Fifteen hundred files. The kind of job that gets solemnly nodded at in architecture meetings and quietly dies on the roadmap — every single year. So he stopped waiting for a volunteer and handed it to an AI agent instead. Claude's problem now.
 
