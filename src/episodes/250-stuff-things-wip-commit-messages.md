@@ -4,8 +4,7 @@ description: "Do commit messages even matter anymore, or did pull requests kill 
 date: 2026-03-06
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/3945d3f9-3cfb-4d76-a2cf-b36cc5b3861d"></script>
-<div class="redcirclePlayer-3945d3f9-3cfb-4d76-a2cf-b36cc5b3861d"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/250-stuff-things-wip-commit-messages/id1544142288?i=1000753666050"></iframe>
 
 Do commit messages even matter anymore, or did pull requests kill them? Ben works one commit per PR and thinks the commit message _is_ the PR description. Carol and Tim put all the context in the PR and treat commits as disposable breadcrumbs. Adam's somewhere in between — when he's not pushing thirty knife emojis and "nope, still not working" to QA. Meanwhile, Tim's back from emergency eye surgery with a gas bubble floating around his eyeball.
 
@@ -557,7 +556,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:38:56] **Carol:** So you said you squash it post sending it to qa. So can you send like a testing branch to your QA or does it have to go into a shared branch? Because once you share your commit, you can squash it. Right.
 
-[00:39:07] **Adam:** No. Well, so we, we do, we call it cutting a new branch, right? So, and it's not on a particular schedule or anything, but just when we feel like it's time, like maybe QA is too dirty, too many things got merged into QA that are never gonna go to production, we will just delete the QA branch and then, create a new branch called QA off of main, where from wherever Maine is.
+[00:39:07] **Adam:** No. Well, so we, we do, we call it cutting a new branch, right? So, and it's not on a particular schedule or anything, but just when we feel like it's time, like maybe QA is too dirty, too many things got merged into QA that are never gonna go to production, we will just delete the QA branch and then, create a new branch called QA off of main, where from wherever main is.
 
 [00:39:29] **Adam:** and so then it's, it's pristine and we can continue to merge into it and deploy that to the QA environment. so, you know, if I have my 30 knife emoji commits in there, I don't care. Like nobody's ever gonna look at that, at the history of that branch to figure anything out before it gets into main.
 
