@@ -1,16 +1,13 @@
 ---
-title: "251: Ben vs. Tests"
-description: "Testing sounds simple until you actually try it. Ben writes his first tests and steps on every landmine along the way."
-date: 2026-03-12
+title: "252: Meet Showbot"
+description: "Tim spent a single Sunday afternoon with Claude and built Show Bot -- a sarcastic Discord bot trained on every Working Code transcript."
+date: 2026-03-18
 ---
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/251-ben-vs-tests/id1544142288?i=1000754835029"></iframe>
+<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/8730260e-c5d1-4519-810b-18d8b8eb3fac"></script>
+<div class="redcirclePlayer-8730260e-c5d1-4519-810b-18d8b8eb3fac"></div>
 
-Testing sounds simple until you actually try it. Private methods that can't be reached without hacks. Dependency injection that doubles your architecture's complexity before a single assertion runs. Production code that slowly warps around your test suite instead of the other way around. Ben has spent his entire career shipping code without tests, and this week he decided to change that. The crew walks him through every trap he steps on, and a few they've been stuck in themselves.
-
-### Links
-
-- [Ben Nadel's Blog][ben-blog]
+Tim spent a single Sunday afternoon with Claude and built Show Bot -- a sarcastic Discord bot trained on every Working Code transcript, complete with a Dungeon Crawler Carl personality, fallacy detection badges, and a talent for roasting anyone who tries to prompt-inject it. The conversation turns into a deep technical walkthrough of RAG pipelines, local models, cross-encoder reranking, and what happens when you just start building things that make you laugh.
 
 Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Thursday.
 
@@ -18,11 +15,10 @@ And, if you're **feeling the love**, [support us on Patreon][working-code-patreo
 
 With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
-[ben-blog]: https://www.bennadel.com/
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/251-ben-vs-tests.md
+[github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/252-meet-showbot.md
 
 ---
 
