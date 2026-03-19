@@ -36,8 +36,6 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:00:04] **Ben:** I'm trying to accomplish this, my friends tell me I'm writing end-to-end tests when I thought I was writing integration tests. What's wrong with my friends?
 
-[00:00:13]
-
 ## [00:00:33] Intro
 
 [00:00:33] **Adam:** Okay, here we go. It is show number 251 and stop the presses. Ben wrote tests. We're gonna dig into that. He's run into a couple roadblocks. I'm sure we'll have some advice. We're just gonna talk about it, you know, see what's going on, try to reward the behavior we wanna see in the world.
