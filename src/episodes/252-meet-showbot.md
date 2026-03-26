@@ -4,8 +4,7 @@ description: "Tim spent a single Sunday afternoon with Claude and built Show Bot
 date: 2026-03-18
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/8730260e-c5d1-4519-810b-18d8b8eb3fac"></script>
-<div class="redcirclePlayer-8730260e-c5d1-4519-810b-18d8b8eb3fac"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/252-meet-showbot/id1544142288?i=1000756127733"></iframe>
 
 Tim spent a single Sunday afternoon with Claude and built Show Bot -- a sarcastic Discord bot trained on every Working Code transcript, complete with a Dungeon Crawler Carl personality, fallacy detection badges, and a talent for roasting anyone who tries to prompt-inject it. The conversation turns into a deep technical walkthrough of RAG pipelines, local models, cross-encoder reranking, and what happens when you just start building things that make you laugh.
 
