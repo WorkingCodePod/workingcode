@@ -4,8 +4,7 @@ description: "What if the best way to get good work out of AI is to stop being n
 date: 2026-03-26
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/63c2cf5e-57a3-426a-9a7b-22c1a7cae9f7"></script>
-<div class="redcirclePlayer-63c2cf5e-57a3-426a-9a7b-22c1a7cae9f7"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/253-the-adversarial-agents-are-arguing-again/id1544142288?i=1000757485922"></iframe>
 
 What if the best way to get good work out of AI is to stop being nice to it? Adam and Tim have both landed on the same uncomfortable discovery: when you pit AI agents against each other, with fake points, opposing incentives, and competing models, the output gets dramatically better than anything a single polite prompt can produce.
 
