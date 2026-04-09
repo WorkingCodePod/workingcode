@@ -33,642 +33,832 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 ## [00:00:00] Cold Open
 
-[00:00:00] **Ben:** If Claude is down, I don't know how the application works. I don't know the language that, you know, it's like, I don't know how to write Python. I don't know how to use CockroachDB.
+[00:00:00] **Carol:** I called this one company and it's like, hi, I'm Amy, your virtual assistant. I'm like, let me speak to someone. She's like, where are you at?
 
-[00:00:08] **Ben:** I don't know how to write React, but like, that's what's underpinning this application
+[00:00:06] **Carol:** I'm like, telling her. And she's like, okay, how can I help you? I'm like, let me speak to someone. And finally it sends me through to what's supposed to be another person like to talk to. And every response is, oh, that's wonderful. Hold on, lemme look at that. And I'm like, this isn't even another human. I'm so pissed off now.
 
-## [00:00:31] Intro
+[00:00:24]
 
-[00:00:31] **Adam:** Okay. Here we go. It is show number 254. And on today's show, we admit it. AI is making us stupid and lazy. There I said it,not that I'm giving it up. You can't have it back. Uh, but first as usual, we'll start with the triumphs and fails. it looks like it's my turn to go first. Got the whole crew here tonight.
+## [00:00:44] Intro
 
-[00:00:47] **Adam:** So I got a, a whole bunch of triumphs and fails to get through tonight. So I'm gonna go with a nice, quick, easy one.
+[00:00:44] **Adam:** Okay, here we go. It is show number 255 and on today's show we've got two copies of Microsoft Outlook running on, wait, no, sorry, wrong thing. did you guys watch the Artemis launch?
 
-## [00:00:53] Adam's Triumph
+[00:00:54] **Ben:** No,
 
-[00:01:04] **Tim:** Uh, it's a nice triumph for me, and that is that I finally got my boss, my CEO to kind of maybe put down the, the AI curmudgeon hammer just a little bit. Steve. Steve, not a fan.
+[00:00:55] **Carol:** Yes.
 
-[00:01:06] **Adam:** no, I think he's, he's been a long time skeptic.
+[00:00:56] **Tim:** The toilets didn't work and two copies of Outlook didn't work.
 
-[00:01:10] **Adam:** you know, and very early on the, the. Non-coding use cases were very much like, we'll write your email for you, or something like that. Right? And, and when you get those things, you can see like right off the bat that they're not genuine from a human right. This is an LLM, spat out this, this content and that would be detrimental to the types of things that our customer, like the type of business uses that we would put it toward, generating text for stuff like that.
+[00:01:00] **Adam:** Yeah. Their computer had two copies of Outlook. It was an issue
 
-[00:01:38] **Adam:** So for that reason, he had kind of pushed it away for a while, refused to ever use like ChatGPT for his personal interests and stuff. and finally, so I mean, you know, months ago, I got him to buy into the team using the coding tools and we've been having some really good success with it. I don't think he was aware of how useful and how good the tooling have has gotten.
+[00:01:02] **Carol:** and during the entering the live feed you shot, you could see him put in his pen to the laptop or to his iPad, then
 
-[00:02:01] **Adam:** And how the models have gotten. and so I've been working on this ORM migration stuff, right? I keep talking about it every week. If you don't know by now, where have you been?
+[00:01:08] **Adam:** Yeah,
 
-[00:02:09] **Carol:** Catch up.
+[00:01:08] **Carol:** know that. Yeah.
 
-[00:02:10] **Adam:** yeah. so part of this process, like I, I did the ORM migration. Okay, great. And now, like phase two is have Claude review all the changes, right?
+[00:01:09] **Tim:** that's,
 
-[00:02:19] **Adam:** It's reviewing my branch and I'm breaking it up into these vertical slices and re-reviewing and re-reviewing. It's, it's like rerunning the tests after you make a change. You just keep iterating until it gets it right, right. Um,making incremental improvements along the way. But in the process of doing the code code reviews for all of my ORM migration changes, it's also found a bunch, you know, let's say.
+[00:01:09] **Adam:** missed that part. I.
 
-[00:02:41] **Adam:** More than 10, less than a hundred bugs in our existing code. part of the logic that I put into the code review prompt is to verify against main, right? So we're on a branch and it looks at my changes, and then it like, looks at the same file in the same section or the same functions on main to compare them and say, okay, well like the, the ORM fork of this, this function, should be I basically identical to main.
+[00:01:10] **Tim:** that's too, too many copies of Outlook running in the on, on that space station.
 
-[00:03:06] **Adam:** And if it's not, then that's a bug and whatever. But like in the process, it's noticing all these other bugs that are, have nothing to do with the ORM migration, right? Like, oh, you got this thing. It's, I mean, there was some that were as simple as like instead of passing a variable to a function, somehow it got quoted.
+[00:01:14] **Adam:** Agreed.but, so on today's show we're gonna talk about, running into AI on the street. You know, not, not using coding assistance, just like, you know, where have we run into AI in the real world. but first, as usual, let's start with our triumphs and fails the whole crew here tonight. As you may have heard, and Ben, I'm coming to you first.
 
-[00:03:21] **Adam:** So instead of like passing arguments do id, it, it passes the string
+[00:01:31] **Adam:** What do you got going on my friend?
 
-[00:03:25] **Tim:** Oh wow.
+## [00:01:33] Ben's Fail
 
-[00:03:25] **Ben:** funny.
+[00:01:33] **Ben:** I am gonna go with a failure, and this is a very soft failure. I think, I did some hand coding over the weekend with my digits. I know, right? I, I was playing around with some ColdFusion custom tags. I have a, um, a library that I'm sort of trying to build that helps me author, email markup, which is notoriously hard even apparently in today's age where Outlook Desktop is still the third most used email client apparently is reported by Litmus.
 
-[00:03:27] **Adam:** It's like, okay, yeah, we definitely need to fix that. And I'm like.so you, you know, being the, the trying my best to follow best practices, right? Like, I don't wanna fix that in my branch. 'cause then it's gonna take forever to get to production and it kind of intermingles with my changes and stuff.
+[00:02:02] **Ben:** I have this library I'm trying to use and, and the, I had a lot of fun doing it, and it was one of these things where I would just stare off into space and think about what I wanted the code to look like and think about how I wanted the code to feel as I was writing it. And I was thinking about it in the shower and I was thinking about it a little bit when I'm out driving and the failure is that.
 
-[00:03:42] **Adam:** So I'm like, okay, well that needs to go on its own branch. I'm just like so deep into this process now. I have been getting into worktrees. That's a whole separate thing. but I'm so deep into this process now. I'm like, I just, I I can't even think about that right now. So what I want you to do, Claude, is file a GitHub issue for it, right?
+[00:02:24] **Ben:** I loved it. I love that mind space and being lost in thoughts like that. And I, I haven't had that yet, that same kind of saturated, I'm marinating in the thought space type feeling when I'm building something with AI. AI for me is still predominantly like an angst based experience, which, I guess that's the, the meat of the failure.
 
-[00:03:57] **Adam:** Like just, I've got the GH CLI tool installed. Just use the GH CLI file a GitHub issue. Make sure you include all the relevant files and details and proposed fix and all that. Just go ahead, file an issue. And that's fine. And it's, I, I've put that into the automated part of my code review. So like, as I'm hunting for bugs, it's automatically filing GitHub issues for these things that it finds, which is great.
+[00:02:51] **Ben:** I want to get to a point, or I'm hoping that I can get to a point where I can be building something with AI and have that joy of just having it permeate my thoughts and think about it when I'm not at my desk. And the same that I, that I do when I'm hand coding. I
 
-[00:04:19] **Adam:** And Steve has started to look at some of those issues and he's like, these are great, like bug reports. I wi he's like, I wish we had some interns or co-ops on, on hand to like, go through these and implement them. 'cause they're like, none of them is a big deal to implement, right? Like, take the arguments that I, ID should not be a string.
+[00:03:08] **Adam:** So you wanna like write a prompt and then go, I know kung fu.
 
-[00:04:36] **Adam:** It should be the variable. Okay, boom. Easy. That's five minute fix. and you know, he's, he's done some of those super low hanging ones just to, to, you know, if they're important and they're low hanging, why not? But, so I think he's finally starting to buy in. Like, oh actually this is getting pretty decent.
+[00:03:11] **Ben:** No, like I just, I just want it to be part of the fabric of being Ben.
 
-[00:04:52] **Adam:** and so he, I think he said, I forget his exact wording, but he said something on our, our all hands meeting yesterday that, he might actually have to start considering using it himself. Like, oh, okay.
+[00:03:16] **Ben:** You know, I want, I, that's, that is, even if, even if like my identity has historically been very enmeshed with enmeshed with handwriting code, I am okay with the evolution of that, where my identity is becoming more about building products and thinking about products and dealing with people. But I just haven't gotten to a point yet where I'm feeling that that immersive joy, I guess joy joy's almost not like the right word.
 
-[00:05:04] **Ben:** Oh,
+[00:03:51] **Ben:** It's just, I, I feel like handwriting code for me has always been just part of the ether. I'm not, I'm not articulating well, but I, I'm just, I'm just not there yet, even remotely close when it comes to building stuff with AI and I, I, I don't know if I'm holding myself back or maybe I'm just expecting that to happen and maybe it won't happen the same way.
 
-[00:05:05] **Tim:** Slippery slope.
+[00:04:12] **Ben:** I'm, I'm not sure.
 
-[00:05:06] **Adam:** Yep.
+[00:04:14] **Tim:** I will say that past few weeks I felt very engaged with kind of the pro, so I kind of look at like coding with AI as like being the teacher at a extremely gifted programming academy for kindergartners. Okay. And you got all, they're all so energetic, they all just wanna please you so bad.
 
-[00:05:07] **Adam:** As we will get into it is a slippery
+[00:04:39] **Tim:** And like, so I have, I don't even close it, I don't know, last time I've closed my command prompt, like 10 command prompt windows right now open that I just keep like checking on. So I'll like, I'll start a little something over here. I'm like, Hey, can you go this, this is not pulling the correct policy and the amount and go do this thing.
 
-[00:05:09] **Carol:** Mm-hmm.
+[00:04:59] **Tim:** And it starts beeping and booping. And then I go to my next tab and I just keep checking on all my little children. And then, you know, sometimes I'll, I'll, I'll stop and I'll look at what their, you know, 'cause it talks out loud. So you're like, wait, wait, wait. You're way off. Base control C, stop, stop, stop, stop.
 
-[00:05:10] **Tim:** Yeah, for sure.
+[00:05:16] **Tim:** Right? And then you're like, you're looking in the wrong fo folder. Stop looking there. Look here. so then I'll, I'll get it back on track and then I'll go check on the other kids. And then it's like, when it's all done, it's like the whole day I feel like I'm herding cats, but the end of the day I look back, I'm like, I got so much done. See, that's, that's kinda what gets me the joy that it's done.
 
-[00:05:11] **Carol:** Slight crack.
+[00:05:35] **Tim:** Not necessarily that I hand coded it, but that I've had it do it. I've had it created, I've had it tested and reiterated and tested again and again writing documentations, telling it to go update the Jira 'cause I hate Jira tickets. But now, now that I've found the, the Atlassian, MCP server, I'm just like, go explain exactly what we did on this ticket and mark four hours worth of time.
 
-[00:05:12] **Tim:** Mm-hmm.
+[00:05:59] **Tim:** And I'm like, that's giving me the feels that I used to get from like writing one really nice, beautiful page of
 
-[00:05:13] **Ben:** much as the AI tools, I feel like have become pretty good for coding E, every time I hear someone talk about how they're using it to revolutionize the way they live life and they give examples, I'm constantly like, what? They're like, oh yeah. You know, I'm using OpenAI now, so it sends me a reminder to take my trash out on Tuesday nights.
+[00:06:06] **Ben:** Yeah.
 
-[00:05:34] **Ben:** I'm like, literally, that's what the reminders app on your phone is for? Like, why are you OpenAI-ing the apps that
+[00:06:07] **Carol:** I am kind of like you there. I get super excited building some features out and doing all the initial like research and I'm like, oh, I'm gonna get to implement this thing. But then when I look in the backlog and someone's already picked it up and started doing the work, I kind of like shake my fist and go, I wanted to write that so bad.
 
-[00:05:41] **Tim:** Why are you giving root access to your life to.
+[00:06:23] **Carol:** Like that sounded like so much fun. And now I don't get to.
 
-[00:05:44] **Carol:** Pass.
+[00:06:28] **Ben:** So here's another aspect of it, and this is very particular to me. I think because I've done a lot of writing over my career and what I have noticed very clearly is that as I have moved into the AI world, not just that my desire to write things down has waned, but the inspiration to write anything down has like all but disappeared.
 
-[00:05:45] **Adam:** for sure. Totally agree. I, I think that there will, somebody will figure it out. There will be good use cases for that sort of life integration later, but they're not here yet. And,
+[00:06:55] **Ben:** And then that gets juxtaposed with, from handwriting a little bit of code over the weekend. I wrote two blog posts, one about kind of unifying the way some custom tag hierarchies work. And then I came across a bug and I wrote about the bug in Adobe ColdFusion. And it's, it's hard to go back to dip my toe back into the hand coding and suddenly I feel inspired to write again because I'm running into problems.
 
-[00:05:56] **Tim:** I, I want what they had in Star Trek where you just have a, you know, a thing that's in your house and you say computer
+[00:07:21] **Ben:** And then I write about running into those problems and it's very deterministic stuff. And I can write up a demo and I can say, here's how the demo works, and here's the little fix that I could put into place. And the AI world is so non-deterministic that, even when I, even when I struggle and I come up with something that feels like it's alleviated that struggle, I don't feel confident to write about it in any way whatsoever because I feel one so new to the whole concept and it all feels like a black box still. Like I don't wanna write about it 'cause I don't even understand what it is that's breaking and what it is that's being fixed. And I don't know.
 
-[00:06:03] **Adam:** Hmm.
+[00:07:58] **Ben:** So it, it's like I love the hand coding and everything that came with it and the whole ethos of it and the way my mind worked and the way I was inspired to write. And then I go back to the AI world and I like, I don't have any of that. And uh, that's, that's my failure.
 
-[00:06:04] **Tim:** ask it a question and it does something for you.
+[00:08:11] **Tim:** I, I'll push back on you here. So, I mean, early days when you first started your blog that all of us were exposed to in the, in the early days of ColdFusion, What I do love about what you did is you were learning in public, there was a lot of stuff you didn't know about co. And you did a lot of experiments and you told us about those experiments.
 
-[00:06:07] **Adam:** Yeah.
+[00:08:30] **Tim:** And I'm like, okay, cool. I didn't have to do the experiment you did. I could just take your takeaway. Right? And that's what really made me admire your blog and want to meet you, in person. So I, I mean, I think there's some correlation there. You're learn, you can learn in public about something that even, I mean, you don't understand the Java compiler that,
 
-[00:06:08] **Carol:** mean like Siri?
+[00:08:50] **Ben:** Right.
 
-[00:06:10] **Tim:** T Yeah. Siri, so annoying. I, I've gotten so used to ChatGPT and, and Claude, like coming up with good answers. I get so mad at
+[00:08:50] **Tim:** Macromedia wrote, right?
 
-[00:06:18] **Carol:** Yes.
+[00:08:52] **Tim:** So, or well, actually Adobe put it in Java. But anyway, the c plus plus compiler, you don't understand all, you don't understand, but you understand, you know, were learning in public, you were experimenting, you were reporting on your experiments. And I think there's a, there's a big space for that right now.
 
-[00:06:19] **Tim:** and I was so excited when I got my new phone that you could like hook ChatGPT into Siri, but it, there's no way to control it, to, to use it, right?
+[00:09:06] **Tim:** 'cause I mean, AI is a complete experiment for us right now,
 
-[00:06:26] **Tim:** It's like occasionally it'll go using ChatGPT to answer this question. So.
+[00:09:10] **Adam:** Yeah, it's all new.
 
-[00:06:33] **Carol:** Ask me. It's like, do you wanna use the web or GPT.
+[00:09:11] **Tim:** yeah. So I, I I don't see why you can't do that Same thing with your writing in the blog.To help a new audience of people.
 
-[00:06:37] **Adam:** So. Alright, well that's all I got. Ben, what do you got going on man?
+[00:09:21] **Ben:** I, it's a great, it's a great probing question, and I think maybe part of the issue there is that it's a different exploratory mindset, meaning I feel like I'm just constantly prompting the AI to do stuff, and if it doesn't quite do what I want, you know, I say, is there anything we can put into the CLAUDE.md file to help do that so we don't do it again?
 
-## [00:06:41] Ben's Fail
+[00:09:47] **Ben:** Or is there a skill I can create to do it? But it's all just like me constantly asking Claude to sort of figure it out.
 
-[00:06:41] **Ben:** I don't know how to articulate this one. I'm gonna call it a failure, and it's more like sometimes people say, oh, you are holding the tool wrong and. I'm beginning to wonder if maybe what it is is I just don't know how to hold the tool at all. and I know that doesn't make any sense. we, we've talked about how,
+[00:09:55] **Tim:** Mm-hmm.
 
-[00:07:01] **Tim:** We need context here. That's very
+[00:09:55] **Ben:** And I, I don't know, it just feels like it's, it's, I don't know. I'm, I, I'm going to take what you said and I'm going to reflect on it and I'm see what happens
 
-[00:07:02] **Ben:** right, so we've, we've talked about how with generative code that we have to be, or at least this is the, the, the mindset that we have to be less attached to the low level implementation, more attached to the outcome.
+[00:10:08] **Tim:** Cool.
 
-[00:07:17] **Ben:** And it's easy to think of that when you're looking at code because ultimately the end user isn't seeing the code, they're seeing the product, they're experiencing the product. So the code is kind of a layer removed. But I started thinking more deeply about this last week when I was playing around with some generative AI with,nano banana and Google Gemini.
+[00:10:08] **Adam:** Do you at least feel like you're getting some productivity gains from the AI stuff? You know, like you, you mentioned last week you, you spent a lot of time working on an app that you don't know the technology stack, right? It was like React and
 
-[00:07:38] **Ben:** And it's an interesting context to think about because the end product is the thing that you can see. So there's, there's no like separation between the technology. The thing you're trying to create, right? It's not like it's using Python to generate this image, so I don't care about that. Or it's using some other technology and all I care about is the image.
+[00:10:18] **Ben:** Yeah, I, so I'm getting a lot done, but it's just not rewarding in the same way. I hate to say that. I hate to say that. It's, it's like, it's not that it's not rewarding. It's more like,
 
-[00:07:58] **Ben:** That's the thing I'm generating is the image. So I have to be very attached to it because there's no separation between the product and the process, so to speak. And no matter what I did, I could not get the thing that was in my head to become the image that was being generated by Google Gemini, no matter how in depth my prompt was.
+[00:10:33] **Ben:** I think changing the title of this episode. This is just gonna be a therapy right? I think, I think this is gonna be
 
-[00:08:20] **Ben:** No matter how many times I asked Gemini to give me a prompt, that would better describe the thing I'm trying to describe. It would end up giving like extra joints to people's arms and legs. The more I tried to futs with it and I'd be like, oh, you know, change this person's position just slightly. And then suddenly they'd be sitting in a totally different way on the bench, even though I didn't ask it to do that kind of stuff.
+[00:10:39] **Ben:** I, it's, it's, it's,
 
-[00:08:43] **Ben:** And I guess like the, the failure here to me is these tools seem most effective when you almost don't really care what the outcome is. Like that's when they're the most impressive. Like, oh, I want this app that does something kind of generic. And then blam, it makes her like, I want this image that kind of looks something like something like this.
+[00:10:42] **Ben:** I think the app was built. I don't know.
 
-[00:09:06] **Adam:** And you're like, blam, oh my God, I can't believe it did that in 20 seconds. But the moment you have a very clear vision in your head of what should happen, that's like almost never the thing that you can actually create. I think I can, I, I've had similar experiences with the image generation stuff. Like you have to be very open-minded with what you want out of it. I think I have found that the, the code generation specifically works a heck of a lot better when you do have, you know, some foundational computer science knowledge and you can guide and be like, no, don't do that.
+[00:10:45] **Adam:** Let's,
 
-[00:09:40] **Carol:** Yeah.
+[00:10:46] **Ben:** Yeah. Let, let's, let's let, let, let's move on and, and we'll come
 
-[00:09:41] **Ben:** and, and if it's copying and pasting essentially what you've already done in the app, but in kind of tweaking it for a different part of the application, like it is very good at that. But I was, okay, so I dunno if it was last week or the week before Google released something called Stitch, or at least maybe that's when it came on my radar.
+[00:10:50] **Tim:** the other day.
 
-[00:09:57] **Ben:** It's like this design AI platform where you can say, design me a website that does such and such and it barfs out like five different versions of it. And then you can click into them and say, let's do variations on this one and like make 'em very creative and mess around with the typography and go crazy with the color schemes.
+[00:10:51] **Ben:** So that's my failure.Carol, what do you got going on?
 
-[00:10:15] **Ben:** And again, it's like one of these things where. In a vacuum where you don't really care what it looks like, you're like, holy cow. It just came up with some like really kind of professional looking, you know, maybe templated looking designs, but like fun typography and fun color schemes, and you can iterate.
+## [00:10:55] Carol's Triumph
 
-[00:10:31] **Ben:** But the second you take a screenshot of your existing application and put it in there and say, Hey, can you try tweaking some of the UI to create more separation between the UI widgetry? It's like, it has no idea how to do that. You know, because suddenly you're anchored to an experience that you want and you're not just allowed to get anything that it's gonna suggest.
+[00:10:55] **Carol:** Well, mine's gonna be a much simpler answer and I'm gonna go with a triumph and you guys will be very excited to know. I saw a movie that is current.
 
-[00:10:53] **Adam:** but I, I mean, I, are you asking it to generate that image that looks like what you're talking about? Or are you just saying like, you give it a screenshot and you're saying This is the interface, this is the page that has the code, this is the change that I wanna make.
+[00:11:04] **Ben:** What?
 
-[00:11:04] **Ben:** the, the one, I mean the, the Google Stitch, what I was trying to use. You take a screenshot and then it, but then it can generate actual. You can like click in and it shows you that this is text and this is a button and you can change the colors. And it like, it,
+[00:11:05] **Carol:** Yeah, in the theater. Yeah, in the theater. Granted, I went to watch it the weekend after it left IMAX because some stupid Luigi movie took its spot. But I went and saw Hail Mary, so
 
-[00:11:16] **Ben:** like reverse generates the markup for your screenshot and then does variations on it. Like again, it's like, it's very technically impressive what it's doing,
+[00:11:18] **Ben:** oh yes.
 
-[00:11:26] **Adam:** mm-hmm.
+[00:11:19] **Carol:** the book, I loved it.
 
-[00:11:27] **Ben:** but it's not doing the thing that I wanted it to do. And I, and it's like I don't know how to hold the tool to get the thing that's in my head to come out on the screen and I don't know.
+[00:11:20] **Carol:** I loved it so much. It's such a good movie. I will definitely be rewatching it.
 
-[00:11:37] **Ben:** So I don't know where I'm going with this other than I'm feeling like It's hard to feel like you just don't know how to use the tools when you're not sure if maybe the tools just don't do what you think they do.
+[00:11:25] **Ben:** It was a lot of fun, I have to
 
-[00:11:47] **Adam:** Yeah, I hear you. I, I feel like I've seen somewhere and I wish I could remember where, but like people who use these creative tools that do like image stuff, right? People who are in Photoshop all day, or InDesign or, or whatever these other things are. you know, like they might be more open to AI generation of stuff.
+[00:11:27] **Carol:** Mm-hmm.
 
-[00:12:07] **Adam:** If it didn't just like, give you one flat rasterized like, here are the pixels you requested in the order you requested. Right? You know, they want layers. They want to be able to tweak and. Sort of thing. And like, I think, you know, like exactly what you're talking about. Like you asked it for the, the A person to be slightly repositioned and it totally changed it to be able to like prompt just against that one layer of the image, like move this, or even if you could just manually drag that person over a little bit, right?
+[00:11:28] **Adam:** okay, so you, you were a read the book first person. Right.
 
-[00:12:35] **Adam:** Like that sort of thing I think is exactly what they want.
+[00:11:31] **Carol:** Yeah. Twice. Yeah.
 
-[00:12:39] **Tim:** I ran into that. I think I talked about last week. I had that for my, Cooking blog my recipe, blog it. The first shot out, it is the picture that I use on my discord image. and I just wanted, I was like, put me in a kitchen. I'm a home, home cook, kind of a science food nerd. And it generated, it was a great picture.
+[00:11:33] **Adam:** And how do you think that that colored your experience of the movie?
 
-[00:12:57] **Tim:** The face looked like me, but it had like a weird, like two ended spoon. I've never seen a spoon in my life. It was like a, it was a wooden spoon with a spoon on each end. I'm like, I have never seen a spoon like that in my life. And I, I was trying to remove the spoon. That's all I wanted to do was take away the damn spoon.
+[00:11:37] **Carol:** so when you have ADHD, you tend to predict lots of things in movies already. So it just made it worse for me because I knew what was about to come. So I was just constantly like, oh, when's that gonna happen? And when's this coming up and when's that gonna be exposed? And at one point Steve looks at me and goes, I need to pee.
 
-[00:13:14] **Tim:** And every time it generated a new picture, the spoon wasn't there. But I was like, I gained 20 pounds. Like, like my face didn't look anything like me anymore. Like, oh my God. So I had to create a new session, uploaded the exact picture, like, just take away the spoon. That's it, period. And it, it finally did it.
+[00:11:56] **Carol:** I was like, you have like four minutes. I was like, I guarantee you you're gonna wanna be back within four minutes. So make it quick.
 
-[00:13:32] **Tim:** But
+[00:12:03] **Carol:** But yeah, so saw a movie and I'm very proud of myself for going to do it 'cause I tend to be way behind you guys on current social like events in the media.
 
-[00:13:33] **Ben:** yo.
+[00:12:13] **Tim:** You got real stuff to do.
 
-[00:13:34] **Tim:** a pain. I probably spent an hour trying to get rid of that spoon.
+[00:12:15] **Carol:** Yeah. Thing called light.
 
-[00:13:38] **Ben:** The funniest thing is, so I was trying this on Google Gemini and then eventually I'm on the free tier. So I, I ran out of image credits and then, so I said, okay, lemme try and go into ChatGPT and then I would paste the description from Gemini into ChatGPT and ChatGPT say like, oh, we can't do this 'cause it violates our terms of service for like content moderation.
+[00:12:17] **Tim:** Yeah, we have them.
 
-[00:13:57] **Ben:** And I'm like, this is not an erotic photo. All of these people have clothing. This is just supposed to be a joyful scene. If there's anything that violates the terms of service, please do not include it. And it'd be like, oh, of course. Well, we put it that way and then it starts to show the image generation, like the fuzziness, and it gets like 30 seconds into it and it's like, Nope, sorry.
+[00:12:19] **Carol:** I enjoy baking sourdough.
 
-[00:14:15] **Ben:** We can't do that. It doesn't comply with our, uh, content moderation. I'm like, oh my God.
+[00:12:23] **Ben:** I usually go to this little local movie theater and they only ever show one trailer. So for the past, like two years, that's been my context for watching movies. You have one trailer and then you jump in. And when I went to watch Project Hail Mary, I, we had like half an hour of trailers or
 
-[00:14:20] **Carol:** The image that is generating is a guy sitting on the bench eating a hot dog.
+[00:12:40] **Tim:** Yeah. That's my usual experience at
 
-[00:14:25] **Tim:** yeah.
+[00:12:42] **Ben:** And I was so panicked because it's a two and a half hour movie and I got the, I got the baby bladder and I was, I was like, you're killing me here, guys.
 
-[00:14:25] **Adam:** nano banana. It's not my fault. Your mind is in the gutter.
+[00:12:51] **Carol:** you didn't have anyone to tell you when to go pee.
 
-[00:14:27] **Ben:** Yeah,
+[00:12:54] **Ben:** No, I asked Adam, before I went, I said, Hey, is there a thing you can describe that is the right time to go pee? And he said, no.
 
-[00:14:28] **Tim:** Yeah.
+[00:13:06] **Adam:** Well, no, I think my exact words were bring an empty bottle and a jacket to put over your legs.
 
-[00:14:29] **Carol:** Did you guys watch Silicon Valley?
+[00:13:13] **Carol:** Well, like talking about the runtime though, in the previews, we were trying to book a dinner reservation after. I was like, okay, it's a two hour 37 minute runtime, but we're not gonna watch the credits. And then how much is it for previews? I was like, we can't book dinner reservations for three and a half hours by the time we drive there.
 
-[00:14:32] **Carol:** It was like a, yeah.
+[00:13:32] **Carol:** I was like, this is a long movie and a long process. It should be, you know, it's almost like boarding a plane. It's like, hey, your flight's at, you know, 1135, but we're gonna board at 1105, so you really have to be at the gate 1105. Like just tell me the time it starts. Just tell me when they need to be in my seat, not the show up early time.
 
-[00:14:33] **Carol:** And where he had the app that was like, not a hot dog. Not a hot dog.
+[00:13:50] **Carol:** Yeah.
 
-[00:14:38] **Tim:** that's my failure. I'll, uh, pass off to Carol. What do you got going on?
+[00:13:52] **Tim:** I, I know, so Ray Camden wrote one, but there's also another website. It's called RunPee.com,
 
-## [00:14:42] Carol's Fail
+[00:13:57] **Ben:** Oh, that's
 
-[00:14:42] **Carol:** Well, uh, well, you kids talk about your AI stuff and these things. I'm just gonna admit I got old really quick and uh,you'll understand in the minute I went on,
+[00:13:58] **Tim:** you when to go pee during the movie. Like when you,
 
-[00:14:53] **Adam:** in the sandbox anymore.
+[00:14:00] **Carol:** No way.
 
-[00:14:54] **Carol:** I, uh, I went on vacation last week and went and visited my in-laws and we played quite a bit of golf and where they live, it was like 104 degrees while we were playing.
+[00:14:01] **Tim:** you gotta go RunPee.com, you, you could, uh, it will tell you so,
 
-[00:15:05] **Carol:** And me and Drew, we were in Tucson, Arizona.
+[00:14:07] **Carol:** We'll have to check that out in 10 years. Wanna go watch another movie again?
 
-[00:15:08] **Tim:** oh, he live on the sun. Good God.
+[00:14:12] **Adam:** Uh,
 
-[00:15:11] **Carol:** they live on the sun. Yes. So we're like out in the middle of the day, they're like, Hey, kids, don't forget to hydrate. And we're like, Hey, old parents. Don't forget to hydrate. Friday morning, I wake up pretty much have no memory of Friday morning because I was so hydra dehydrated.
+[00:14:12] **Adam:** I'll say that. Uh uh This is no spoilers, I think here, but I went to PE I think it was when some language translation stuff was being worked out, and I feel like that was the best time to go.
 
-[00:15:28] **Carol:** I landed in the ER
+[00:14:25] **Carol:** Yeah. Yeah.
 
-[00:15:29] **Ben:** Oh my goodness.
+[00:14:26] **Adam:** Really? Ugh.
 
-[00:15:30] **Carol:** my heart racing. G wouldn't stop bad EKG, it took fluids and fluids and fluids. And they're like, all right, now everything's good. They're like, you're just severely dehydrated. It happens to people here all the time. I was like, not young people.
+[00:14:28] **Carol:** don't know that
 
-[00:15:46] **Tim:** If you're not used to it, that's that. That's stuff's dangerous. That,
+[00:14:29] **Ben:** I mean,
 
-[00:15:49] **Carol:** and the thing that bothered me though, I was like, we live in the desert. We are 2000 feet higher in elevation than they are. And we have like, it's, they have usually have a little bit more humidity than we do. And I'm like, it's interesting that I can go from one climate to the other and I get really, like, I can't handle it there, I guess.
+[00:14:29] **Tim:** see for me and Adam, that was like my favorite part of the book. So I really wanna see how they did it in the
 
-[00:16:07] **Carol:** But I think it's because I was out in the sun at the middle of the day. My middle of the day here is writing code. It's sitting in the air conditioner, in front of monitors, not in the sun. So.
+[00:14:33] **Carol:** I
 
-[00:16:20] **Ben:** on the TV show, the Pit, this current season, fantastic
+[00:14:33] **Ben:** it was a fun, it's, I didn't miss it entirely, but, you know, I missed two minutes of it and I, and I felt okay with that.
 
-[00:16:25] **Adam:** No spoilers.
+[00:14:40] **Tim:** you, you angered
 
-[00:16:26] **Ben:** No spoilers. I'll, I'll just say, so the second season takes place on July 4th. That's said on the first episode. That's no spoiler. but throughout the show, none, none of these are major cases, but throughout the show, people are coming in from, they're overheated, they're dehydrated exactly what Carol's talking about.
+[00:14:41] **Adam:** we need to move on, or I'm gonna
 
-[00:16:40] **Ben:** And they, there's a couple of times where they allude to putting people, I can't remember what it's called. It's like the artificial jungle or something. It's this room where it's this misters
+[00:14:43] **Ben:** Okay.
 
-[00:16:50] **Ben:** and it's just
+[00:14:45] **Carol:** Well, that was me, Tim. What do you have?
 
-[00:16:50] **Carol:** Which is a real thing.
+## [00:14:48] Tim's Triumph and Fail
 
-[00:16:52] **Adam:** Rainforest Cafe.
+[00:14:48] **Tim:** Well, I'm gonna double dip today. I'm taking a triumph and a fail. The triumph is one that's been in the making since Feb, middle of February. It's now middle of April. The procedure for my retina, the bubble is finally 100% gone. I woke up Sunday morning
 
-[00:16:53] **Tim:** Yeah, exactly.
+[00:15:04] **Tim:** and the bubble is gone. I can see fairly well out of my right eye.
 
-[00:16:54] **Ben:** Yeah. And so I didn't know if Carol did they put you in anything like that.
+[00:15:10] **Adam:** Rub it in.
 
-[00:16:58] **Carol:** No, no, they didn't do that. They just pumped me full of cold IVs and got me cooled off, I guess, because mine wasn't temperature right. Mine was just dehydration. My
+[00:15:11] **Tim:** There's still, there's still a little, there's still a little gas there. but it should clear up. So I go to the, my last visit at the Emory Hospital in Atlanta is we tomorrow, Wednesday. And so hopefully I get a clean bill of health and I can finally put this chapter of my life behind me and I can shave off my goatee.
 
-[00:17:08] **Ben:** right, right, right, right, right.
+[00:15:31] **Carol:** you, do you feel like you're gonna have to get new glasses or do you feel like your
 
-[00:17:09] **Carol:** Yeah.
+[00:15:34] **Tim:** Oh, I'm definitely gonna, I mean if this, if it doesn't, yeah. I'm sorry to interrupt, but if it doesn't clear up, I definitely need a new prescription in my right eye. It, it's so much worse.but they did tell me it would take a full year for it to completely, he heal physically,
 
-[00:17:11] **Ben:** Well, you look healthy now
+[00:15:49] **Carol:** Wow.
 
-[00:17:13] **Carol:** Thank you. That's all the fluids they gave me. I'm still wearing them off. All right, but that's me. What about you, Tim?
+[00:15:50] **Tim:** I might have to, I might have to get a prescription and then go back again and get another prescription 'cause my, it can completely
 
-## [00:17:21] Tim's Triumph
+[00:15:55] **Ben:** Bonkers.
 
-[00:17:21] **Tim:** I'll go for a triumph. So I, you know, I did my little, um, fake podcast, AI generated podcast where it generates the voices.
+[00:15:56] **Adam:** can I make a suggestion? Just get like a pirate eye patch instead.
 
-[00:17:29] **Carol:** Which is so creepy. if you make a voice for myself.
+[00:16:02] **Tim:** I can see if I, I mean, I'm enjoying actual, you know, depth of field of depth, binocular field of depth vision finally. It's amazing.
 
-[00:17:34] **Tim:** but, so I, I took the idea because that was all in prep for like, the idea of like coming up with a corporate, like 10, 15 minute podcast, you know, once a week or whatever for corporate, you know, marketing and stuff to put on LinkedIn.
+[00:16:14] **Ben:** That's awesome though, dude.
 
-[00:17:49] **Tim:** And so I played it, I, I generated it for my CEO, I took her, I told her I was gonna do it. I was like, I'm, I'm recording your voice. I'm gonna put it into ElevenLabs and generate a voice, and we'll do a little, I said, give me an article to like, kind of summarize. And so it was pretty cool. It built a little script of me and her talking about, you know, reinsurance, which is the most absolutely riveting information to talk about insurance, reinsurance.
+[00:16:15] **Tim:** yeah, yeah. It's been, it's been weird. You know, it's like, it's, most of the time when you're sick, you hurt. I, I did ever hurt,
 
-[00:18:14] **Tim:** but yeah, it made it kind of cute and funny. We, we had a little banter back and forth. I kind of described her voice and her talking style. and it already had transcripts about me and, and how I talk. And she loved it. She's like, yeah, I, I, I thought she was absolutely gonna hate it. I'm like, but she's like, actually, it sounds a lot like me.
+[00:16:22] **Adam:** Yeah.
 
-[00:18:31] **Tim:** And, she said, it doesn't sound like you though. I'm like, no, it doesn't sound like me. So we're tweaking it and I, I think it probably will become a thing where we can like, just launch this. We'll be up at, we'll, I'm trying to find a way to be upfront and honest with people to let 'em know, Hey, this is not real humans.
+[00:16:23] **Tim:** but on the inside my emotions were hurt.
 
-[00:18:48] **Tim:** But at the same time, I don't want it to be like, in their face, in their face, but just to acknowledge that, yeah, we're, we're generating this, we're a tech company, we're generating this, but you know, if you just wanna listen to a 10 minute podcast on the way to work about, you know, the insurance space and what's going on, here's your place to go to it.
+[00:16:26] **Tim:** I just felt like a, it's odd, just like your body breaks down. You realize just how complex and amazing bodies are, but at the same time you're like, I felt like a failure, even though it's like's not my fault. Right. My, it's just bodies being
 
-[00:19:05] **Tim:** So, but she loved it. She's like, yeah, let's, let's do it. So I was pretty, pretty pleased with that. she's not a computer per, she's not like she's from the insurance world. She was one of our customers. They came over to take over to like run our company. And, uh, yeah, she's, she's pretty, pretty cool with like, trying new stuff and experimenting, so I I appreciate that.
+[00:16:40] **Ben:** Right?
 
-[00:19:28] **Carol:** That, that's really awesome because typically I find leaders that don't have a tech background are very scared when you start talking about new things and they want lots of like red tape pass before, before you're allowed to actually like innovate and try stuff.
+[00:16:41] **Tim:** so
 
-[00:19:44] **Tim:** Yeah. She's a hundred, I mean, she is more into AI than I am. I mean, I've been absolutely flummoxed by how like everything I get from her has run through ChatGPT or Claude at some point. I could, I could tell. But I mean, she's, she's utilizing it. In fact, she told me, she's like, how did I ever remember anything without, without AI,
+[00:16:41] **Ben:** so stupid.
 
-[00:20:05] **Carol:** Wow. What a good way to like segue into
+[00:16:42] **Tim:** they're so stupid.
 
-[00:20:08] **Tim:** right? Almost like I didn't plan that at all.
+[00:16:43] **Ben:** The
 
-## [00:20:11] AI Making Us Lazy and Stupid
+[00:16:44] **Tim:** So that's, that's my triumph, my failure.
 
-[00:20:11] **Ben:** So AI making us lazy and stupid. I'll, I'll, I'll jump in. 'cause I,
+[00:16:48] **Tim:** So I was talking to my parents about something, I don't remember what it was, and I was talking about some website domains I had sold in the past. 'cause oh, I know what brought it up. I was telling them about how I was using AI. I have all these domains, I have tons of domains I've been sitting on for years, I don't do anything with.
 
-[00:20:16] **Ben:** I feel like I am, I'm using AI in two very different ways today at work. It's much more of a vibe coding scenario where I'm really not looking at the code, I'm just trying to base it on the product experience and I'm talking to our internal customers and trying to create the thing that they want to see on the screen and making sure that all works.
+[00:17:03] **Tim:** But now that with AI it's so easy, I can create a, a Hugo static generated site in probably 30, 40 minutes. And so I was going through my, my different domains and one of them I had put up for sale a long time ago, back in like 2015. And so I went to look at, Sedo, Sedo.com, which is a, domain site that like does domain auctions and holds it in escrow to make sure that one per, you know, no one steals your money and you don't steal the domain, not give them the domain which I'd sold, I'd sold different ones through for over the years.
 
-[00:20:40] **Ben:** In my personal life, I'm still very much writing the code and looking at the code, but I'm using AI one to help me think through. Some of the planning and some of the problem space, and I'm, I'm getting it to generate some of the code as well. but in a, in a very narrow scope where it's, you know, not generating more than, you know, at, at, at most like 10 files where it's copy pasting and changing things that I've already done in the application more or less.
+[00:17:39] **Tim:** And I looked at some of my messages going back to 2018.and so someone had offered me $60,000 for the domain.
 
-[00:21:10] **Ben:** And, the reason I'm illustrating these two different perspectives, because I feel like the thing that I am missing a lot when I compare the way my experience is to the way the, the blogosphere is, is that a lot of people say that they, they're learning a lot from what the AI is doing. The AI is, you know, having a PhD in your pocket with a terrible attention span, but it's doing some really great stuff and they're looking at the stuff that it's doing.
+[00:17:48] **Ben:** Dang
 
-[00:21:36] **Ben:** They're really learning a lot. When I'm vibe coding, I'm not looking at the code, so there's nothing for me to learn there. More or less even that's, even though it's doing interesting architectural things under the hood, I'm sure, like I'm not looking at it so there's not a real leveling up of skills other than thinking about the product itself.
+[00:17:49] **Tim:** Someone offered me $80,000 for domain. And then the final one was someone offered me in 2018, $100,000
 
-[00:21:56] **Ben:** Then in the personal stuff, where I am still looking at the code a lot, it's more copy pasting what I'm already doing. So it's not like introducing new revolutionary clean architecture ideas that I hadn't thought of, and that's not, that's not like a humble brag, like, oh, my architecture's so clean, it's got nothing to teach me.
+[00:17:58] **Ben:** what
 
-[00:22:14] **Ben:** It's like even when I try to ask it, I'm saying, look at this architecture. Tell me where I'm falling short. Tell me how this application could be made better. It basically always comes back with either. For the size of your application, like what you're doing is totally sufficient. I wouldn't recommend changing anything, or it'll, it'll say, oh, you should change this, and then I ask it to explain why, and it says, upon further reevaluation of the code, there's probably not gonna be a value add to making the change that I originally suggested.
+[00:17:58] **Tim:** for hairstyles.net. And I missed it. I didn't, I don't know what, I don't know what happened.
 
-[00:22:42] **Carol:** Oh, I love the backtracking.
+[00:18:03] **Tim:** I got notified. I never saw it, and they were acted on it. 'cause trust me, I would've pulled the trigger on
 
-[00:22:43] **Ben:** Ah, so, so
+[00:18:08] **Carol:** mm-hmm.
 
-[00:22:44] **Carol:** of it.
+[00:18:09] **Tim:** thousand dollars. And so that's, I was, I saw that I was so sick. I texted my dad, I texted my dad. It was like, Hey, you know that conversation we had where I sold a domain for like, you know, $20,000?
 
-[00:22:45] **Ben:** my big thing that makes me angry is like, I feel like I'm not having those learning moments that a lot of people are talking about. So are you guys learning stuff from your ai? Is it teaching you things?
+[00:18:21] **Tim:** I'm like, yeah, I missed one for a hundred K.
 
-[00:22:57] **Carol:** So for me, I feel like I'm learning a new technology. Like that's my learning point. It's my way to integrate with this new tool that I have access to. I remember Stack Overflow being the place I go, and now I'm just going to this new place to get the information and I feel like I'm learning how to delegate to something not human, more than I'm learning technology.
+[00:18:25] **Carol:** Oh, wow.
 
-[00:23:20] **Ben:** Can you, like an example is like, Hey, I need to include this new library. Can you show me how to use this library, kind of
+[00:18:26] **Tim:** so I, I used my new found, AI skills to create a placeholder page. So you've got a hairstyles.net. It will redirect, it will tell you it's for sale. You click a button, it takes you to Sedo where you can make an offer. And the minimum bid is a hundred grand.
 
-[00:23:28] **Carol:** Or, or even like, oh, so I'm getting this weird error that's popping up all of a sudden where for some reason I have all these database connections that are going to the, the correct connection string. But this one is reading back to local hosts, which tells me it's somewhere along the line, the context is getting lost.
+[00:18:39] **Tim:** If, if people, was it eight years ago,
 
-[00:23:46] **Carol:** So go figure out where it's actually like getting lost with context and then they'll go back and search. Right? Or for the Stack Overflow, I would be like, Hey, help me understand how DP like context works and where the session actually like gets stored and how the string could be lost.
+[00:18:41] **Carol:** Yeah,
 
-[00:24:03] **Ben:** Okay.
+[00:18:42] **Adam:** Mm-hmm.
 
-[00:24:04] **Ben:** All right. Yeah, I think so. It like you're helping it, it's helping you debug the applications For sure.
+[00:18:42] **Tim:** if eight years ago would do a hundred thousand, I probably can get 150.
 
-[00:24:10] **Carol:** Yeah. But I'm not really learning new technology from it.
+[00:18:47] **Adam:** Maybe, yeah.
 
-[00:24:14] **Ben:** I hear
+[00:18:49] **Tim:** So
 
-[00:24:15] **Carol:** Yeah.
+[00:18:51] **Adam:** So one of these days Tim's gonna take us all out for a fancy testicle dinner
 
-[00:24:15] **Tim:** I, I, I'll push back on your premise a little bit. So we're talking about automation, right? This, so this is basically an automation of our jobs, which has happened before in history. So my grandfather, when he came over from Ireland and Scotland, he worked in Detroit at, a motorcycle factory where he stitched the.
+[00:18:54] **Tim:** there we go.
 
-[00:24:40] **Tim:** Leather seats, right? So he'd hand stitch and like put the seats on, but then eventually that was automated, right? And so what you're saying kind of sounds to me like my granddad saying, well, you know, since these new machines have come in, I really, my stitching hasn't gotten any better. Well, duh, you're not stitching anymore, grandpa.
+[00:18:56] **Carol:** and we're hairstyles.
 
-[00:25:00] **Tim:** You're, you're the machine's stitching it. What you're doing is quality control, making sure the stitching looks good and moving it from one place to another. And I think that's kind of where we're going with, with, with coding is like, you know, I've spent all last week in all this week writing code, but I've not actually written a single line.
+[00:18:58] **Tim:** It's a pay off my house.
 
-[00:25:20] **Tim:** My job was to, explain what I wanted to do, have it do some research. I review the research, and then I tell it to build a plan. To implement the research, said research. I review the plan to make sure there's no holes in the plan. Then I tell it to do the plan, and then I test, test it afterward. Actually, I let it test itself first, and then it fixes any errors iteratively, and then I do some human testing on it.
+[00:19:01] **Adam:** yeah. Really.
 
-[00:25:43] **Tim:** And that's, I, I've come to accept that that's kind of what our job seem like they're turning into. Now these days it's not necessarily crafting the code. if you're crafting the code, it's because either AI screwed it up or you didn't explain it well enough.
+[00:19:03] **Tim:** So that's my triumph. That's my fail. How about you, Adam?
 
-[00:25:58] **Adam:** Or you're out of credits.
+## [00:19:06] Adam's Triumph or Fail
 
-[00:26:00] **Tim:** Exactly. Or you're getting 503s from Claude.
+[00:19:06] **Adam:** So I don't know what to call this one. you know, I'm just not sure yet. The jury's still out if this is a triumph for a fail, but I have some interesting stuff to share. you know, we've talked a lot over the last several weeks, maybe several months, about, our usage of Claude and Claude Code, and I have in the past dabbled with like ChatGPT, mostly just the free one and some of the other models that are available, like through OpenCode for free.
 
-[00:26:04] **Carol:** but I, but I think what you said just adds like extra credit to what Ben said.
+[00:19:30] **Adam:** but I, I've, I just keep hearing people say that like the, the new, ChatGPT Codex models are pretty good and. this, as we're having this conversation over the last, like two weeks, anthropic has just really doubled down on being hardheaded about not releasing their stuff as open source, not the model itself, but you know, the, the tooling and stuff around it.
 
-[00:26:11] **Tim:** Okay.
+[00:19:53] **Adam:** Like, for example, the OpenAI
 
-[00:26:12] **Carol:** You're not learning, you're just
+[00:19:55] **Tim:** Until their, until their code gets, leaked
 
-[00:26:14] **Tim:** Well, I'm learning something I'm learning something different. I'm not learning how to stitch. What I'm learning to do is how to, how to help the AI set it up for success. That's what I'm learning.
+[00:19:58] **Adam:** until it leaked. Yeah. but even then they, you know, they, they sent out a bunch of, DMCA take downs for people, like people reconstituted the source from the source maps and stuff like that. And, they sent out a bunch of legal crap out after that anyway, but like, you know, there's that and, they just refuse to answer questions like there's, so we've talked about Matt Pocock who makes his living selling courses.
 
-[00:26:25] **Adam:** you're, you're mentoring your computer instead of coding it now. so I actually, I'll, I'll push back on the pushback or, or I don't know where we go
+[00:20:22] **Adam:** Right.he came onto my radar from selling TypeScript courses and now he's doing stuff with AI. He has a course he's selling right now, I believe it's called AI Hero, that is very heavily built around Claude Code. And like, you know, he teaches how to do specific things with the Claude Harness or the Claude Code harness.
 
-[00:26:31] **Carol:** Oh,
+[00:20:42] **Adam:** And he has, he's always been a very positive, non-judgmental person. And I saw some tweets that he posted where he was like, you know, just he finally lost it. Like he seems like he's had it. He's, he
 
-[00:26:32] **Adam:** but I
+[00:20:54] **Carol:** Uhoh.
 
-## [00:26:33] Learning About 3D Secure From Claude
+[00:20:55] **Adam:** ago, for clarification, like, can I tell people how to do this and OpenAI or not OpenAI?
 
-[00:26:33] **Adam:** actually, I did learn something, not necessarily a, a bit of technology, although it's technology adjacent, but I did learn something important from my job today via asking Claude.
+[00:21:01] **Adam:** anthropic just refuses to answer. They just ghost him. And it's, it's just ridiculous. 'cause like, I, I don't think it's, I haven't heard of it happening recently, but in the past, anthropic has banned people from using their models for doing things, like using it in OpenCode or, you know, finding ways to get different models to talk to each other in like conversational modes and stuff.
 
-[00:26:44] **Adam:** we do a lot of payments, stuff online payments with credit cards and digital wallets, Venmo, PayPal, et cetera, Google Pay, Apple Pay.and one of the features that's available in those technology stacks is something called 3D Secure. I'm sure Tim is gonna internally be nodding his head over there. and, so basically what 3D Secure is, I have come to learn, I did not know this earlier today, is basically it's a way for some additional checks to be done by the technology that's used to capture the card to then give the, I'm gonna use the wrong terminology of the service provider.
+[00:21:24] **Adam:** And, you know, none of us as a lawyer, we can't read the terms of service and then, you know, have to like back that up in court, right? Like, and, and people just want a, a clear explanation or barring a clear explanation, at least a direct answer that is in writing. Like, can I do this? Yes or no? And they like refuse to do that.
 
-[00:27:20] **Adam:** I don't know. The, the, basically the, the, the bank that's, that owns the card or whatever that's, that's providing some of the technology there.
+[00:21:44] **Adam:** and so I've been getting increasingly frustrated with Anthropic and combine that with hearing that, codex is getting pretty good and combine all of that with,continuing to struggle to try to get my work done that I'm trying to get done.
 
-[00:27:27] **Tim:** the sponsor bank.
+[00:21:58] **Adam:** because I'm bumping into my, my usage limits on the a hundred dollars a month Claude plan. So finally I was just like, okay, it's time I need to try out Codex. I bit the bullet. They don't have a hundred dollars a month level, so I signed up for the $200 a month level. And this was like a little bit more than 24 hours ago, right?
 
-[00:27:28] **Adam:** sure. Whatever. but it gives them, it gives them, I guess, enough confidence that they then. own the responsibility for validating that the card use is not fraudulent.
+[00:22:14] **Adam:** So like midday on Monday. and it's stupid.
 
-[00:27:41] **Adam:** So basically the what what it ends up meaning is that if there's a chargeback, it is no longer the merchant's responsibility, right? Like if I run a business and I set up a, a Stripe account, then I am acting as a merchant. I'm collecting credit card payments and, and charging cards. That makes me a merchant.
+[00:22:19] **Tim:** It's
 
-[00:27:58] **Adam:** If somebody does a chargeback, if you just call your credit card company and say, Hey, Adam charged me a thousand dollars. That's not cool. I wasn't, he wasn't supposed to do that. Then the credit card company's very likely gonna say, okay, that's fine, and take my money away, even though I have a signed receipt and a contract from you, they don't typically care.
+[00:22:20] **Adam:** It's, I mean,
 
-[00:28:16] **Adam:** and so that's, that's a chargeback and. Without 3D Secure, all of that risk is on me. It's up to me to maintain that. With 3D Secure, the, it gets kind of pushed upstream. The, the banks and the, the technology. Providing companies, I guess, take on some of that risk by making it slightly more onerous in some cases to make the payment right?
+[00:22:21] **Tim:** when it comes to coding, it's stupid.
 
-[00:28:39] **Adam:** You have to like, I dunno if they do like more one-time password type stuff, oh, we're gonna text you a code, you gotta put it in sort of thing. I don't know what it is, but that's what 3D Secure is in a nutshell. and I didn't know that earlier today, and I was, and we got a request from one of our customers that was like, we, we have been asked by our campus IT to start looking into this.
+[00:22:23] **Adam:** it's decent, but when you're coming from months of being a very heavy Claude user and just seeing the, like, I can see how like certain things, ChatGPT, codex, whatever you call it, let's just call it codex certain things I can see, like it digs a little deeper, it tries a little harder, but it still makes stupid decisions.
 
-[00:28:59] **Adam:** Is this something you guys support? You know, what, what other customers do you have that are using this? That sort of thing. So I started looking into it and I said, I, I gave Claude a couple of things. I was like, okay, we're, I started with a simple explanation. We are, we've been asked by some of our customers to look into implementing 3D Secure.
+[00:22:44] **Adam:** and, and I'm, I'm very focused on this one migration task that I've been working on, like did migration. Now I'm working my way through a bunch of automated code reviews and like review, fix, re-review, refix, re-review, refix, that sort of cycle.and it's just, I, I, it's made me incredibly frustrated. I do think part of it might be the harness itself.
 
-[00:29:15] **Adam:** I gave it like one JavaScript file and one CFC of, like, this is where we're doing some payment gateway stuff. Like these are good places to start. You can spider out from there if you want. And then I said something to the effect of, I don't really know anything about 3D Secure, so what I want you to do, oh, I, I also linked it to the, the docs for our two gateway providers, the Spreedly and Braintree.
+[00:23:05] **Adam:** Like I started with the Codex CLI app,
 
-[00:29:35] **Adam:** I said, these guys I know support 3D Secure. What kind of changes would be necessary for our applications? Like, I'm not, I'm not asking you to plan the code changes, just like kind of teach me what is 3D Secure? What do I need to know? Is this gonna be a big effort on the client side? Is gonna be a big effort on the server side.
+[00:23:09] **Ben:** Is that like Claude Code Desktop?
 
-[00:29:53] **Adam:** Like, and, and then what am I, what questions am I not asking that I should be asking? And it came back and it gave me a really good, overview of all of it, which is kind of where I gave you, I, I passed that information on to you just now. But it, then it had a couple of follow up questions, and like, of the five questions, three of 'em, I was like, I don't know.
+[00:23:12] **Adam:** no, it's like Claude Code, in the, in the CLI, the, the terminal version.
 
-[00:30:11] **Adam:** Tell me more. Because that I, I understand what those words are individually, but I don't understand what the sentence means. and, uh, so I learned quite a bit from that. And then of course, at the end of all of that discussion, so, okay, great. I understand this. Now, now take this discussion and file a GitHub issue to implement all of this stuff, using all the, the information that we just discussed in our inner our chat.
+[00:23:17] **Ben:** Oh, so.
 
-[00:30:33] **Adam:** And it did, and the issue looks great. So,
+[00:23:18] **Adam:** separate desktop native
 
-[00:30:36] **Tim:** But you didn't learn anything about coding?
+[00:23:20] **Tim:** you just type codex and it runs.
 
-[00:30:38] **Ben:** No, but I, I, I think, I think that's a great, a great use case. And maybe this is also just one of these things where. The words that people use are so imprecise that when, when I hear someone talk about, oh, I see the, I see the agent doing something and I'm learning stuff new, you know, I'm thinking, well, if the agent's doing something, then it must be at, at like a low level technical thing that you're learning, not necessarily a more abstract, conceptual thing.
+[00:23:21] **Adam:** Right. You type code X in your, in your terminal and it runs and it's very similar to Claude Code or OpenCode. and you know, like visually it's fine, it works okay, but like simple stuff like Claude was really good at helping you customize your Claude Code installation, right?
 
-[00:31:06] **Ben:** So again, this could just be words, meaning different things to different people.
+[00:23:39] **Adam:** Like you and I, Ben talked a little bit about customizing my status line, right? Like I had it show my current Git branch and like had a progress bar for the context window and stuff like that. And there is stuff in Codex, the CLI client, to do similar things like the, the status line in particular, right?
 
-[00:31:11] **Tim:** Yeah. Yeah. See, I don't see any. Clash between the, the things that we all said, because I've talked about, you know, my job is to review the research, and that's what you did. You did research and you reviewed it and you, you learned something from it. I didn't learn, you know, you didn't learn anything about the code or the implementation because it handled that.
+[00:23:57] **Adam:** So like they do have a slash status line command and that pulls up like a, just a checklist and you can say, show this, show this. Don't show that. Don't show that it's a little bit less customizable. It's not so much like, it doesn't just allow you to put whatever you want in there, but you can turn on and off different things.
 
-[00:31:29] **Tim:** And so I, I think Ben, my feeling was, Ben was talking about more about, oh, I learned some cool way to handle a technical problem. 'cause the implementation it did. that, that, that I'm not gonna get down into as long as it works, it works. The, the test pass and my QA test, you know, use test works. So, yeah.
+[00:24:13] **Adam:** And the, I just asked it as like, okay, using your official client. And I'm asking your official model, can I do this? And it's like, no, sorry. It's not possible. And then, you know, I did some Google searches, their documentation is terrible, it doesn't explain how to do this. And then finally I just tried like slash status line.
 
-[00:31:51] **Adam:** Yeah. I mean, I don't think Claude is gonna invent any new patterns that are novel that we need to be on the lookout for, other than bad ones.
+[00:24:30] **Adam:** It's like, oh, okay. I can just toggle it on. It was right there. Like it seems so simple that it should know this, but it didn't.
 
-[00:31:59] **Tim:** Yeah.
+[00:24:36] **Ben:** Yo, I, I have to say Claude Code. From from the other side. In the last two weeks, it has gotten really randomly janky, specifically with knowing how to do its own things. So I have a couple of skills, and they're skills that I'm the only one who should execute them. Meaning that skills can either be auto discovered by Claude or they can be manually invoked, or a bit of both.
 
-[00:32:01] **Ben:** I don't think I was expecting it to invent anything new. It was more like, because it's a PhD in your pocket and it has the entire history of knowledge, you know, compressed into its trillion facet
+[00:25:02] **Ben:** And you can set it to, I, I forget what the right flag is, but in the, in the front matter, you can do like model invocation, disabled. True to say, you're the user's the only one who can run it. So I will try to run the command and then Claude will say, okay, I see you wanna run a command. What would you like to do with it?
 
-[00:32:13] **Adam:** Parameters. Yeah.
+[00:25:20] **Ben:** And I'm like, run it. That's what it's there for. And it would go, okay, unfortunately I can't seem to run it because you have the model flag disabled. And I said, yeah, I know I'm trying to run it. You don't have to discover it. And it says, well, if you just turn that flag, off, then I'd be able to run it for you.
 
-[00:32:14] **Ben:** Yeah. Like I was hoping that I could just have it look at the code base and suggest improvements. And it's interesting I mentioned this on.
+[00:25:37] **Ben:** And I said, okay. Then what the heck is the point of that flag in the first place? And then he goes, oh, let me do a web search. And then it comes back and like, oh, let me do the Claude Code. Best guidelines. He goes, oh, you're totally right. That's exactly what that flag is supposed to be able to do. Something must be going wrong.
 
-[00:32:26] **Ben:** Facebook, I think, and Mark Takata, who's the chief evangelist for ColdFusion product, evangelist for Adobe. He was saying that it's really great at looking at the code that you're writing and making sure that it adheres to the established best practices of the application. I said, yeah, it is
+[00:25:52] **Ben:** And it's like, and then I'll try it again. And it works perfectly. And it's something happened like two weeks ago where it's just become like, it doesn't even know how to use itself. It's really weird.
 
-[00:32:43] **Tim:** From what year?
+[00:26:03] **Adam:** yeah. The, and it's been buggy lately. There, there's another thing that was kind of pushing me away, right? So, I dunno if you guys have noticed there's been a lot of buzz on Twitter and on Reddit and, and various places about people feeling like they're. Quota runs out really, really fast. You know, the, I doing the same, you know, I, I have literal scripts that I run, not necessarily deterministic, but you know, very, consistently low token usage on like, to do the code review stuff.
 
-[00:32:46] **Ben:** no, like, like of the application that you're building, you know that it's staying on point with how you like to build the application.
+[00:26:32] **Adam:** and before where it would take maybe two to two and a half hours to burn through my five hour session quota, if I were to just like, start it at the beginning of the session and let it rip, you know, it would burn through the entire quota about two to two and a half hours. And then there was a day where I burned it all out in like 45 minutes and I was like, that's bananas.
 
-[00:32:51] **Ben:** I say yeah, that's definitely, that's definitely true. I found that to be the case. You know, you get a good CLAUDE.md file and, and it, and it sees the patterns and the code and, and it, and it does really well. What it doesn't seem to be able to do very well at all, at least in the way that I'm prompting it, is to look at the code and almost tell me what's not there.
+[00:26:49] **Tim:** could this be the surge pricing? 'cause they've started surge pricing.
 
-[00:33:09] **Ben:** You know, what are the abstractions that I don't have that would help, or like what are the architectural choices that I didn't make that actually would make the application easier to maintain? And I have not really gotten it to give me any sound advice from that regard. Which I, I'm, I was surprised. I thought that would just be something that it would do very well.
+[00:26:52] **Adam:** no. Well, I think that might have had a little bit to do with it. but the, I don't, I. Maybe,they, they didn't announce that until like two days later, after I started noticing this stuff, which is another thing. It's just, you know, again, we're just adding fuel to the fire of like, things that were pissing me off about anthropic.
 
-[00:33:29] **Tim:** when, so when I'm in the planning stage, right, so the, the, the stage where you're doing research b before you start implementing, one thing I always tell Claude to do and in my CLAUDE.md is that it should ask me three questions to challenge its assumptions about what I'm trying to do. And so it every time it asks me, and, and I found that that three question gate tends to.
+[00:27:10] **Adam:** It was like, instead of announcing a change ahead of time and then giving you time to prepare for it, they just make the change and then announce, oh, this is what everybody's been whining about for the last week.
 
-[00:33:53] **Tim:** Initially it tends to like really focus, laser focus down to what I'm trying to accomplish, and then eventually gets to the point where it's just arguing over implementation details that are minor, and I just stop caring. I say Stop asking me those questions, but the having those questions kind of helps you kind of focus down to what you're really trying to do, because you don't know you have a blind spot sometimes, and so sometimes it has a better view of of what to ask you.
+[00:27:20] **Tim:** Yeah.
 
-[00:34:24] **Adam:** So it, it sounds, if I, I just want to understand, it sounds like you're kind of asking it to use the Socratic method to steelman its own argument to you, like a ask you questions where the answers could potentially disprove its argument.
+[00:27:22] **Adam:** you know, they, what their claim was to, to kind of clarify what Tim was saying is that it wasn't necessarily surge pricing, but it was like surge rate limiting, right?
 
-[00:34:37] **Tim:** Yeah. Yep. Yep.
+[00:27:31] **Adam:** So during peak hours of the day, you're, like during the, the basically US business hours, your session quota would be
 
-[00:34:39] **Ben:** I like, well, this almost calls back to, the, I can't remember who was doing this. I think this was Adam, where it had to rate bugs and then it had to rate the rating of the bugs.
+[00:27:40] **Tim:** 10:10 AM to 2:00 PM something like that, or maybe nine to two.
 
-[00:34:49] **Adam:** Yeah. Yeah.
+[00:27:45] **Adam:** I think it was until 2:00 PM Pacific, so that would be 5:00 PM Eastern anyway, and I think it was, yeah, I don't know, whatever. But, ba my, the way I interpreted it, which is inferring some stuff 'cause they didn't, of course, Anthropic, they're not just gonna give you a straight answer, but, but what I inferred from it was that they, they're not changing your weekly quota, but during those hours, your five hour session quota was greatly reduced.
 
-[00:34:50] **Tim:** He game, he gamified the bug
+[00:28:10] **Adam:** So basically they're just kind of forcing you to work outside of business hours if you wanna make the most out of your subscription, which again, pissed me off. so, yeah. You know, like, and so I, I, I have been kind of harsh on, on Codex here. I do want to say I have tried it in a couple of different harnesses, which is one of the great things, you know, one of the things drawing me away from Anthropic is that Codex, they're more permissive in what they allow you to use it with.
 
-[00:34:51] **Tim:** system.
+[00:28:37] **Adam:** I'm using it. in the last, for the last like three or four hours I've been playing with it in OpenCode and I'm liking that interface a lot more. I find it just like everything seems to be gray on gray on gray, which is annoying to me. I like a little bit of color, but of all the gray on gray on gray interfaces, OpenCode seems to be the most screwable, like I can actually look at it and make sense of it.
 
-[00:34:52] **Ben:** Yeah.
+[00:29:00] **Tim:** Mm-hmm. So I'll kind of, I think, reinforce some of your assumptions based off my experience with it, the two. 'cause you know, I mentioned before where I would, I have two subscriptions, so I'll pit them against each other and they kind of expose based off their answers, what their strong points are and what their weak parts are.
 
-[00:34:53] **Carol:** Oh, that's great.
+[00:29:20] **Tim:** So I, I think Anthropic went the route of being very business focused, very developer focused. You know, you give it a problem and immediately it wants to start spitting out Python. Scripts, right? whereas, OpenAI ChatGPT tends to be a bit more general user, high level things. and, and so when I would pit these against each other, I would notice that like Claude would immediately get down to implementation details without spending enough time in the planning stage.
 
-[00:34:55] **Adam:** Well, let's, uh, let's talk about some more ways that AI is making us stupid and lazy.
+[00:29:52] **Tim:** And whereas ChatGPT OpenAI would spend a lot more time researching public information. And, and so using the two of them back and forth helped, really helped. 'cause it's like OpenAI caught a lot of assumptions that Claude didn't, and I think that, but I think OpenAI is pivoting. They got rid of their, video generation, what was that thing
 
-[00:34:59] **Tim:** Look, so I a hundred percent I'm waiting for the day. When Claude says to me, Tim, you asked me that exact same question five prompts ago, because
+[00:30:19] **Adam:** Oh, Sora.
 
-[00:35:07] **Tim:** seriously, it's
+[00:30:20] **Tim:** They got got rid of that. I think they're seeing that Anthropic is actually making money. And they're not, they're not.
 
-[00:35:07] **Tim:** like not just five prompts ago. Yeah. Yeah. 'cause it's like my context window is much smaller than his context window. And, I, I'll be like, I know it, I know it answered this.
+[00:30:27] **Adam:** my, my theory on that is that they need the GPUs and Sora wasn't making any money, and so it was just wasting money.
 
-[00:35:19] **Tim:** I don't remember what it was, and I'll just a, I'll just type it in the, the CLI, I'm like, what's the answer to this? And it'll give me the answer again, but I was just too lazy to scroll up. To look, to look at
+[00:30:33] **Adam:** And they need those GPUs for training or whatever.
 
-[00:35:30] **Adam:** That's pretty lazy.
+[00:30:35] **Tim:** yeah. But I think they're gonna pivot more to the business side of things. 'cause that's, that's the people who really, I mean a mom and, you know, a mom and pop an individual user, they're may be gonna spend 20 bucks a month, 30 bucks max. Whereas a company who's making money off of building things, they're gonna spend $200 per, per user happily if they get good return on it.
 
-[00:35:31] **Tim:** yeah, it's pretty lazy.
+[00:30:59] **Tim:** And
 
-## [00:35:32] Managing AI Usage Quotas
+[00:30:59] **Adam:** they're likely to have minimum three, four users, if not
 
-[00:35:32] **Tim:** And then I, I feel guilty if I'm not burning tokens. Like I'm burning tokens right now while we're talking. 'cause I'm like,
+[00:31:02] **Tim:** right. And our company, yeah, we, we got like 50 something. So, so Anthropic is really kind of cornered that market. And OpenAI, I think is kind of trying to push into that, but they haven't got there yet.
 
-[00:35:38] **Tim:** I'm like, I'm at a computer. I might as well,
+[00:31:15] **Adam:** Well, I mean, like to, I guess to kind of wrap up here, you know, I, I said I was being kind of hard on OpenAI stuff, and I do think that the. My frustration, it feels like it's primarily from coming from the model, like the tools, the openness, the open source of their tooling. I, I feel like it's decent enough.
 
-[00:35:43] **Ben:** I never look at my token usage. I don't care. Like I just kind of go do my thing and
+[00:31:35] **Adam:** It may, you know, in some ways I feel like it may be lagging behind Claude Code, but that just could be because I have two months or more of Claude Code experience and, 24 hours of, of Codex experience. But, the, the models will get better, right? Like, so if ev, if everything else except the model is equal or better, on this side of the fence, right?
 
-[00:35:49] **Carol:** if someone yells at me, they'll yell at me.
+[00:31:55] **Adam:** The grass is always greener sort of thing. But if, if, if the, if everything else is good over here and it's just the model's a little lagging behind, then maybe I should stick it out. But I will say I had a period today, I even copied a, a series of my prompts into our discord where I was just getting more and more and more furious with
 
-[00:35:51] **Ben:** She's on the
+[00:32:14] **Tim:** saw that.
 
-[00:35:51] **Adam:** so yeah, I was gonna say, you're, you're not on Anthropic anymore, right?
+[00:32:15] **Adam:** Oh my god. To the point where I was like, I told Codex like, I've been working with you for less than a day and I already want to cancel my subscription. You are awful. but I, like I said, I do think it's the model. I do think the models will continue to get better, so it'll be, you know, you can't just BI mean, some people I'm sure do bounce back and forth between whoever has the best model on any given week, but,
 
-[00:35:54] **Carol:** No, no, no,
+[00:32:37] **Tim:** Brian,
 
-[00:35:56] **Adam:** Yeah, because the government and Anthropic are fighting. so, I, I know that OpenAI, I assume that's what you guys have now,
+[00:32:40] **Adam:** but yeah.
 
-[00:36:03] **Carol:** we have several things. Let's be clear. Yeah.
+[00:32:41] **Adam:** Anyway, so let's, let's wrap it there. We've been doing triumphs and fails for quite a long time now. So let's, uh, let's move on to the topic of the day, right?
 
-[00:36:05] **Adam:** Okay. but I know OpenAI has the, they have their $200 price point, which matches, I'm sure, more or less the 200 price point from Anthropic, which is what I'm familiar with.
+[00:32:48] **Tim:** more AI.
 
-[00:36:16] **Adam:** I'm currently on the a hundred dollars a month price plan from Anthropic, which is I guess five x the pro amount. and the 200 is 20 x the pro amount. So it's a, it's a big step down and like I feel like I need a, I need a step between, 'cause I continuously run into the limit of the five x. And they're like, I, when I first got onto the 20 x, I was using it a good bit and, and kind of getting close to bumping up against the limits of the session and the week.
+[00:32:49] **Ben:** Yeah, what are we talking about?
 
-[00:36:44] **Ben:** but I don't think I ever actually ran out. But now I'm, I'm right back in the thing where I'm constantly kind of guarding my session. and I, that's kind of how I'm noticing my own laziness, right? Like,so if I look right now, I'm at 52% for the week, which resets in four and a half days. No.
+## [00:32:51] AI Beyond Coding
 
-[00:37:06] **Adam:** yeah.
+[00:32:51] **Adam:** Uh, well, you know, AI beyond coding uses, right? Like, where are we running into it in the real world? That's kind of, I think that would be an interesting discussion to have and,
 
-[00:37:07] **Adam:** Uh, and so because of that, I have stopped all of the automations that I was doing and I'm only using it interactively, throughout the day because I don't what I like. I'm kind of, if I'm gonna like admit it to myself, I'm a little terrified of like starting my day on Friday with no weekly usage left.
+[00:33:00] **Tim:** The, the non, the non programming world?
 
-[00:37:25] **Carol:** So what will you do if that happens? So you're just gonna sit in meetings all day,
+[00:33:02] **Adam:** Yes. Yeah, we are, we're real people too. if you ask us. in our opinion. but my wife is a therapist, and she uses a tool to do her electronic medical records.
 
-[00:37:28] **Carol:** just
+[00:33:14] **Adam:** And insurance companies require like a specific way that you format your notes for, you know, getting paid for your sessions that you do and stuff like that. And so at dinner tonight we were talking about, the tooling that's available to her in her, like the AI specific tooling that's available through her tool suite.
 
-[00:37:28] **Adam:** lot of email and No, I mean, I'll, I'll, I'll do stuff, but it, I probably won't prioritize code. Right. there's, I'm sure there's always, there's plenty of like, cleanup and compliance and you know, other kinds of stuff that needs to be done. cleaning up the backlog and prioritizing tickets and stuff, but,
+[00:33:32] **Adam:** I'm trying to like, walk around the words. I don't wanna, you know, name drop any particular tools or anything. But, so she uses as a system to take notes. And basically the thing that she's been making use of is, you know, insurance companies are very particular about, they wanna see these words in the note or they wanna make sure the note covers this particular aspect of the treatment plan and that sort of thing.
 
-[00:37:47] **Carol:** And maybe that's why I don't look at it as much. My morning is usually spent like fighting fires. It's just helping my entire team get back on track, resolve some issue they're having deal with something that AI generated for them that doesn't work and they can't figure out why. And that doesn't really require necessarily my usage.
+[00:33:55] **Adam:** And, you know, therapists don't get billed for or don't get paid for the time they spend writing notes. So. They get paid for the time that they're actually talking to their clients.
 
-[00:38:08] **Carol:** So maybe that's why I'm not run into any issue. Plus, whenever I'm using it, I spend a lot of time in the plan mode. So I have it generating like the concept of what we wanna do and get some like baseline understanding of how we do it, and then spin that up into stories which then the developers end up taking and doing the bulk of the work from.
+[00:34:05] **Tim:** I pay for an hour and they give me 45 minutes, so
 
-[00:38:26] **Carol:** So right now I don't generate a ton of code other than my own, just, I want to fix little things and I wanna see how it handles a bug or an issue here, or go find a problem because I see these, this log all the time.
+[00:34:09] **Adam:** that's, yeah. It depends. Every therapist does it kind of differently or, or every company. I think my wife charges for 50 minutes and, and sees them for 50 minutes. But
 
-[00:38:39] **Ben:** Well on, on top of that, even when it's not a, a running out of tokens issue, where at work, we're doing mostly vibe coding. If Claude is down, I don't know how the application works. I don't know the language that, you know, it's like, I don't know how to write Python. I don't know how to use CockroachDB.
+[00:34:17] **Tim:** okay.
 
-[00:38:56] **Ben:** I don't know how to write React, but like, that's what's underpinning this application. So when Claude goes down, or almost even worse this afternoon, it was just really hanging for a long time. That's like, that's almost like one of those denial of service attacks where they do really slow responses and I, you know, I can do exactly what Adam's talking about.
+[00:34:17] **Adam:** way, whatever. yeah, so the tool that she has, like, she just kind of puts in an outline of notes, like kind of, or, or a summary or shorthand of what she wants to say, and then there's like an AI button in it and it takes the, the note that she has written and, and kind of fleshes it out to be a full professional like pro.
 
-[00:39:17] **Ben:** I can look at the backlog. I can flesh out some tickets, but like, I can't, I can't build product because I don't know how the product works.
+[00:34:35] **Adam:** note with everything that the insurance company wants to say, and she likes that. But then we got into like, well, you know, some, the, the same tool, the same system has a new feature now where, you can let it listen to the sessions. Like it'll record the audio of your sessions and it will automatically take the note.
 
-[00:39:24] **Carol:** that's,
+[00:34:54] **Adam:** And like she hasn't used it. We kind of talked about like what, that could enable, right? It could, it could offer some advice not to the client, but to her as the therapist say, like, uh, you might not have picked up on this, or Have you considered this kind of a treatment? That sort of thing, which would be interesting.
 
-[00:39:24] **Adam:** that's, that would be a good time to catch up on my articles. I haven't been, uh, all these browser tabs that I've been opening and not reading.
+[00:35:13] **Adam:** But there's huge privacy concerns
 
-[00:39:31] **Ben:** But it, but I just wanted to add on to kind of what Tim was saying, at the start here where, where he's asking the same things over and over again. I am kind of doing that as well, but I've. Almost take it in an absurdist direction where I have a a, a Claude Code skill that is really just a bulleted list of things that I would tell Claude to do.
+[00:35:14] **Carol:** Huge. Yeah. I'm a big no-no on that one. Like
 
-[00:39:52] **Ben:** So one of the things that I have is a skill called Branch, and what it does is it runs in sequence, check out the main branch, pull the code down to make sure it's up to date. Rebase the feature branch that I was working on, on main run, any pending database migrations that haven't been run, I'm getting my, my skills confused.
+[00:35:18] **Carol:** So when we've been through this training, they'll try showing us, different tools that we can use, and they're like, oh, did you know you can just speak to it and have it record for you and give you answers? I was like, the last thing I want is my laptop recording me more. I'm like, what I'm doing, I don't even want it to hear me when I'm talking outside of work hours.
 
-[00:40:13] **Ben:** But basically I have like a steps to either prepare this branch for development or push this branch for make sure it's up to date. And the, the reason that I think this is ridiculous is because it's non-deterministic. I really should have just asked Claude to write me a bash script that would have done this
+[00:35:38] **Carol:** Right. I'm like, no. If my therapist was like, may I record this session with audio? I'd be like, I'm finding a new therapist. Like, there's no way I would want that to be a thing. But I think of the privacy side of it, like, who's gonna use that data for what now?
 
-[00:40:31] **Adam:** I was just
+[00:35:50] **Tim:** Right.
 
-[00:40:31] **Adam:** gonna
+[00:35:51] **Carol:** Yeah.
 
-[00:40:31] **Ben:** right every single time.
+[00:35:53] **Tim:** Yeah. I had a therapy session yesterday and it was, it's online. So one of the, options was, do you allow recording? And I clicked, no. 'cause 'cause I, you know, I, I don't want them throwing that into AI and then it goes, it gets leaked. I mean, you, you never know. It's like we always, you know, no one thought when 23 and me came out that your, data about your, your DNA and your genetic disposition would eventually be bought.
 
-[00:40:33] **Ben:** But it's, I've gotten into this mindset where. Even though Claude is the one doing the work and the work is non-deterministic, it somehow still feels easier than just asking Claude to write a script that will do the right thing every single time. And I don't know what that, I don't know. There's a laziness in there and I can't, I can't articulate it, but it's like AI has somehow made me lazy in this weird, amorphous way.
+[00:36:16] **Tim:** 'cause they go out of business. Like once, once you give permission to something, you can't get that back
 
-[00:41:02] **Tim:** That example sounds like not necessarily, it's made you lazy, it's made you codependent. It's
+[00:36:22] **Carol:** yep, I agree.
 
-[00:41:07] **Tim:** like, I can, I can create a bash script to do it for you, but I re you know, you're like, I really just need to ask Claude, make sure it's okay.
+[00:36:22] **Adam:** Once you give up the data, there's no taking it back.
 
-[00:41:16] **Carol:** Yeah.
+## [00:36:25] Security Breach Fatigue
 
-[00:41:16] **Tim:** Get that, get that. I wanna see that beep booping, you know, whatever the little things it says
+[00:36:25] **Ben:** Yo, sorry, quick side tangent for two seconds. One thing that I've noticed in this AI world is I feel like people have become extremely lackadaisical about. Security issues. Whereas you go back five, six years ago, if there was a, any kind of a big breach, people would be like, oh, well that's the end of that company.
 
-[00:41:22] **Ben:** Pontificating,
+[00:36:49] **Ben:** I mean, it was never the end of that company, but people thought about these things like, this is catastrophic. You've destroyed trust with your users, et cetera, et cetera. And now I was hearing people, several different podcasts have been talking about the, Claude Code, you know, how they accidentally shipped their source maps and exposed all of their agent code.
 
-[00:41:22] **Tim:** it's thinking.
+[00:37:09] **Ben:** People are like, yeah, it's no big deal. And you're like, it's no big deal that a company that's raised $300 billion. I, I'm just saying
 
-[00:41:23] **Tim:** You're like, I wanna see it. Think and, and then do the thing rather than just double click a, a, a batch file or something. Okay.
+[00:37:18] **Adam:** of their customer
 
-[00:41:30] **Adam:** Did you guys see that the Claude Code source code leaked today? Like kind of a backwards way, like I think it was like a source map sort of leak.
+[00:37:18] **Ben:** No, no, no, no. I'm, I'm, I'm just saying like, I feel like the, the temperature of the programming world has been like, oh yeah, bad stuff happens. No, no big deal. And, and if you went back five, six years ago, I think it was very different.
 
-[00:41:39] **Carol:** no way.
+[00:37:33] **Tim:** yeah, I
 
-[00:41:40] **Adam:** and yeah, so I think it's available on GitHub. I, I haven't looked for it, but I did see some people sharing screenshots of this and that, like the, the regex that they used to find curse words and negative sentiment stuff.
+[00:37:34] **Adam:** think you're right. But I think it's a good thing.
 
-[00:41:50] **Adam:** and then the other thing was like, it's like a 180-item list of those words. So like beep-booping, procrastinating, you know, all those
+[00:37:36] **Tim:** I don't know if it's so 20, so 20 something years ago there was a company called TransUnion that we, we were a customer of, and that did credit scoring and things like that. You now know them as Equifax, and the entire reason they were, they changed their name is because they got leaked and they leaked their customer data.
 
-[00:42:02] **Ben:** Flibbertigibbeting.
+[00:37:55] **Tim:** And so they had to do a very expensive, you know, corporate shift to make it look like they went out of business. Basically. They didn't, they just became another brand and reist and now like you're saying, it's like, you know, they, their stuff gets leaked and they just go, yep, sorry, that's embarrassing.
 
-[00:42:03] **Carol:** I enjoy those. I, okay. I enjoyed those back in the
+[00:38:13] **Tim:** And then nothing ever happens.
 
-[00:42:08] **Adam:** Past tense.
+[00:38:15] **Ben:** way people react to the OpenCode stuff, right? So OpenCode became super popular, and then it was like, oh yeah, all these people's API tokens are getting leaked. And Andrej, what is it? Andrej Karpathy, what's his name? Something car, you know, like the guy, the vibe coder guy, like his API tokens were, were leaked because he signed up for OpenCode.
 
-[00:42:08] **Carol:** Yeah.
+[00:38:33] **Ben:** And, and I, I, again, I feel like you went, you go back a couple years ago and that would've been it, like no one would've ever talked about this project again because it was so terribly SSE insecure. And people today are just like, oh, how hilarious is it that people are just open up their whole worlds, these totally insecure engines.
 
-[00:42:09] **Tim:** Back in the day when Trump wasn't fighting with them
+[00:38:52] **Ben:** Oh, let's just have that company get acquired by OpenAI or
 
-## [00:42:12] AI Replacing Search Engines
+[00:38:56] **Tim:** Well, I, I think it's, there's no government control. There's no repercussions for it, so what can people do,
 
-[00:42:12] **Carol:** So, my learning piece, I do wanna add something from earlier, you
+[00:39:01] **Ben:** No, no, I a hundred percent. I'm just saying like the numbing that seems to have happened is shocking to me.
 
-[00:42:16] **Carol:** know, like we are using Azure AI Foundry to do a lot of our LLM stuff. Well, I haven't been in Azure AI Foundry doing anything. So before we had access to these tools, I would have, you know, watched a few YouTube videos while I was working or read some articles or even went to their site and did any demos, you know, walked through and got an understanding of what Azure AI Foundry is and how to use it instead.
+[00:39:07] **Adam:** So the, the OpenCode thing is interesting. Honestly, I, I put that in the category of people who probably stand to financially gain from the AI hype train, continuing on the tracks, right? Anything that's going to make it start to look like a train wreck. it is probably got a lot of people that would stand to lose money from that.
 
-[00:42:41] **Carol:** I pulled down a repo today and was like. How do I connect to Azure AI Foundry and it's explaining all this or no? I was like, how do I get all my connection strings? And I didn't lay out that I needed Azure AI Foundry. So it's explaining to me like how to set up my connection through Entra ID, which we will need, like that's gonna have to be created as well.
+[00:39:27] **Adam:** And so they, you know, if it's their personal investments or their, you know, like if they helped, fund any of these companies, like v VC money type thing, anything like that, you know,but going back to my earlier comment about, I think it's good, obviously I don't think it's good to, for the credit bureaus to leak their customer data.
 
-[00:43:00] **Carol:** But finally at the end of it, I'm like, look, I'm brand new to Azure AI Foundry. I haven't even opened the site until today. I don't know where anything is in there. And it pretty much said, well you're stupid because I'm not talking about Azure AI Foundry. You're supposed to be an Entra ID doing all of this. And I'm like, uhoh, I probably should have like, went back and said, I need all the connection information for the LLM models in Azure AI Foundry to understand like how to make it connect from my local, to these models that we're gonna be using.
+[00:39:47] **Adam:** That's not what I was getting at. But more like, you know, companies make mistakes. People make mistakes and barring something horrible, like leaking all of our customer data and having that contain incredibly sensitive private information. Right. If it, if it, if I leak your address, yeah, that's crappy.
 
-[00:43:29] **Carol:** And I was just like. Back before I had access to a tool that could just answer things, I would've went and found out a lot more on my own. And now I have a dependency on the information being quickly available to me and just a couple questions, and I feel like that's where I see myself being very lazy right now with ai.
+[00:40:05] **Tim:** But it's also basically public record, right? Like, if I know where to look, I can just go get that. So I might not even have to pay for it. I had to explain to my kids what a White pages were. I said it basically, it was a big giant book. It is a big, giant book that doxed everybody in your neighborhood.
 
-[00:43:47] **Adam:** Yeah. I do feel like maybe part of the trap that it's, that it has lulled us into is that it's like one interface that can do everything, right? You can ask it for a recipe, you can ask it to fix a bug. You can ask it to do research on something, and it makes it too easy to make it the default place to go for everything.
+[00:40:20] **Adam:** Yeah.
 
-[00:44:08] **Carol:** Yeah. I have to remember, it's not really my search engine. Like I still need to go search, but then when it pops up, the very first thing is now an AI response. I'm like, do I just scroll past it or do I read the AI response? Well, now I always read the AI response first, so I'm like, why even go the search
+[00:40:21] **Ben:** That's
 
-[00:44:24] **Tim:** Yeah. I've, I've, past couple weeks I've stopped searching.
+[00:40:22] **Adam:** they, they, they gave it to you for free, whether you wanted it
 
-[00:44:28] **Carol:** really?
+[00:40:25] **Tim:** Exactly.
 
-[00:44:29] **Tim:** yeah, because I feel like, and I, rightly or wrongly, I, my gut tells me that people who are the top of like the list have gotten there because they've gotten really good at their SEO game and not necessarily the best answer. And whenever you ask explicitly an LLM to do deep research, like use those words, deep research, you know, it will, you can see it beeping and booping and bopping and whatever through like, you know, dozens and dozens of websites, more websites than I would ever scan, you know, past page one of the, of Google search, which is.
+[00:40:27] **Carol:** it's not like OPMs so many years ago when like our background checks were leaked. Right? Like we had a, a breach Right. And fingerprints were taken. Like
 
-[00:45:07] **Tim:** obviously the dark web. Yeah, the dark web is page two. so it, it's searching and searching and so I, my assumption is that their answer's gonna be better than what I could have done in the same amount of time doing like several Google searches.
+[00:40:37] **Adam:** Mm,
 
-[00:45:22] **Adam:** Right, and you're probably not that wrong, or if you're wrong at all,
+[00:40:37] **Carol:** of that stuff, like this is, this is everything you need to, to make another copy of you.
 
-[00:45:26] **Tim:** All right.
+[00:40:43] **Adam:** Yeah.
 
-[00:45:27] **Adam:** in most cases,
+[00:40:44] **Carol:** Yeah.
 
-[00:45:28] **Tim:** But there, but there's, there's no way to, I guess you could ab test that I should ask Max. That's kind of what actually what he's doing with the AI company he's working for.
+[00:40:45] **Adam:** So, but like, you know, if, if it's, if it's, you know, I don't know what kind of data I'm talking about, but like, you know, if we make a mistake, if we ship a bug and it causes a bunch of peoples, a lot of grief and maybe they lose a little bit of money, like, I think people are more forgiving of that now than they were five years ago.
 
-[00:45:37] **Adam:** ask Claude.
+[00:41:03] **Adam:** And I think that what that to me represents is. Kind of two things. People are better understanding that like not every website you go to on the internet is run by a mega corporation with a billion dollars available to spend on testing their software. And two, like the, the people are understanding that and that there's, you know, there's
 
-[00:45:39] **Tim:** It'll lie to me.
+[00:41:26] **Tim:** but it's, it's the billion dollar companies that are getting breached.
 
-[00:45:40] **Ben:** I feel like there's almost a little bit of a dystopian undertone that some people have when they talk about the web, where they now talk about making the web almost optimized for agents and less for humans, which is so depressing and also
+[00:41:29] **Adam:** True. I, I can't, I'm not gonna argue.
 
-[00:45:56] **Ben:** feels like, how is that any different than saying, well, blind people won't use my site, so I don't have to worry ever about accessibility?
+[00:41:31] **Tim:** argue. I mean, there's the ones that get in the news. If, if our company got breached, you know, only our corporate parents would care, but it wouldn't get, make the news.
 
-[00:46:04] **Ben:** You're like, are we going back there though? That seems weird.
+[00:41:40] **Adam:** Yeah.
 
-[00:46:08] **Tim:** Yeah, we're look at, look work. We're looking to like put MCP in front of all of our APIs. Just
+[00:41:41] **Ben:** I feel like the, the slippery slope has been. The AI makes mistakes. Yeah. But people make mistakes. And then somehow that became, mistakes are okay in general. Which again, not to say that we don't all make mistakes and bad stuff happens, and we try to learn from it a hundred percent. That's the reality of the world.
 
-[00:46:15] **Carol:** Just so people can go pull 'em in and learn. Yeah. Use them. Yeah. Or not learn like use them.
+[00:42:00] **Ben:** That's reality of product development. But I, I feel like there's, in order to allow for having these age agentic systems that make mistakes, we've had to soften our stance on mistakes. And I think in some ways, maybe way too much or to paint it as that all mistakes are equal and they are not. Anyway.
 
-[00:46:20] **Tim:** because, because I've used, MCP, like Atlassian has an MCP server or several others that we use. And it's actually really, really cool to, to be able to just use that, to find out about their services.
+[00:42:20] **Adam:** Yeah. No, I, I, I see where you're coming from. I don't know that I have anything to add to that.
 
-[00:46:34] **Ben:** I still like going to the web, not for everything. It's not like I do a lot of searches, but I still enjoy using websites. I, there's, when people talk about how they want to use the web only through agents and like the only thing I wanna do is go to my ChatGPT and ask it what show times things are playing and buy me this meal.
+[00:42:24] **Tim:** So anybody else got any AI in the streets? LLM, in the sheets stories.
 
-[00:46:52] **Ben:** And for Uber Eats like that doesn't appeal to me at all. That seems really weird personally to each their own. I'm not here to yuck anyone to yum, but like I really hope that's not what the web becomes.
+[00:42:29] **Adam:** I was waiting for that.
 
-## [00:47:04] Google Search Is Broken
+[00:42:31] **Carol:** Heck yeah, I do.
 
-[00:47:04] **Adam:** Yeah, I mean, on the subject of like, you know, Google search results and are they even worth looking at anymore? I do feel like pre LLM AI stuff, there was this sentiment that like the, the first, at least half dozen results from the Google search would be basically worthless. Like, go, the value of Google just went way down over the last few years because what, what is it?
+## [00:42:33] AI in Everyday Life
 
-[00:47:29] **Adam:** I forget which law it is, but any, any metric that you start to track then becomes a, a useless metric. I don't know. But, you know, just by, by virtue of tracking it, it becomes useless because people start to gamify it. Well, okay. Being first on Google became good for being profitable, and that's what this country is good at, is taking things that are useful and, and making them not useful, but profitable.
+[00:42:33] **Carol:** So, I haven't really talked about it on the show yet, but I guess I can kind of talk about it. Um, we're PCSing again, so we are about to make another move across the country. So that's like a four night trip we'll be doing and my husband thinks that all of a sudden the best way to get our route is to ask Claude and generate a map image of where we should stay, which is military bases along this route.
 
-[00:47:55] **Adam:** and so now Google sucks. And so for that reason, I think that there's a, there's a reasonable expectation that these LLMs that can look at 15 articles and cross compare notes and, and, you know, kind of crystallize the, the, the salient thoughts are, you know, potentially better than Google
+[00:43:00] **Carol:** First, let me just let you know, it doesn't know where Savannah Georgia is. 10 different tries. Drop the pen in near Destin, Florida, which is
 
-[00:48:17] **Tim:** Until they learn to gamify it
+[00:43:12] **Tim:** Yeah. Nowhere here.
 
-[00:48:20] **Adam:** until they're eating their own tail, right?
+[00:43:13] **Carol:** and a half, five hour drive away. And my husband's going, well, according to Claude, we can make it in three days and this is how many miles it is. And I said, lemme look at that map.
 
-[00:48:21] **Tim:** exactly.
+[00:43:25] **Carol:** And instead of just opening Google Maps and generating a route, regenerate the image. Regenerate the image. And I'm going, sometimes AI isn't the answer.
 
-[00:48:22] **Ben:** Google search the other day and I literally could not tell what was an advertisement and what wasn't. It was like the AI response and then it was sponsored links, and then it was like ad links and then it was like another block of something and I, and I swear, it felt like nothing on the entire first page was actually a search result.
+[00:43:37] **Tim:** use
 
-[00:48:41] **Ben:** It was, it was really creepy.
+[00:43:38] **Carol:** We're not going to use. Yeah, we're not going to use it. I'm just gonna tell you the map, the all the bases. They're along I 10 and I 20. And you can make the decision.
 
-[00:48:44] **Adam:** I do use DuckDuckGo as my default search engine. Now when I, when I need one. And it does, I think it does have the, AI response at the top, but then I, I don't feel like there's sponsored links. I'll have to go look.
+[00:43:46] **Carol:** Do you wanna go North Louisiana or South Louisiana? Then we'll pick where we're staying. We don't need Claude for this.
 
-[00:48:57] **Carol:** All the way to Arizona on our drive. There were so many bill billboards for Duck Duck AI, and finally my husband's like, what the heck is Duck Duck AI? I was like, do you know what DuckDuckGo is? He's like, yeah. He goes, oh, I was.
+[00:43:54] **Tim:** That's funny.
 
-[00:49:15] **Ben:** So, to kind of take it in a slightly different angle for a second, one of the things that I'm finding is that I am now tempted to add things to the product that probably don't need to be there, simply because it's really easy to add them. And, and I want to differentiate this from, it's easier to experiment because I think experimentation at least implies that the thing you're building has value.
+[00:43:56] **Adam:** It's like me with magnets, man. If, if there's a way to solve a problem using magnets, I will. I'll be all about that.
 
-[00:49:42] **Ben:** But I've definitely, especially when I'm, when I'm feeling blocked on a particular part of building an application, personally, I might just as almost a way to self-soothe, try to build something new inside of it, because like, oh, at least I'm moving forward. I I'm finding that I'm, I'm losing some of that critical thinking of, is the thing that I'm building actually going to be adding value or just a distraction?
+[00:44:03] **Carol:** Well, I even ask him, I'm like, do you have a concept of tokens? Like, do you understand, like you are limited on what you're allowed to use and you're just regenerating the same information over and over, and not telling it how to fix it. You're just saying generate regenerate. Not like, oh, that's not Savannah, that's Destin Florida.
 
-[00:50:08] **Ben:** And I think historically the amount of friction it would've taken to build something would have tampered my perspective a little bit better. And I'm, I feel like I'm losing that critical evaluation. Maybe
+[00:44:25] **Tim:** right.
 
-[00:50:21] **Tim:** I don't see that as a bad thing. Being able to add more features in the same time.
+[00:44:26] **Ben:** That's frustrating though.
 
-[00:50:27] **Ben:** it's more like, am I adding the features because I can, not because they're helpful.
+[00:44:28] **Tim:** I, I
 
-[00:50:33] **Carol:** That's a bad thing.
+[00:44:29] **Ben:** mistakes. Carol.
 
-[00:50:34] **Ben:** I, I mean, I'm not saying it's a bad thing. I'm, I'm saying that I'm not, I don't think I'm thinking as deeply because the cost is lower.
+[00:44:31] **Tim:** It does. And I use ChatGPT. So I, when I created all my recipes for our wild game dinner a few weeks back, I had to scale them up, right? 'cause and so I'm like, there's 20 diners, and I just took it at its word. Like, the amounts it gave me were legit. And when I went, so when I had the other chefs like, like create these salads and different side dishes, it was like, it was enough to feed 100 people. It was a ridiculous, I'm like, I had this huge vat of cucumbers that, you know, it's like this Koji cucumber salad thing that was gonna go on the side. It was just, I told him, I'm like, it's just a little tiny bit on the side. It's not a full plate. Yeah. We threw away probably like four pounds worth of that stuff when we were
 
-[00:50:43] **Tim:** Hmm. Yeah.
+[00:45:12] **Carol:** Well, at least it wasn't the opposite and you only had enough food to feed like five.
 
-[00:50:45] **Carol:** I still find myself going, is this going to be useful in the near future with code it's generating or with suggestions it's making? Or is this just gonna be legacy junk? I'm gonna have to support and maintain down the road? I do constantly find myself questioning the architecture of what it's putting in, but I feel like that's just the way I've always been with how I code as I try to think about the longevity of what I'm writing and the maintainability, you know, in the future.
+[00:45:16] **Tim:** Yeah. Yeah. so I, I have one AI in the street, so it's like I, anytime I talk about AI to my kids, they get like. Viscerally angry. Like they, they don't, they don't like it at all. And I, I, and I think I've talked to other people, they're, it seems Gen Z particularly, which I think is their generation, I don't know.
 
-[00:51:13] **Adam:** Okay.
+[00:45:39] **Tim:** They get, get confused. I know I'm Gen X, but everyone else, whatever. I think Gen Z just, they were growing up in high school where AI was just getting kind of started and the teachers were so worried that everyone was gonna cheat, that they basically said, don't use it. You know, they, they drilled into their head that it's, if you do that, you're gonna flunk, you know, you gotta learn anything.
 
-[00:51:14] **Ben:**
+[00:45:59] **Tim:** And so now that they're actually.
 
-## [00:51:14] Patreon
+[00:46:01] **Adam:** We got this is your brain on drugs. They got, this is your brain
 
-[00:51:14] **Adam:** All right. Well, I guess we're all too brain rotted now to, uh, come up with a good way to, to off ramp the show. So we're just, I'm just gonna smoothly transition into the outro like this now. And you can blame Claude Code for, for all of that.so, this episode of Working Code was brought to you by learning things.
+[00:46:03] **Tim:** Right. This is your brain. I learned from watching you dad. yeah. So like, now that they're my daughter's, like she's in the workforce and like my, so it's funny, she's working for the guy who first hired me for the company I'm at now, and he's like, he sold the company, he owns like a country club and a bunch of other things.
 
-[00:51:33] **Adam:** You may or may not be doing that.I, I only you can decide that's, that's my, my take on that. and listeners like you, if you're enjoying the show and you wanna make sure that we keep putting more of whatever this is out into the universe, you should consider supporting us on Patreon. Our patrons cover our recording, editing and transcription costs, and we couldn't do this every week without them.
+[00:46:24] **Tim:** And so she's working at the country club and she's doing kind of like sales and marketing for them.and, I showed him some stuff I generated with AI and he's like, this is awesome. I'm gonna, I'm gonna buy this for Lily so Lily can use this. And Lily basically just looked at him and said, Nope. I know how to use, I know how to use Canva.
 
-[00:51:52] **Adam:** Special thanks to our top patrons, Monte and Giancarlo.
+[00:46:42] **Tim:** I don't need this. I'm gonna use do it my way and, and my son's the same way. It's like, okay. Uh uh. Particularly my son. 'cause if he goes into corporate programming like I am, it's like pretty much every corporation is forcing a mandate that you gotta use AI.
 
-## [00:51:54] Thanks For Listening!
+[00:46:59] **Ben:** Well, I remember you were telling us a story when you were in Portugal and he had drawn some manga character or something and you had AI colored in and he was
 
-[00:51:56] **Adam:** You guys rock. We're gonna go do the after show as my co-hosts furiously edit the after show portion of the document that doesn't exist. I have no idea what we're gonna talk about, but Carol's back, I'm sure we got some stuff to get into. so if you would like to get access to the after show.
+[00:47:07] **Tim:** Ate it.
 
-[00:52:11] **Adam:** New ones, old ones, and the ones in between. the easiest way to do that, and in fact the only way to do that is to go to patreon.com/workingcodepod, throw a few dollars our way, we'll hook you up with a special RSS link that, includes all the, the back catalog and the front catalog of the, the podcast episodes, including after show.
+[00:47:08] **Ben:** he was very off put by that.
 
-[00:52:31] **Adam:** So, that's how that works. That's gonna do it for us this week. We'll catch you again next week. And until then
+[00:47:10] **Tim:** Oh yeah. He was extremely, yeah. He's like, that's the worst thing you could have done to me. I'm like, geez, dude, chill. Not like I beat you. Come on.
 
-[00:52:37] **Tim:** You make us smarter, not dumber. Your heart matters.
+[00:47:17] **Adam:** Yeah, I mean that, so that's interesting 'cause that's a very artistic. Point of view perspective. Right. I don't know if Lily's is similar. I mean, it sounds kind of like it's, it's similar 'cause it's a, you know, you talked about using Canva, so that's kind of an artistic approach to the work that she'd be doing.
+
+[00:47:33] **Adam:** I have two kids. One of them I would say is, we haven't talked about it a whole lot, but I would say that they're kind of ambivalent about AI stuff, at least as much as I've heard. And then the other one, my older kid is more of an artist. She draws stuff, she does a little bit of painting and like anytime she sees me using AI, or anytime I mention that I made something with AI, she just, she just gets disgusted and like wants to leave the room.
+
+[00:47:55] **Tim:** Yeah. Same for my kids.
+
+[00:47:56] **Adam:** and like I'm not doing anything directly to her or, or I'm not even usually, doing anything art related. Like, I generated my profile picture. Right. And that was based on a selfie of me. I was like, here's a selfie of me, make it in the style of Rick and Morty or whatever. But like. I don't know.
+
+[00:48:13] **Adam:** Like, I, I get it and I think that honestly it's probably to some extent gonna do them good, right? Like our generation, I feel, I feel like the thing I'm most worried about is the brain rot, right? I feel like we're eager to give up these thing, these skills because we're a little bit later in our careers and it's like, okay, hey, cool, I can, I can take my foot off the gas, I can kind of relax and go on cruise control for a couple of years toward the end here.
+
+[00:48:37] **Adam:** and it's probably not doing us a service, like we mentioned last week. It's making us stupid and lazy and, like, I don't blame them for it. I think that the, the danger for them and for that attitude is that they're then going to end up in a situation where they don't have a choice, they have to use it, or, or the people who are do choose to use it are going to outpace them and, and do better and more work, which is, I don't know, you can take it philosophically in a bunch of different directions, but.
+
+[00:49:04] **Adam:** that's my worry is like I, I do think that they're avoiding the brain rot, which I think is great. It's healthy, but I also worry that they're not gonna have that tool in their tool belt when they need it.
+
+[00:49:13] **Tim:** right. They're gonna get out competed by people that have been using it.
+
+[00:49:16] **Adam:** Yeah.
+
+[00:49:17] **Carol:** Yeah, like for us, we were molded by the creation of the internet, right? Like everything we've been doing is new. Our kids have had phones in their pockets for how many years, right? So having technology at their fingertips isn't something that is new to them or even exciting. It's just an expectation. So I think it's easier for them to go.
+
+[00:49:38] **Carol:** I don't care. I just don't care. Like, if it's not providing for me right now, why do, why should I look into it? Like why should I, let that change how I'm going to like live my life?
+
+[00:49:48] **Tim:** Yeah. That's, that's a really good viewpoint, Carol. I, I didn't think of it that way. 'cause Yeah, like internet was extremely new. Like I was dialing up on a modem, right. And going, oh, machines can talk to each other. This is so cool.
+
+[00:49:58] **Adam:** Mm-hmm.
+
+[00:49:59] **Tim:** yeah. And so I see the next new cool thing. I'm like, this is gonna be, you know, I, I am assuming that what we're going through now with AI is gonna be as transformational as what the internet was.
+
+[00:50:11] **Tim:** In the late nineties, two thousands, maybe it is, maybe it isn't. They haven't had that experience that they've been, like you said, around Yeah, that's a really good takeaway.
+
+## [00:50:22] The Human Connection Problem
+
+[00:50:22] **Ben:** One thing that I'm surprised by when people are surprised by this is I'll hear them run some sort of little experiment where they take a piece of AI written prose or AI generated music, and they play it for a group of people and say, you know, did you like this? And they, oh yeah, this was really good. It was very catchy.
+
+[00:50:41] **Ben:** And they say, did you know this was generated by AI? And then the people who listen to it are like, oh, this is gross. I actually don't like it anymore. And people are surprised by that. And I'm like, how are you surprised by that? A human thought. They were connecting with another human through some sort of medium.
+
+[00:50:57] **Ben:** And then you said actually you've been connecting with a machine. Like of, we've all seen the, the movie Her. I think at this point there's the one pivotal, you know, spoiler alert here, it's 15 years old or whatever the spoiler alert, you know, he's deeply connected to the, to his os, whatever her name is.
+
+[00:51:15] **Ben:** I can't remember her name. And,
+
+[00:51:18] **Carol:** her.
+
+[00:51:19] **Ben:** no, the, the actress
+
+[00:51:21] **Tim:** Scarlet
+
+[00:51:21] **Ben:** Scarlet Johansson. Yeah. He's deeply connected to Scarlet Johansson. And then at one
+
+[00:51:26] **Tim:** wouldn't we all wanna be
+
+[00:51:27] **Ben:** he says, you know, are you talking to other people? And she says, yeah, and you know, how many other people are you talking to? And she's like, 10,642. And he's clearly crushed by this idea that the machine is talking to so many other people.
+
+[00:51:41] **Ben:** And on one hand you could be like, well, why is that affecting his relationship at all?
+
+[00:51:45] **Ben:** You are like, because he was connecting with somebody.so, so I'm just, I'm shocked anytime, anytime in, in the modern age when people are still surprised that humans want to connect with other humans. And when you rug pull or catfish them, so to speak, that they're bothered by that. And it, I, I don't know. I'm just, I just, I'm so befuddled by people who don't get that,
+
+[00:52:10] **Ben:** and I'm hoping that, we don't let AI take over everything. I, I, it's like I'll be listening to an interview and they say, oh, how great would it be to get on a, on a call? And your call is powered by AI. Like whoever wants to talk to a person, all they wanna do is get things done quick and efficiently.
+
+[00:52:27] **Ben:** And I'm like, yeah, in the most abstract way, that is true. But then you talk to anyone who actually gets on a call with people and you know, everyone's like, operator, operator, operator.
+
+[00:52:38] **Carol:** time I'm like, speak to a human. Uh,so with that, we've been looking for houses. So I've been calling up like agents and stuff, trying to figure out where we're gonna live. I called this one company and it's like, hi, I'm Amy, your virtual assistant. I'm like, let me speak to someone. She's like, where are you at?
+
+[00:52:56] **Carol:** I'm like, telling her. And she's like, okay, how can I help you? I'm like, let me speak to someone. And finally it sends me through to what's supposed to be another person like to talk to. And every response is, oh, that's wonderful. Hold on, lemme look at that. And I'm like, this isn't even another human. I'm so pissed off now.
+
+[00:53:15] **Carol:** And I hung up. I was like, I quit. I quit. I won't work with you. Don't give me another model to talk to you. I want a person.
+
+[00:53:22] **Tim:** But I mean, what if the person is like, obviously in like a call center in somewhere, you know, India, Pakistan, and you can't understand a word they say because that
+
+[00:53:32] **Carol:** sorry.
+
+[00:53:32] **Tim:** to
+
+[00:53:33] **Ben:** that is tough for sure.
+
+[00:53:35] **Carol:** At least I still get to feel like I'm talking to someone who's looking at data and, and exactly like what I wanna see.
+
+[00:53:41] **Adam:** I,
+
+[00:53:42] **Tim:** but but if I can't understand them,
+
+[00:53:44] **Adam:** exactly. I'm 50 50. The, the, the company that I use to refill my medication uses a call center overseas somewhere, and I feel like there's only two people that work there. I only ever talk to one of two people. Uh,but the, and, and I cannot understand either one of them. You know, like they ask me a question and it's the same, like nine questions they ask me every month when we call to, to refill my medication.
+
+[00:54:07] **Adam:** And still, I'm like, I don't understand what you're saying. Can you try again? Can you slow down? Or, or enunciate, or whatever it is. And it just makes me so mad, like not mad at the person. I'm not mad at them for having an accent, but like,
+
+[00:54:20] **Tim:** The company's so
+
+[00:54:21] **Adam:** I, I'm trying, I am, I'm active listening and I'm trying to make out what you're saying.
+
+[00:54:26] **Adam:** And I know that there's only like so many questions that could be right. And, and still I feel it. It just, it's like
+
+[00:54:34] **Ben:** It's, it's, it's embarrassing to have to say like five times. Sorry, can you repeat that? I, I feel self-conscious about it.
+
+[00:54:41] **Tim:** I do
+
+[00:54:41] **Carol:** do too. I always hate when I have to do that.
+
+[00:54:44] **Adam:** And you know, I, look, I, when the, the previous story when you were talking about, the real, the, the real estate agent like, you know, menu system and sort sending on to the next person, my first gut reaction was like, okay, what would I say to curse out this machine? I would be like, I will find where you live and I will come over there and I will unplug you.
+
+[00:55:01] **Adam:** Like,
+
+[00:55:02] **Carol:** I'll unplug you for sure.
+
+[00:55:04] **Adam:** right. but then, you know, but then Tim's Tim brought up the, like, would you rather talk to a person that you can't understand? Like, you know, honestly, I do think if I knew that those were the two choices I had, I would take the machine.
+
+[00:55:15] **Carol:** I take the person. Yeah.
+
+## [00:55:19] AI for the Elderly
+
+[00:55:19] **Tim:** So another area that, that AI in the street, I know Dan Wilson, we had him on the show, he's doing a new thing where he's trying to like, encourage people to have elderly people like, like people who are home bound, kind of like use AI to answer questions and to help them, you know, navigate their life in their, their senior years. Um,
+
+[00:55:43] **Tim:** which I think is a great idea. I just don't know if this, that. Generation Boomer is gonna adopt that. They just keep call, they just keep calling me.
+
+[00:55:55] **Carol:** same.
+
+[00:55:56] **Tim:** but maybe when I'm in my eighties, that's what I'll be doing. Although I take that back. My, so my father-in-law, my wife's dad father, he is like an AI guru. He's ridiculous. 84 years old, an absolute master using DeepSeek. So, so do it like building websites. And then he's like asking me questions and I'm like, he's really advanced.
+
+[00:56:16] **Tim:** I'm like this. That's pretty, it's how he keeps his youthful brain going. Just always has some challenge.
+
+[00:56:22] **Adam:** what's your middle name? Tim.
+
+[00:56:24] **Tim:** James.
+
+[00:56:25] **Adam:** So they're calling chat TJC?
+
+[00:56:28] **Tim:** There you go. There you go. chat. T-G-C-T-G-C. I like that. Yeah. Yeah. My parents do that. 'cause they, my dad is like the le the least technical person in the world. I, I had to, I was in my mid twenties when I learned the whole thing about righty tidy lefty Lucy for like. screws work and, and someone was like, how old are you?
+
+[00:56:48] **Tim:** And you don't know that. I'm like, my dad knows nothing about anything, mechanical, electrical, every, it's all magic to him. So,
+
+[00:56:57] **Adam:** Well, it's a good thing he didn't ever run into any meridians. I.
+
+[00:57:01] **Tim:** exactly.
+
+[00:57:03] **Ben:** speaking of the, of the, elderly, my wife had read some article probably in the New York
+
+[00:57:08] **Adam:** Oh, that's harsh to say about your wife.
+
+[00:57:10] **Carol:** Are you calling her old?
+
+[00:57:11] **Tim:** Oh wow.
+
+[00:57:13] **Ben:** no, that's not, you mis you mis understanding my words. She was reading an article about, an elderly woman who lived out, you know, in farm country or something, and she was of an age where most of her friends had already died and she wasn't super mobile, so even going to church wasn't something that she did a whole lot.
+
+[00:57:31] **Ben:** And I think it was her kids or her grandkids ended up getting her this little device that sticks in her home. It's like a little desktop robot or something. And it just, throughout the day, it'll ask her questions, you know, how you, how's it going, what's on your mind, anything you wanna talk about. And. I'm such of two minds about it because apparently this has completely changed this woman's life and she feels so much more alive and so much more engaged and fulfilled, which is amazing.
+
+[00:58:00] **Ben:** And I can't say anything bad about that. That sounds nothing but amazing. But part of me, if something about that feels so dystopian, this, like the only person that this woman
+
+[00:58:10] **Tim:** Very black mirror.
+
+[00:58:11] **Ben:** with is a, a machine.
+
+[00:58:13] **Carol:** Yeah.
+
+[00:58:14] **Ben:** Oh, it's, I'm, I feel good and bad for her at the same
+
+[00:58:18] **Tim:** It, it's, it's kinda like the horror movies where you see the guy dressed in a dress, talking, having a tea party with all the dolls in the attic. You're like, something bad's gonna happen. It's kinda like, that's kinda like, you're not talking to real things, dude.
+
+[00:58:33] **Ben:** I know. And then I feel bad for feeling judgmental. Oh,
+
+[00:58:39] **Tim:** Hmm.
+
+[00:58:41] **Ben:** I, I'm, yeah, I've noticed that. I don't hear people generally. Talking about AI outside of the tech world, when I'm just out about in the world, I don't hear people talking about it.
+
+[00:58:57] **Tim:** I don't either.
+
+[00:58:58] **Adam:** It comes up not a lot, but occasionally at the drop zone. Like my skydiving buddies are talking about it and very few of them write code.
+
+[00:59:07] **Tim:** Yeah. When I explain to people, like at church who like, you know, they're, they're not in the tech world at all, kind of what's going on and my fears and concerns about, they're just like, they look at me like I'm one, I'm strange and I am, so I admit that, but two, they're like, it's almost a sense of disbelief.
+
+[00:59:24] **Tim:** Like I'm overblowing it and maybe I am, but it's like one day there's gonna be a day of reckoning, and I don't know which side you're gonna be on, but at least I feel like I'm prepared.
+
+[00:59:38] **Adam:** Alright, well let's, uh, let's go ahead and wrap it up there.
+
+## [00:59:41] Patreon
+
+[00:59:41] **Adam:** so this episode of Working Code was brought to you by having two copies of Microsoft Outlook installed on your machine. You know, if that's you, good luck, take some good pictures of the moon while you're there.
+
+[00:59:50] **Adam:** And listeners like you, if you are enjoying the show and you wanna make sure that we can keep putting more of whatever this is out into the universe, you should consider supporting us on Patreon. Our patrons cover our recording, editing and transcription costs, and we couldn't do this every week without them.
+
+[01:00:04] **Adam:** Special thanks of course. As always, to our top patron, Monte, you rock. And yeah. thanks for your longtime support.
+
+## [01:00:12] Thanks For Listening!
+
+[01:00:12] **Adam:** we are gonna go record the after show, which is the thing that I tell you about at this point of the show every week. Basically the outro music plays. Some of you will stick around and continue listening 'cause we got some more stuff to talk about.
+
+[01:00:23] **Adam:** so, we're gonna talk more about AI, it looks like, and, A 30-year-old mix tape. Hmm. That sounds interesting. I think I know where that's going. but anyway, uh, if you wanna get, uh, content like that, You can go to `patreon.com/workingcodepod`,
+
+[01:00:36] **Adam:** throw a few dollars our way, and we will throw a few podcasts your way. That's how that works. Like for like. Anyway, that's gonna do it for us this week.
+
+[01:00:46] **Adam:** We'll catch you again next week and until then,
+
+[01:00:48] **Tim:** Hey listeners, remember your listeners in the streets and contributors in the Excel sheets. Your heart matters.
