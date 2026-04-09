@@ -1,12 +1,18 @@
 ---
-title: "254: Claudependent"
-description: "When the tool handles more and more of the thinking, what does that do to the person using it?"
-date: 2026-04-02
+title: "255: AI in the Streets"
+description: "You spend all day steering AI through code. Then you step outside and it's steering everything else."
+date: 2026-04-09
 ---
 
-<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/254-claudependent/id1544142288?i=1000758827899"></iframe>
+<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b98c8b29-f9a1-433a-95ce-4ae5cd6ccb5f"></script>
+<div class="redcirclePlayer-b98c8b29-f9a1-433a-95ce-4ae5cd6ccb5f"></div>
 
-The productivity gains are real. So is the nagging feeling that something else might be happening. The crew use AI every day, and this week they sit with a question they can't quite shake: when the tool handles more and more of the thinking, what does that do to the person using it?
+You spend all day steering AI through code. Then you step outside and it's steering everything else. AI is listening to therapy sessions and suggesting treatments to your therapist. Your spouse is arguing with a chatbot about where Savannah, Georgia is. You call a company for help and get handed from one AI pretending to be human to another AI pretending to be human. The crew has been noticing it everywhere, and this week they compare notes on what it actually feels like when AI stops being a tool you chose and starts being a thing that just happens to you.
+
+Links mentioned in the show:
+
+- [hairstyles.net](https://hairstyles.net)
+- [RunPee.com](https://runpee.com)
 
 Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Thursday.
 
@@ -17,7 +23,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/254-claudependent.md
+[github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/255-ai-in-the-streets.md
 
 ---
 
