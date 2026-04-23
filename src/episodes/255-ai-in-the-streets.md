@@ -4,8 +4,7 @@ description: "You spend all day steering AI through code. Then you step outside 
 date: 2026-04-09
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b98c8b29-f9a1-433a-95ce-4ae5cd6ccb5f"></script>
-<div class="redcirclePlayer-b98c8b29-f9a1-433a-95ce-4ae5cd6ccb5f"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/255-ai-in-the-streets/id1544142288?i=1000760440349"></iframe>
 
 You spend all day steering AI through code. Then you step outside and it's steering everything else. AI is listening to therapy sessions and suggesting treatments to your therapist. Your spouse is arguing with a chatbot about where Savannah, Georgia is. You call a company for help and get handed from one AI pretending to be human to another AI pretending to be human. The crew has been noticing it everywhere, and this week they compare notes on what it actually feels like when AI stops being a tool you chose and starts being a thing that just happens to you.
 
