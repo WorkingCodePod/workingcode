@@ -4,8 +4,7 @@ description: "It's 11:30 PM and you're still prompting. The code is better than 
 date: 2026-04-23
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/b25d2fc1-e892-4406-8fca-1417895c2fe1"></script>
-<div class="redcirclePlayer-b25d2fc1-e892-4406-8fca-1417895c2fe1"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/256-the-productivity-trap-how-optimizing-everything/id1544142288?i=1000763230939"></iframe>
 
 It's 11:30 PM and you're still prompting. The code is better than anything you'd have shipped a year ago. The output is prolific, the roadmap is moving, the tooling is miraculous. So why are you still here at 11:30 PM? This week is an honest conversation about the strange shape of burnout in the AI era — the productivity that keeps compounding, the bar that keeps rising right along with it, and the quiet feeling that somewhere in the last year the craft stopped feeling quite like yours.
 
