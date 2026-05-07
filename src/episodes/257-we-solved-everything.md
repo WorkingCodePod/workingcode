@@ -4,8 +4,7 @@ description: "In this episode we attempt to solve all the worlds problems."
 date: 2026-04-30
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/9b903b35-0c1a-4a10-9f04-e8472326fc51"></script>
-<div class="redcirclePlayer-9b903b35-0c1a-4a10-9f04-e8472326fc51"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/257-we-solved-everything/id1544142288?i=1000764711932"></iframe>
 
 "We have solved all of the world's problems." Observability past the point where more logs stop helping, continuous deployment when the customer is the federal government and the change-management board is a real room with real people in it, JSON's loose schema as a load-bearing feature rather than a quirk to apologise for, and the awkward question of who actually owns the code you wrote on a work-issued machine.
 
