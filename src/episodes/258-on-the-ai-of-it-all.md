@@ -4,8 +4,7 @@ description: "This week is an honest conversation about the hypocrite's bind: ne
 date: 2026-05-07
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/bdea1e7d-f702-49e4-93cb-672d3ee46801"></script>
-<div class="redcirclePlayer-bdea1e7d-f702-49e4-93cb-672d3ee46801"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/258-on-the-ai-of-it-all/id1544142288?i=1000766677823"></iframe>
 
 Adam wrote a blog post this week about why AI keeps making him feel worse. This week is an honest conversation about the hypocrite's bind: needing to use the thing you recognize the harm of, and what that does to you.
 
