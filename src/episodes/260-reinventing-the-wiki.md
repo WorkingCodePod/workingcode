@@ -4,8 +4,7 @@ description: "This week is about patterns for co-maintaining a personal wiki wit
 date: 2026-05-21
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/d46b0404-d4c9-45af-9e77-cd6624e5ee10"></script>
-<div class="redcirclePlayer-d46b0404-d4c9-45af-9e77-cd6624e5ee10"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/260-reinventing-the-wiki/id1544142288?i=1000769266931"></iframe>
 
 What's the point of a personal wiki when AI agents have already read the entire internet? This week is about patterns for co-maintaining a personal wiki with an AI agent, and where its job ends and yours begins.
 
