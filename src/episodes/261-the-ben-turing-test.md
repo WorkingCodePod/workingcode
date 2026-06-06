@@ -4,8 +4,7 @@ description: "Adam trained an AI on twenty years of Ben's blog, then asked Ben t
 date: 2026-05-28
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/1b5b6a08-e1b3-4d14-aff1-5fcd5fda65b2"></script>
-<div class="redcirclePlayer-1b5b6a08-e1b3-4d14-aff1-5fcd5fda65b2"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/261-the-ben-turing-test/id1544142288?i=1000769998858"></iframe>
 
 Adam trained an AI on twenty years of Ben's blog, then asked Ben to pick his own words out of a lineup of forgeries. This week the hosts play a game of Ben or Bot, and you can play along too!
 
