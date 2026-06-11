@@ -4,8 +4,7 @@ description: "This week is the quiet worry underneath all the productivity gains
 date: 2026-06-04
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/0c732e26-0038-450f-8395-6e088387e8c7"></script>
-<div class="redcirclePlayer-0c732e26-0038-450f-8395-6e088387e8c7"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/262-zen-and-the-art-of-ai-driven-maintenance/id1544142288?i=1000771470155"></iframe>
 
 This week is the quiet worry underneath all the productivity gains: that every time you hand the boring work to a machine, you're handing over a little of the curiosity that made you good at the work you care about, until one day the well of ideas just runs dry.
 
