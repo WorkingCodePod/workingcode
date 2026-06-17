@@ -4,8 +4,7 @@ description: "This week is a conversation about what software craftsmanship even
 date: 2026-06-11
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/c1f79016-9b2a-4467-8708-fcb6014dfbd3"></script>
-<div class="redcirclePlayer-c1f79016-9b2a-4467-8708-fcb6014dfbd3"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/263-intimacy-with-the-code/id1544142288?i=1000772192457"></iframe>
 
 Getting unstuck has gotten so cheap that Ben can't remember the last time he actually learned something at work — and the struggle he's skipping was where knowing the code, and caring about it, used to come from. This week is a conversation about what software craftsmanship even means anymore, when the tools are happy to do the caring for you.
 
