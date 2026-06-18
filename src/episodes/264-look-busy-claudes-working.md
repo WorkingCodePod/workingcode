@@ -1,13 +1,13 @@
 ---
 title: "264: Look Busy, Claude's Working"
-description: "This week is an honest conversation about the strange new shape of the job: the guilt of all that dead time, and the quieter loss underneath it — you got into this to create code, but more and more you find yourself reviewing."
+description: "The promise was that AI would take the grunt work off your plate and leave you the good stuff. This week is the part no one advertised."
 date: 2026-06-18
 ---
 
 <script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/cdef771d-df33-4cd0-8fd6-80b43c46841a"></script>
 <div class="redcirclePlayer-cdef771d-df33-4cd0-8fd6-80b43c46841a"></div>
 
-You kick off the agent and then you wait — could be three minutes, could be twenty-five — and the work is happening, just not by you. This week is an honest conversation about the strange new shape of the job: the guilt of all that dead time, and the quieter loss underneath it — you got into this to create code, but more and more you find yourself reviewing.
+The promise was that AI would take the grunt work off your plate and leave you the good stuff. This week is the part no one advertised: you got into this to make things — but what comes instead is the restless guilt of sitting there with nothing to do while the agent works, and the slow realization that when it finishes, the job left for you is mostly reviewing.
 
 Follow the show and be sure to [join the discussion on Discord][working-code-discord]! Our website is [workingcode.dev][working-code] and we're [@workingcode.dev on Bluesky](https://bsky.app/profile/workingcode.dev). New episodes drop weekly on Thursday.
 
