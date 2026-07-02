@@ -4,8 +4,7 @@ description: "The promise was that AI would take the grunt work off your plate a
 date: 2026-06-18
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/cdef771d-df33-4cd0-8fd6-80b43c46841a"></script>
-<div class="redcirclePlayer-cdef771d-df33-4cd0-8fd6-80b43c46841a"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/264-look-busy-claudes-working/id1544142288?i=1000773250507"></iframe>
 
 The promise was that AI would take the grunt work off your plate and leave you the good stuff. This week is the part no one advertised: you got into this to make things — but what comes instead is the restless guilt of sitting there with nothing to do while the agent works, and the slow realization that when it finishes, the job left for you is mostly reviewing.
 
