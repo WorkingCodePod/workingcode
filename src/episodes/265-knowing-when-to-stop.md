@@ -4,8 +4,7 @@ description: "Eighteen weeks ago Adam handed his decade-old ORM layer to an AI a
 date: 2026-07-02
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/E6e2e66a5-39c5-43b8-8ae1-bb0f2848e198"></script>
-<div class="redcirclePlayer-E6e2e66a5-39c5-43b8-8ae1-bb0f2848e198"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/265-knowing-when-to-stop/id1544142288?i=1000775166313"></iframe>
 
 Eighteen weeks ago Adam handed his decade-old ORM layer to an AI agent. This week he kills the whole refactor — and the feeling that comes isn't regret, it's relief. Somewhere in the grind he realized he'd only ever weighed two options, push through or admit defeat, and both assumed he had to see it to the end. This week is about sunk cost — how being partway down a road can convince you that you owe it the rest of the way, and how freeing it is to decide you don't.
 
