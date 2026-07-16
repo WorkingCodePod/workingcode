@@ -4,8 +4,7 @@ description: "A year on from our episode on the value of friction, the crew are 
 date: 2026-07-09
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/0365a23a-a604-4b9a-8634-ff8e21bdc042"></script>
-<div class="redcirclePlayer-0365a23a-a604-4b9a-8634-ff8e21bdc042"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/266-strugglemaxing/id1544142288?i=1000776101657"></iframe>
 
 They say history doesn't repeat itself, it rhymes, and apparently so do show topics. A year on from our episode on the value of friction, the crew are back to discuss value of struggle. The question this time: now that AI will cheerfully do the hard part for you, which struggles are worth keeping, and which you can finally hand off?
 
