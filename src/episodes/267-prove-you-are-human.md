@@ -4,8 +4,7 @@ description: "Tim is trying to hire remote developers, but the interviews have s
 date: 2026-07-16
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/a4117-0fd7-457b-91cb-4f75bb3c52bd"></script>
-<div class="redcirclePlayer-a4117-0fd7-457b-91cb-4f75bb3c52bd"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/267-prove-you-are-human/id1544142288?i=1000777043214"></iframe>
 
 Tim is trying to hire remote developers, but the interviews have started to feel like one long CAPTCHA. Before he can decide who's right for the job, he has to figure out whether he's interviewing the candidate or ChatGPT. This week the hosts discuss the state of remote developer interviews in the AI era.
 
