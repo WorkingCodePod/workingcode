@@ -4,8 +4,7 @@ description: "Nobody went to those conferences for the talks. You went for the h
 date: 2026-07-31
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/e52b182e-60a3-46d6-8d89-19c549f86137"></script>
-<div class="redcirclePlayer-e52b182e-60a3-46d6-8d89-19c549f86137"></div>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/268-nobody-wants-to-meet-up-anymore/id1544142288?i=1000779334475"></iframe>
 
 Nobody went to conferences for the talks. You went for the hallway, and for a roomful of people who'd made the same odd career bet you had. We didn't know how good we had it. COVID hit, AI is now everyone's best buddy, and now all these meetups and spaces are slowly disappearing. This week the hosts go looking for what's left of the developer hang.
 
