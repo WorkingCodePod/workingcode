@@ -4,8 +4,14 @@ description: "This week, the hosts respond to a question from the State of Devs 
 date: 2026-08-06
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/089aca3c-bec1-455a-bf8b-0c0149b4403a"></script>
-<div class="redcirclePlayer-089aca3c-bec1-455a-bf8b-0c0149b4403a"></div>
+<iframe
+	allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
+	frameborder="0"
+	height="175"
+	style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;"
+	sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+	src="https://embed.podcasts.apple.com/us/podcast/269-the-ai-anxiety-draft/id1544142288?i=1000780227340"
+></iframe>
 
 Worrying about AI is the easy part. Everyone already has a list. The interesting part is what lands on it, what doesn't, and why. From military use, to an AI slop takeover, to the possibility that the tools are making us stupider.
 
@@ -27,7 +33,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 [working-code]: https://workingcode.dev/
 [working-code-discord]: https://workingcode.dev/discord/
 [working-code-patreon]: https://www.patreon.com/workingcodepod
-[github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/269-claude-fishing-season.md
+[github]: https://github.com/WorkingCodePod/workingcode/blob/main/src/episodes/269-the-ai-anxiety-draft.md
 
 ---
 
