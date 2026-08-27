@@ -4,8 +4,14 @@ description: "We're back after a week off and we have some things to get off our
 date: 2026-08-20
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/0fb7353d-c6a7-4bf7-b829-928402445ac0"></script>
-<div class="redcirclePlayer-0fb7353d-c6a7-4bf7-b829-928402445ac0"></div>
+<iframe
+	allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
+	frameborder="0"
+	height="175"
+	style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;"
+	sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+	src="https://embed.podcasts.apple.com/us/podcast/270-hot-takes-on-hot-takes/id1544142288?i=1000784559278"
+></iframe>
 
 We're back after a week off and we have some things to get off our chest. Carol's agent doesn't understand auth, Ben explores the nature of performative coding, Adam agreed that meetings are for decisions, then spent two hours writing an email to prove it, and Tim's AI is better than yours. This week we have a grab bag of hot takes and hot takes on hot takes.
 
