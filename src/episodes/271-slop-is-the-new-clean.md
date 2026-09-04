@@ -4,8 +4,14 @@ description: "You read code ten times for every time you write it, so you'd bett
 date: 2026-08-27
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/976969c9-20b4-4738-b04e-d1a61696aeb0"></script>
-<div class="redcirclePlayer-976969c9-20b4-4738-b04e-d1a61696aeb0"></div>
+<iframe
+	allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
+	frameborder="0"
+	height="175"
+	style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;"
+	sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+	src="https://embed.podcasts.apple.com/us/podcast/271-slop-is-the-new-clean/id1544142288?i=1000786257538"
+></iframe>
 
 Uncle Bob wrote the book on clean code, and the whole argument rests on one number: you read code ten times for every time you write it, so you'd better make it readable. His agents write it now, and he doesn't read a line. This week we discuss who clean code is for now that machines are the ones reading it.
 

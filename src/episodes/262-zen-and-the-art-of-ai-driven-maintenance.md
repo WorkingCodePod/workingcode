@@ -152,7 +152,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:12:18] And, um I finally got it in place, and it seems to be working really well. So it took me a week or two to get there, but I'm happy I got there
 
-[00:12:27] **Adam:** So not to be shitty,
+[00:12:27] **Adam:** So not to be s****y,
 
 [00:12:28] **Ben:** No,
 

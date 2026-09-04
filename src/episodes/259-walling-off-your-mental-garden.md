@@ -1103,7 +1103,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:54:59] **Adam:** Parasocial, yeah
 
-[00:55:00] **Ben:** relationship where we're still kind of unidirectionally consuming information, but that information is changing over time. So it becomes, mm, you know, is there a slippery slope? Is there a, you know, someone getting their foot in the door and then slowly poisoning you? Then there is the, okay, and now we live in another world where people are watching the things that we do, whether in person or on social media, and how do we play that role in a way that is best, for lack of a better term? And I'm gonna throw out an example that, that drives me crazy. And again, this is a personal thing. Everyone is different. To each their own. This is just to make it concrete. I think is crazy. I think he's batshit crazy. I think he does a lot of crazy
+[00:55:00] **Ben:** relationship where we're still kind of unidirectionally consuming information, but that information is changing over time. So it becomes, mm, you know, is there a slippery slope? Is there a, you know, someone getting their foot in the door and then slowly poisoning you? Then there is the, okay, and now we live in another world where people are watching the things that we do, whether in person or on social media, and how do we play that role in a way that is best, for lack of a better term? And I'm gonna throw out an example that, that drives me crazy. And again, this is a personal thing. Everyone is different. To each their own. This is just to make it concrete. I think is crazy. I think he's bat**** crazy. I think he does a lot of crazy
 
 [00:55:50] **Adam:** you're talking about RFK Jr.?
 
@@ -1135,7 +1135,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:57:13] **Ben:** No, that's, but that's the thing that they take away, right? And then in a totally different scenario, they go and they hear RFK Jr. say something like, "Oh, wouldn't it be great if we, you know, stopped teaching kids how to read?"
 
-[00:57:27] I don't know, like something batshit crazy.
+[00:57:27] I don't know, like something bat**** crazy.
 
 [00:57:29] **Tim:** Yeah.
 

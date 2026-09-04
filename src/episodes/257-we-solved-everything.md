@@ -217,7 +217,7 @@ With audio editing and engineering by [ZCross Media](https://www.zcross.media/).
 
 [00:09:38] **Ben:** you ever hear anyone say anything to the, effect of it puts the lotion on the skin or else it gets the hose again, that's from this movie.
 
-[00:09:46] **Carol:** shit, that sounds awful.
+[00:09:46] **Carol:** ****, that sounds awful.
 
 [00:09:47] **Ben:** Yeah.
 

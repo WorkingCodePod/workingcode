@@ -12,7 +12,7 @@ The hosts dig into the unsettling parallels between today's LLM plugin ecosystem
 
 ### Links
 
-- [Adam's Dotfiles Blog Post][adam-dotfiles] - Getting his shit together with dotfiles, Brewfile, and 1Password SSH agent
+- [Adam's Dotfiles Blog Post][adam-dotfiles] - Getting his s**t together with dotfiles, Brewfile, and 1Password SSH agent
 - [CF Community LLM Marketplace][cf-marketplace] - Adam's community marketplace for CFML-related Claude skills
 - [Steve Yegge's Google Platforms Rant][yegge-rant] - The infamous accidentally-public Google+ post
 - [Vibe Coding by Gene Kim & Steve Yegge][vibe-coding] - The audiobook Ben's been enjoying
