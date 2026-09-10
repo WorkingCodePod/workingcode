@@ -4,8 +4,14 @@ description: "Can a model ever bring a career's worth of experience to a decisio
 date: 2026-09-03
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/969dd4ae-3f5c-4159-8005-cb88b3df6048"></script>
-<div class="redcirclePlayer-969dd4ae-3f5c-4159-8005-cb88b3df6048"></div>
+<iframe
+	allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
+	frameborder="0"
+	height="175"
+	style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;"
+	sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+	src="https://embed.podcasts.apple.com/us/podcast/272-let-me-prompt-that-for-you/id1544142288?i=1000787886735"
+></iframe>
 
 LLMs have read everything, but they haven't spent fifteen years at the company learning which rules actually matter. Can a model ever bring a career's worth of experience to a decision, or is human wisdom overrated to begin with? And now that every answer starts with "let me ask Claude", are we really more productive than ever, or have we all just hired a ghostwriter? This week we discuss the abdication of opinion.
 
