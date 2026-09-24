@@ -4,8 +4,14 @@ description: "This week the hosts answer listener questions on ethical lines, ca
 date: 2026-09-10
 ---
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/30227421-bc27-45c2-bfb4-861def7dd4cc/ep/41311ce1-9e8d-4709-bf00-cd9cca3749ea"></script>
-<div class="redcirclePlayer-41311ce1-9e8d-4709-bf00-cd9cca3749ea"></div>
+<iframe
+	allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write"
+	frameborder="0"
+	height="175"
+	style="width:100%;max-width:900px;overflow:hidden;border-radius:10px;"
+	sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+	src="https://embed.podcasts.apple.com/us/podcast/273-ethical-lines-and-career-crossroads-listener-questions/id1544142288?i=1000788833009"
+></iframe>
 
 What would you do if your manager asked you to make the audit trail editable? Why would Carol rather be evil? And would you still want to be a software engineer in five years, or is it finally time to buy the ice cream truck? This week the hosts answer listener questions on ethical lines, career pivots, and the future of software engineering.
 
